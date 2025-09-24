@@ -7,7 +7,20 @@
     <title>Using OpenLayers with Vite</title>
   </head>
   <body>
-    <div id="map"></div>
+    <div id="map">
+      <div id="popup"></div>
+    </div>
+    <div id ="map-info">
+      <div id="info-header">
+        <h3 class="info-text">Location:</h3>
+        <h3 id="selected-location">None Selected</h3>
+      </div>
+    <div class="article-list" id="article">
+      <ul id="articleList">
+
+      </ul>
+    </div>
+    </div>
     <script type="module" src="./main.js"></script>
   </body>
 </html>
