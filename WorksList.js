@@ -1,5 +1,50 @@
 import * as d3 from "d3";
 
+
+export function makeModal(){
+    
+    let modalContent = d3.select("#modalRoot").append("div")
+     
+    modalContent.attr("id", "modalContent")
+    let modalHeader = modalContent.append("div")
+    modalHeader.attr("id", "modalHeader")
+    
+    let closeButton = modalHeader.append("span").text("X")
+    closeButton.attr("id", "closeButton")
+    closeButton.on("click", closeMoreInfo);
+    closeButton.style("cursor", "pointer");
+
+
+    modalHeader.append("h3") //Title
+               .attr("id", "articleTitle");
+    let modalBody = modalContent.append("div")
+    modalBody.attr("id", "modalBody")
+
+    modalBody.append("span") //Abstract
+             .style("font-weight", "bold")
+             .text("Abstract");
+    modalBody.append("div")
+             .attr("id", "abstractBody")
+
+
+    modalBody.append("span") //authors
+             .style("font-weight", "bold")
+             .text("Author(s)");
+    modalBody.append("div")
+             .attr("id", "authorBody")
+    
+    
+    let modalFooter = modalContent.append("div") //DOI
+    modalFooter.attr("id", "modalFooter")
+    modalFooter.append("span")
+               .style("font-weight", "bold")
+               .text("DOI: ")
+    modalFooter.append("a")
+               .attr("id", "doiLink")
+               .attr("target", "_blank"); //clicking on the DOI will open it in another tab
+
+}
+
 export function updateScrollable(location_relation, works){
     console.log(location_relation)
     let currentLocations = []
@@ -13,7 +58,7 @@ export function updateScrollable(location_relation, works){
     });
     let list = d3.selectAll("#articleList")
     list.selectAll("*").remove()
-    currentLocations.forEach(work =>{
+    new Set(currentLocations).forEach(work =>{
         makeEntry(work, list)
     })
     
@@ -23,6 +68,7 @@ export function updateScrollable(location_relation, works){
 
 function makeEntry(element, list){
         let entry = list.append("li")
+        entry.attr("class", "work-entry")
         let temp = entry.append("div")
         temp.attr("class", "articleWrapper")
         let number = temp.append("div")
@@ -109,4 +155,34 @@ function makeEntry(element, list){
             
         }
 
+}
+
+function showMoreInfo(element){
+     d3.select("#articleTitle").text(element.display_name)
+
+    if(element.ab === undefined){
+        d3.select("#abstractBody").text("No abstract found.")
+    }else{
+        d3.select("#abstractBody").text(element.ab)
+    }
+    
+
+    let authors = ""
+    element.author.forEach((a) =>{
+        authors += a.au_display_name + ", "
+    })
+    d3.select("#authorBody").text(authors)
+
+    d3.select("#doiLink").text(element.doi)
+                         .attr("href", element.doi);
+
+
+    d3.select(".modal").style("display", "block")
+    d3.select(".modal").transition().style("opacity", 1.0)
+}
+
+
+function closeMoreInfo(){
+    d3.select(".modal").transition().style("opacity", 0.0)
+    d3.select(".modal").style("display", "none")
 }

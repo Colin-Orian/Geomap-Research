@@ -11,15 +11,8 @@ import {Feature} from 'ol';
 import { useGeographic } from 'ol/proj';
 
 import {readAllData} from "/readData";
-import { updateScrollable } from './WorksList';
+import { updateScrollable, makeModal } from './WorksList';
 import * as d3 from "d3";
-
-d3.select("#map").append("text").text("hello");
-
-
-
-
-
 
 useGeographic()
 //const longitude = 75.7003;
@@ -75,7 +68,7 @@ readAllData(location_file, works_file, location_to_works_file).then(d =>{
       }
   })
 
-  
+  makeModal()
 
   const map = new Map({
     target: 'map',
@@ -99,6 +92,8 @@ readAllData(location_file, works_file, location_to_works_file).then(d =>{
   })
 
   map.addOverlay(popup)
+  
+
 
   let popover
   map.on('click', function(event){
