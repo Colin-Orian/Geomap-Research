@@ -9,10 +9,16 @@ import VectorLayer from 'ol/layer/Vector';
 import VectorSource from 'ol/source/Vector';
 import {Feature} from 'ol';
 import { useGeographic } from 'ol/proj';
-
+import { transform } from 'ol/proj';
+import { LineString } from 'ol/geom';
 import {readAllData} from "/readData";
+import { Vector } from 'ol/source';
+import {Style} from "ol/style";
+import {Stroke} from "ol/style";
 import { updateScrollable, makeModal } from './WorksList';
+import { updateAuthorList } from './AuthorList';
 import * as d3 from "d3";
+import Fill from 'ol/style/Fill';
 
 useGeographic()
 //const longitude = 75.7003;
@@ -37,16 +43,20 @@ const can = [can_long, can_lat]
 const location_file = "./data/entity_coord_relation.json";
 const works_file = "./data/works.json";
 const location_to_works_file = "./data/location_to_works.json";
+const all_insitutions = "./data/all_insitutions.json";
+const work_to_insitutions = "./data/work_to_instution.json";
 const tileLayer = new TileLayer({source: new OSM()})
 
-readAllData(location_file, works_file, location_to_works_file).then(d =>{
+readAllData(location_file, works_file, location_to_works_file, all_insitutions, work_to_insitutions).then(d =>{
   const allData = {}
   allData.lat_long = d[0]
   allData.works = d[1]
   allData.location_relation = d[2]
+  allData.all_insitutions = d[3]
+  allData.work_to_insitutions = d[4]
   console.log(allData);
   const points = make_pins(allData.lat_long)
-  console.log(points)
+  
 
   const pins = points.map(entry =>{
     const temp = [entry[2], entry[1]];
@@ -55,7 +65,15 @@ readAllData(location_file, works_file, location_to_works_file).then(d =>{
     feature.setId(entry[0])
     return feature
   })
-  console.log(pins)
+
+  const instution_pins = allData.all_insitutions.map(entry =>{
+    const temp = [entry['longitude'], entry['latitude']]
+    var feature = new Feature(new Point(temp))
+    feature.setId(entry['id'])
+
+    return feature
+  })
+
   const vectorLayer = new VectorLayer({
     source: new VectorSource({
       //features: [new Feature(point), new Feature(new Point([0, 0]))],
@@ -68,6 +86,22 @@ readAllData(location_file, works_file, location_to_works_file).then(d =>{
       }
   })
 
+  const instutition_vectorLayer = new VectorLayer({
+    source: new VectorSource({
+      features: instution_pins
+    }),
+
+    style: {
+      "circle-radius": 9,
+      "circle-fill-color": "blue"
+    }
+  });
+  
+  var locations = [[60.10867, -113.64258], [0, 0]];
+
+
+
+
   makeModal()
 
   const map = new Map({
@@ -75,7 +109,11 @@ readAllData(location_file, works_file, location_to_works_file).then(d =>{
     layers: [
       tileLayer,
 
-      vectorLayer
+      vectorLayer,
+
+      instutition_vectorLayer,
+      
+     
     ],
     view: new View({
       center: can,
@@ -94,7 +132,6 @@ readAllData(location_file, works_file, location_to_works_file).then(d =>{
   map.addOverlay(popup)
   
 
-
   let popover
   map.on('click', function(event){
     if(popover){
@@ -105,9 +142,11 @@ readAllData(location_file, works_file, location_to_works_file).then(d =>{
     if(!feature){
       return
     }
-    console.log(feature.id_)
     d3.select("#selected-location").text(feature.id_)
+    d3.select("#selected-location-author").text(feature.id_)
+
     updateScrollable(allData.location_relation[feature.id_], allData.works)
+    updateAuthorList(allData.location_relation[feature.id_], allData.works)
   });
 })
 
@@ -119,4 +158,9 @@ function make_pins(lat_long_data){
     }
   }
   return data
+}
+
+
+function drawLines(start, end){
+
 }

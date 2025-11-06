@@ -46,7 +46,7 @@ export function makeModal(){
 }
 
 export function updateScrollable(location_relation, works){
-    console.log(location_relation)
+    
     let currentLocations = []
     location_relation.forEach(element => {
         works.some(work =>{

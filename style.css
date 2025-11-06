@@ -34,6 +34,16 @@ html, body {
   
 }
 
+#author-container{
+    display: table-cell;
+    position: fixed;
+    left: 51%;
+    top: 55%;
+    border-color: navy;
+    border-style: solid;
+    width: 50%;
+}
+
 #info-header{
   background-color: cadetblue;
 }
@@ -42,7 +52,6 @@ html, body {
 li + li{
     margin-top: 10px;
 }
-
 
 
 .work-entry{
@@ -94,6 +103,11 @@ ul{
 
 #article-list{
   background-color: cadetblue;
+}
+
+
+#author-list{
+    background-color: cadetblue;
 }
 .yearInfo{
     position:relative;
