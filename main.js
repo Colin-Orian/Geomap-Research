@@ -10,15 +10,17 @@ import VectorSource from 'ol/source/Vector';
 import {Feature} from 'ol';
 import { useGeographic } from 'ol/proj';
 import { transform } from 'ol/proj';
-import { LineString } from 'ol/geom';
+import { LineString, MultiLineString } from 'ol/geom';
 import {readAllData} from "/readData";
 import { Vector } from 'ol/source';
 import {Style} from "ol/style";
 import {Stroke} from "ol/style";
+
 import { updateScrollable, makeModal } from './WorksList';
 import { updateAuthorList } from './AuthorList';
 import * as d3 from "d3";
 import Fill from 'ol/style/Fill';
+import { CanvasLayer } from './canvasLayer';
 
 useGeographic()
 //const longitude = 75.7003;
@@ -45,17 +47,20 @@ const works_file = "./data/works.json";
 const location_to_works_file = "./data/location_to_works.json";
 const all_insitutions = "./data/all_insitutions.json";
 const work_to_insitutions = "./data/work_to_instution.json";
+const multiLine_file = "./data/multi_line_string.json"
 const tileLayer = new TileLayer({source: new OSM()})
 
-readAllData(location_file, works_file, location_to_works_file, all_insitutions, work_to_insitutions).then(d =>{
+readAllData(location_file, works_file, location_to_works_file, all_insitutions, work_to_insitutions, multiLine_file).then(d =>{
   const allData = {}
   allData.lat_long = d[0]
   allData.works = d[1]
   allData.location_relation = d[2]
   allData.all_insitutions = d[3]
   allData.work_to_insitutions = d[4]
+  allData.multiLine = d[5]
   console.log(allData);
   const points = make_pins(allData.lat_long)
+  
   
 
   const pins = points.map(entry =>{
@@ -72,6 +77,57 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
     feature.setId(entry['id'])
 
     return feature
+  })
+
+  //let multi_line_string = new MultiLineString(allData.multiLine.coordinates)
+  /*
+  const canvasLayer = new CanvasLayer({
+    feature: allData.multiLine
+  })*/
+  
+
+  const converted_line = allData.multiLine.coordinates.map(entry =>{
+    const startPoint = [entry[0][1], entry[0][0]]
+    const endPoint = [entry[1][1], entry[1][0]]
+
+    return [startPoint, endPoint]
+  })
+
+  console.log(converted_line)
+  let multi_line_string = new MultiLineString(converted_line)
+  
+  
+  /*let multi_line_string = new LineString([
+    //[45.56, -76.37],
+    [-76.37, 45.56 ],
+    //[32.84, -117.27]
+    [-117.27, 32.84]
+  ])*/
+
+
+  let feature_style = new Style({
+    stroke: new Style({
+      color: 'rgba(36, 19, 111, 1)',
+      width: 10
+    })
+  })
+
+  console.log(multi_line_string)
+  //let multi_feature = new Feature({multi_line_string})
+
+  let multi_feature = new Feature({
+    geometry: multi_line_string,
+    style: feature_style
+  })
+
+  
+  //multi_feature.setStyleFunction(feature_style);
+  console.log(multi_feature)
+  const lineLayer = new VectorLayer({
+    source: new VectorSource({
+      features: [multi_feature]
+    })
+    
   })
 
   const vectorLayer = new VectorLayer({
@@ -97,10 +153,6 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
     }
   });
   
-  var locations = [[60.10867, -113.64258], [0, 0]];
-
-
-
 
   makeModal()
 
@@ -108,11 +160,13 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
     target: 'map',
     layers: [
       tileLayer,
-
+      
+      lineLayer,
       vectorLayer,
 
       instutition_vectorLayer,
       
+      //canvasLayer      
      
     ],
     view: new View({
@@ -138,6 +192,7 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
       popover.dispose()
       popover = undefined
     }
+    console.log(event.coordinate)
     const feature = map.getFeaturesAtPixel(event.pixel)[0];
     if(!feature){
       return
@@ -161,6 +216,3 @@ function make_pins(lat_long_data){
 }
 
 
-function drawLines(start, end){
-
-}
