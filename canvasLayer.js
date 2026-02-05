@@ -7,7 +7,7 @@ export class CanvasLayer extends Layer{
   constructor(options){
     super(options)
     this.feature = options.feature;
-    console.log(this.feature)
+    
     this.svg = d3.select(document.createElement('div'))
                .append('svg')
                .style('position', 'absolute');
@@ -59,8 +59,7 @@ export class CanvasLayer extends Layer{
     const r = Math.max(widthResolution, heightResolution)
     const scale = r / frameState.viewState.resolution;
 
-    console.log(frameState)
-    console.log(getCenter(frameState.extent))
+    
     const center = toLonLat(getCenter(frameState.extent), projection);
     
     const angle = (-frameState.viewState.rotation * 180) / Math.PI;

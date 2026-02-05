@@ -15,6 +15,7 @@ import {readAllData} from "/readData";
 import { Vector } from 'ol/source';
 import {Style} from "ol/style";
 import {Stroke} from "ol/style";
+import {Select} from "ol/interaction";
 
 import { updateScrollable, makeModal } from './WorksList';
 import { updateAuthorList } from './AuthorList';
@@ -45,12 +46,13 @@ const can = [can_long, can_lat]
 const location_file = "./data/entity_coord_relation.json";
 const works_file = "./data/works.json";
 const location_to_works_file = "./data/location_to_works.json";
-const all_insitutions = "./data/all_insitutions.json";
+const all_insitutions = "./data/filtered_insitutions.json";
 const work_to_insitutions = "./data/work_to_instution.json";
-const multiLine_file = "./data/multi_line_string.json"
+const multiLine_file = "./data/geo_features.json";
+const author_cited_file = "./data/authors_cited.json";
 const tileLayer = new TileLayer({source: new OSM()})
 
-readAllData(location_file, works_file, location_to_works_file, all_insitutions, work_to_insitutions, multiLine_file).then(d =>{
+readAllData(location_file, works_file, location_to_works_file, all_insitutions, work_to_insitutions, multiLine_file, author_cited_file).then(d =>{
   const allData = {}
   allData.lat_long = d[0]
   allData.works = d[1]
@@ -58,74 +60,94 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
   allData.all_insitutions = d[3]
   allData.work_to_insitutions = d[4]
   allData.multiLine = d[5]
+  allData.author_cited = d[6]
   console.log(allData);
   const points = make_pins(allData.lat_long)
+  //console.log(allData.lat_long.keys().length)
   
-  
-
+  let counter = 0
   const pins = points.map(entry =>{
     const temp = [entry[2], entry[1]];
     var feature = new Feature(new Point(temp));
     
-    feature.setId(entry[0])
+    feature.setId("location_" + entry[0] + "_" + counter.toString())
+    counter += 1
     return feature
   })
+  
 
   const instution_pins = allData.all_insitutions.map(entry =>{
     const temp = [entry['longitude'], entry['latitude']]
     var feature = new Feature(new Point(temp))
-    feature.setId(entry['id'])
+    feature.setId("instution_" +entry['id'])
 
     return feature
   })
 
-  //let multi_line_string = new MultiLineString(allData.multiLine.coordinates)
-  /*
-  const canvasLayer = new CanvasLayer({
-    feature: allData.multiLine
-  })*/
-  
+  for(let i in points){
+    let temp_loc = points[i]
+    
+  }
 
-  const converted_line = allData.multiLine.coordinates.map(entry =>{
-    const startPoint = [entry[0][1], entry[0][0]]
-    const endPoint = [entry[1][1], entry[1][0]]
-
-    return [startPoint, endPoint]
+  console.log(points.length)
+  console.log(pins.length)
+  let feature_style = new Style({
+    stroke: new Stroke({
+      color: 'rgba(5, 28, 239, 1.0)',
+      width: 3
+    })
   })
 
-  console.log(converted_line)
-  let multi_line_string = new MultiLineString(converted_line)
+  let invisible_style = new Style({
+    stroke: new Stroke({
+      color: 'rgba(0, 255, 123, 0.0)',
+      width: 1
+    })
+  })
+
+
+  const converted_line = allData.multiLine.map(entry =>{
+    
+    let temp = new Feature({
+      geometry: new LineString([[entry.geometry.coordinates[0][1], entry.geometry.coordinates[0][0]],
+          [entry.geometry.coordinates[1][1], entry.geometry.coordinates[1][0]]]),
+      //properties: entry.properties
+    })
+
+    temp.setProperties(entry.properties)
+
+    temp.setStyle(invisible_style)
+   return temp
+  })
+
   
   
-  /*let multi_line_string = new LineString([
+  //let multi_line_string = new MultiLineString(converted_line)
+  
+  
+  let multi_line_string = new LineString([
     //[45.56, -76.37],
     [-76.37, 45.56 ],
     //[32.84, -117.27]
     [-117.27, 32.84]
-  ])*/
+  ])
 
 
-  let feature_style = new Style({
-    stroke: new Style({
-      color: 'rgba(36, 19, 111, 1)',
-      width: 10
-    })
-  })
-
-  console.log(multi_line_string)
+  
   //let multi_feature = new Feature({multi_line_string})
 
   let multi_feature = new Feature({
     geometry: multi_line_string,
-    style: feature_style
+    
   })
 
   
-  //multi_feature.setStyleFunction(feature_style);
-  console.log(multi_feature)
+  multi_feature.setStyle(feature_style);
+  
   const lineLayer = new VectorLayer({
+    
     source: new VectorSource({
-      features: [multi_feature]
+      features: converted_line
     })
     
   })
@@ -135,11 +157,11 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
       //features: [new Feature(point), new Feature(new Point([0, 0]))],
       features: pins
     }),
-
+    
     style: {
         "circle-radius": 9,
-        "circle-fill-color": 'red'
-      }
+        "circle-fill-color": 'rgb(256,0, 0, 0.5)'
+      },
   })
 
   const instutition_vectorLayer = new VectorLayer({
@@ -149,8 +171,9 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
 
     style: {
       "circle-radius": 9,
-      "circle-fill-color": "blue"
-    }
+      "circle-fill-color": 'rgb(0,0, 256, 0.5)'
+    },
+    
   });
   
 
@@ -185,29 +208,91 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
 
   map.addOverlay(popup)
   
+  let selectedStyle = new Style({
+    fill: new Fill({
+      color: 'green'
+    })
+  })
+
 
   let popover
-  map.on('click', function(event){
-    if(popover){
-      popover.dispose()
-      popover = undefined
-    }
-    console.log(event.coordinate)
-    const feature = map.getFeaturesAtPixel(event.pixel)[0];
-    if(!feature){
-      return
-    }
-    d3.select("#selected-location").text(feature.id_)
-    d3.select("#selected-location-author").text(feature.id_)
 
-    updateScrollable(allData.location_relation[feature.id_], allData.works)
-    updateAuthorList(allData.location_relation[feature.id_], allData.works)
-  });
+  var selectedStyleFunction = function(feature, resolution){
+    console.log(feature)
+    return selectedStyle
+  }
+
+
+  var select = new Select({
+    
+  })
+
+  select.on('select', function(event) {
+    console.log(event)
+    let featureSelected = event.selected[0];
+    const pointLong = featureSelected.getGeometry().flatCoordinates[0]
+    const pointLat = featureSelected.getGeometry().flatCoordinates[1]
+    
+
+    
+    //map.layers.push(instutition_vectorLayer)
+    //map.changed()
+    //multi_feature.setStyle(invisible_style)
+    //multi_feature.changed()
+
+    let feature_type = featureSelected.id_.split("_")[0]
+    let feature_name = featureSelected.id_.split("_")[1]
+    if(feature_type === "location"){
+      d3.select("#selected-location").text(feature_name)
+      d3.select("#selected-location-author").text(feature_name)
+
+      updateScrollable(allData.location_relation[feature_name], allData.works)
+      updateAuthorList(allData.location_relation[feature_name], allData.works, allData.author_cited)
+
+      
+      for(let entry in converted_line){
+        
+        let current_line = converted_line[entry]
+        let line_location = current_line.getProperties()['location']
+        const lineCoords = current_line.getGeometry().flatCoordinates
+        
+        if(line_location === feature_name){
+          
+          current_line.setStyle(feature_style)
+        }else{
+          current_line.setStyle(invisible_style)
+        }
+        
+      }
+    }
+    else if(feature_type === 'instution'){
+      for(let entry in converted_line){
+      
+      let current_line = converted_line[entry]
+      let line_location = current_line.getProperties()['instution']
+      
+    
+    
+      if(line_location === feature_name){
+      
+        current_line.setStyle(feature_style)
+      }else{
+        current_line.setStyle(invisible_style)
+      }
+
+      }
+    }
+
+  })
+
+  map.addInteraction(select)
+
 })
 
 function make_pins(lat_long_data){
   var data = []
   for(const [key, value] of Object.entries(lat_long_data)){
+    
     for(const [id, lat_long] of Object.entries(lat_long_data[key])){
       data.push([key, lat_long[0], lat_long[1]])
     }

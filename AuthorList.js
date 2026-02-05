@@ -1,8 +1,6 @@
 import * as d3 from "d3";
 
-export function updateAuthorList(location_relation, works){
-    console.log(location_relation)
-    console.log(works)
+export function updateAuthorList(location_relation, works, author_cited){
 
     let currentLocations = []
     location_relation.forEach(element => {
@@ -13,7 +11,7 @@ export function updateAuthorList(location_relation, works){
             }
         })
     });
-    console.log(currentLocations)
+    
     let current_authors = []
     currentLocations.forEach(element =>{
         let temp_authors = element.author
@@ -24,21 +22,33 @@ export function updateAuthorList(location_relation, works){
         }
         
     })
+
+    let author_ids = new Set(current_authors.map(element => element['au_id'].split("/")[3]))
+    
+    let filtered_author_cited = {}
+    author_ids.forEach(author => {
+        if(author_cited[author]){
+            filtered_author_cited[author] =author_cited[author]
+        }
+    })
+
+
+    console.log(filtered_author_cited)
     let list = d3.select("#authorList")
     list.selectAll("*").remove()
 
     new Set(current_authors).forEach(author =>{
-        console.log(author)
-        makeEntry(author, list)
+        
+        makeEntry(author, list, filtered_author_cited[author['au_id'].split("/")[3]])
     })
     
 }
 
 
-function makeEntry(author, list){
+function makeEntry(author, list, citation_count){
     let entry = list.append("li")
     entry.attr("class", "work-entry")
-    
+    console.log(author)
     let temp = entry.append("div")
     temp.attr("class", "articleWrapper")
     let summaryWrapper = temp.append("div")
@@ -65,9 +75,14 @@ function makeEntry(author, list){
 
     let instution = summaryWrapper.append("div")
     instution.text(author.au_affiliation_raw)
+    let tagWrapper = summaryWrapper.append("div")
+    let cited_count = tagWrapper.append('text');
+    cited_count.attr("id", "cited_count");
+    cited_count.text(citation_count['cited_by_count']);
+
 
     let buttonWrapper = summaryWrapper.append("div") 
-
+    
     if(author.au_orcid != null){
         let orcidWrapper = buttonWrapper.append("div")
 

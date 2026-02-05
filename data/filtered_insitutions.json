@@ -1,0 +1,6946 @@
+[
+ {
+  "id": "I100066346",
+  "name": "University of Stuttgart",
+  "latitude": 48.782318115234375,
+  "longitude": 9.177020072937012,
+  "country": "DE"
+ },
+ {
+  "id": "I100236772",
+  "name": "St. Lawrence University",
+  "latitude": 44.595619201660156,
+  "longitude": -75.1690902709961,
+  "country": "US"
+ },
+ {
+  "id": "I100633361",
+  "name": "University of Massachusetts Dartmouth",
+  "latitude": 41.63526153564453,
+  "longitude": -70.92700958251953,
+  "country": "US"
+ },
+ {
+  "id": "I10180231",
+  "name": "National Authority for Remote Sensing and Space Sciences",
+  "latitude": 30.12917137145996,
+  "longitude": 31.381498336791992,
+  "country": "EG"
+ },
+ {
+  "id": "I10213569",
+  "name": "Cape Breton University",
+  "latitude": 46.135101318359375,
+  "longitude": -60.183101654052734,
+  "country": "CA"
+ },
+ {
+  "id": "I102298084",
+  "name": "Andrews University",
+  "latitude": 41.9645881652832,
+  "longitude": -86.3586196899414,
+  "country": "US"
+ },
+ {
+  "id": "I102322142",
+  "name": "Rutgers, The State University of New Jersey",
+  "latitude": 40.48622131347656,
+  "longitude": -74.45182037353516,
+  "country": "US"
+ },
+ {
+  "id": "I102502594",
+  "name": "Northern Illinois University",
+  "latitude": 41.92947006225586,
+  "longitude": -88.75035858154297,
+  "country": "US"
+ },
+ {
+  "id": "I102716817",
+  "name": "Valdosta State University",
+  "latitude": 30.83333969116211,
+  "longitude": -83.28031921386719,
+  "country": "US"
+ },
+ {
+  "id": "I103004294",
+  "name": "National Center for Disease Control",
+  "latitude": 28.467132568359375,
+  "longitude": 77.06980895996094,
+  "country": "IN"
+ },
+ {
+  "id": "I103084370",
+  "name": "Total (France)",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I103163165",
+  "name": "Florida State University",
+  "latitude": 30.43825912475586,
+  "longitude": -84.28073120117188,
+  "country": "US"
+ },
+ {
+  "id": "I103187081",
+  "name": "Smithsonian Institution",
+  "latitude": 38.895111083984375,
+  "longitude": -77.03636932373047,
+  "country": "US"
+ },
+ {
+  "id": "I103406327",
+  "name": "Western Carolina University",
+  "latitude": 35.3137092590332,
+  "longitude": -83.17652893066406,
+  "country": "US"
+ },
+ {
+  "id": "I103531236",
+  "name": "Boston College",
+  "latitude": 42.358428955078125,
+  "longitude": -71.05976867675781,
+  "country": "US"
+ },
+ {
+  "id": "I103635307",
+  "name": "University of California, Riverside",
+  "latitude": 33.95335006713867,
+  "longitude": -117.39615631103516,
+  "country": "US"
+ },
+ {
+  "id": "I104338594",
+  "name": "Inje University",
+  "latitude": 35.234169006347656,
+  "longitude": 128.881103515625,
+  "country": "KR"
+ },
+ {
+  "id": "I104411113",
+  "name": "Alaska Department of Fish and Game",
+  "latitude": 58.29951858520508,
+  "longitude": -134.42434692382812,
+  "country": "US"
+ },
+ {
+  "id": "I1049131",
+  "name": "Tung Fang Design Institute",
+  "latitude": 22.880760192871094,
+  "longitude": 120.245361328125,
+  "country": "TW"
+ },
+ {
+  "id": "I106165777",
+  "name": "University of Central Florida",
+  "latitude": 28.538339614868164,
+  "longitude": -81.37924194335938,
+  "country": "US"
+ },
+ {
+  "id": "I106745318",
+  "name": "NOAA National Marine Fisheries Service",
+  "latitude": 38.99066925048828,
+  "longitude": -77.02609252929688,
+  "country": "US"
+ },
+ {
+  "id": "I106938459",
+  "name": "University of New Brunswick",
+  "latitude": 45.945411682128906,
+  "longitude": -66.66558074951172,
+  "country": "CA"
+ },
+ {
+  "id": "I106959904",
+  "name": "Florida Institute of Technology",
+  "latitude": 28.083629608154297,
+  "longitude": -80.60810852050781,
+  "country": "US"
+ },
+ {
+  "id": "I106969075",
+  "name": "Idaho State University",
+  "latitude": 42.871299743652344,
+  "longitude": -112.4455337524414,
+  "country": "US"
+ },
+ {
+  "id": "I107672454",
+  "name": "Dartmouth College",
+  "latitude": 43.70228958129883,
+  "longitude": -72.28954315185547,
+  "country": "US"
+ },
+ {
+  "id": "I107707843",
+  "name": "Roskilde University",
+  "latitude": 55.64152145385742,
+  "longitude": 12.080349922180176,
+  "country": "DK"
+ },
+ {
+  "id": "I107766831",
+  "name": "NSF National Center for Atmospheric Research",
+  "latitude": 40.014991760253906,
+  "longitude": -105.27055358886719,
+  "country": "US"
+ },
+ {
+  "id": "I109144446",
+  "name": "Bavarian Academy of Sciences and Humanities",
+  "latitude": 48.137428283691406,
+  "longitude": 11.57548999786377,
+  "country": "DE"
+ },
+ {
+  "id": "I110120368",
+  "name": "National Agency for New Technologies, Energy and Sustainable Economic Development",
+  "latitude": 41.891929626464844,
+  "longitude": 12.511329650878906,
+  "country": "IT"
+ },
+ {
+  "id": "I111236770",
+  "name": "University of Vermont",
+  "latitude": 44.47587966918945,
+  "longitude": -73.21206665039062,
+  "country": "US"
+ },
+ {
+  "id": "I111277659",
+  "name": "Chonnam National University",
+  "latitude": 35.176387786865234,
+  "longitude": 126.9080581665039,
+  "country": "KR"
+ },
+ {
+  "id": "I1118541",
+  "name": "University of East Anglia",
+  "latitude": 52.627830505371094,
+  "longitude": 1.2983399629592896,
+  "country": "GB"
+ },
+ {
+  "id": "I111979921",
+  "name": "Northwestern University",
+  "latitude": 42.041141510009766,
+  "longitude": -87.6900634765625,
+  "country": "US"
+ },
+ {
+  "id": "I113508548",
+  "name": "Albany State University",
+  "latitude": 31.578510284423828,
+  "longitude": -84.1557388305664,
+  "country": "US"
+ },
+ {
+  "id": "I114017466",
+  "name": "University of Technology Sydney",
+  "latitude": -33.86785125732422,
+  "longitude": 151.2073211669922,
+  "country": "AU"
+ },
+ {
+  "id": "I114027177",
+  "name": "University of North Carolina at Chapel Hill",
+  "latitude": 35.91320037841797,
+  "longitude": -79.05583953857422,
+  "country": "US"
+ },
+ {
+  "id": "I114090438",
+  "name": "Goethe University Frankfurt",
+  "latitude": 50.11552047729492,
+  "longitude": 8.68416976928711,
+  "country": "DE"
+ },
+ {
+  "id": "I114531698",
+  "name": "Tokyo Institute of Technology",
+  "latitude": 35.68949890136719,
+  "longitude": 139.69171142578125,
+  "country": "JP"
+ },
+ {
+  "id": "I115283149",
+  "name": "Brookings Institution",
+  "latitude": 38.90903854370117,
+  "longitude": -77.04010772705078,
+  "country": "US"
+ },
+ {
+  "id": "I115891769",
+  "name": "Universidade dos A\u00e7ores",
+  "latitude": 37.73952102661133,
+  "longitude": -25.668739318847656,
+  "country": "PT"
+ },
+ {
+  "id": "I116578957",
+  "name": "Goddard Institute for Space Studies",
+  "latitude": 40.714271545410156,
+  "longitude": -74.00596618652344,
+  "country": "US"
+ },
+ {
+  "id": "I11701301",
+  "name": "Griffith University",
+  "latitude": -27.467939376831055,
+  "longitude": 153.02809143066406,
+  "country": "AU"
+ },
+ {
+  "id": "I1174212",
+  "name": "University of Southern California",
+  "latitude": 34.05223083496094,
+  "longitude": -118.24368286132812,
+  "country": "US"
+ },
+ {
+  "id": "I117965899",
+  "name": "University of Hawai\u02bbi at M\u0101noa",
+  "latitude": 21.30694007873535,
+  "longitude": -157.85833740234375,
+  "country": "US"
+ },
+ {
+  "id": "I118189293",
+  "name": "BC Hydro (Canada)",
+  "latitude": 49.28281021118164,
+  "longitude": -123.11268615722656,
+  "country": "CA"
+ },
+ {
+  "id": "I118347636",
+  "name": "Australian National University",
+  "latitude": -35.2834587097168,
+  "longitude": 149.12806701660156,
+  "country": "AU"
+ },
+ {
+  "id": "I118564535",
+  "name": "University of Bern",
+  "latitude": 46.948089599609375,
+  "longitude": 7.447440147399902,
+  "country": "CH"
+ },
+ {
+  "id": "I11886867",
+  "name": "GNS Science",
+  "latitude": -41.216670989990234,
+  "longitude": 174.9166717529297,
+  "country": "NZ"
+ },
+ {
+  "id": "I11947397",
+  "name": "Tata Institute of Fundamental Research",
+  "latitude": 19.072830200195312,
+  "longitude": 72.88260650634766,
+  "country": "IN"
+ },
+ {
+  "id": "I11957088",
+  "name": "Michigan Technological University",
+  "latitude": 47.12186813354492,
+  "longitude": -88.56900787353516,
+  "country": "US"
+ },
+ {
+  "id": "I119635470",
+  "name": "Universidad de Las Palmas de Gran Canaria",
+  "latitude": 28.099729537963867,
+  "longitude": -15.413430213928223,
+  "country": "ES"
+ },
+ {
+  "id": "I120156002",
+  "name": "Boise State University",
+  "latitude": 43.61349868774414,
+  "longitude": -116.20345306396484,
+  "country": "US"
+ },
+ {
+  "id": "I120250893",
+  "name": "New York University Abu Dhabi",
+  "latitude": 24.45117950439453,
+  "longitude": 54.3969612121582,
+  "country": "AE"
+ },
+ {
+  "id": "I12079687",
+  "name": "Edith Cowan University",
+  "latitude": -31.952239990234375,
+  "longitude": 115.86139678955078,
+  "country": "AU"
+ },
+ {
+  "id": "I12093191",
+  "name": "University of Stirling",
+  "latitude": 56.1190299987793,
+  "longitude": -3.9368200302124023,
+  "country": "GB"
+ },
+ {
+  "id": "I121748325",
+  "name": "Universidad Complutense de Madrid",
+  "latitude": 40.416500091552734,
+  "longitude": -3.7025599479675293,
+  "country": "ES"
+ },
+ {
+  "id": "I121847817",
+  "name": "The Graduate Center, CUNY",
+  "latitude": 40.74873352050781,
+  "longitude": -73.98395538330078,
+  "country": "US"
+ },
+ {
+  "id": "I121934306",
+  "name": "Tufts University",
+  "latitude": 42.41843032836914,
+  "longitude": -71.10616302490234,
+  "country": "US"
+ },
+ {
+  "id": "I121980950",
+  "name": "Utah State University",
+  "latitude": 41.73548889160156,
+  "longitude": -111.83438873291016,
+  "country": "US"
+ },
+ {
+  "id": "I122140584",
+  "name": "Universidade Federal do Rio de Janeiro",
+  "latitude": -22.90641975402832,
+  "longitude": -43.18223190307617,
+  "country": "BR"
+ },
+ {
+  "id": "I122274158",
+  "name": "Dalarna University",
+  "latitude": 60.60356903076172,
+  "longitude": 15.625969886779785,
+  "country": "SE"
+ },
+ {
+  "id": "I122411786",
+  "name": "California Institute of Technology",
+  "latitude": 34.14778137207031,
+  "longitude": -118.14452362060547,
+  "country": "US"
+ },
+ {
+  "id": "I123044942",
+  "name": "Universitat Aut\u00f2noma de Barcelona",
+  "latitude": 41.4910888671875,
+  "longitude": 2.1407899856567383,
+  "country": "ES"
+ },
+ {
+  "id": "I12323705",
+  "name": "The Abdus Salam International Centre for Theoretical Physics (ICTP)",
+  "latitude": 45.64952850341797,
+  "longitude": 13.776780128479004,
+  "country": "IT"
+ },
+ {
+  "id": "I123387679",
+  "name": "Uppsala University",
+  "latitude": 59.858821868896484,
+  "longitude": 17.63888931274414,
+  "country": "SE"
+ },
+ {
+  "id": "I123900574",
+  "name": "Pohang University of Science and Technology",
+  "latitude": 36.029170989990234,
+  "longitude": 129.36480712890625,
+  "country": "KR"
+ },
+ {
+  "id": "I123946342",
+  "name": "Binghamton University",
+  "latitude": 42.098690032958984,
+  "longitude": -75.91796875,
+  "country": "US"
+ },
+ {
+  "id": "I124055696",
+  "name": "University of Copenhagen",
+  "latitude": 55.675941467285156,
+  "longitude": 12.565529823303223,
+  "country": "DK"
+ },
+ {
+  "id": "I124104796",
+  "name": "Marine Mammal Center",
+  "latitude": 37.83509826660156,
+  "longitude": -122.53160095214844,
+  "country": "US"
+ },
+ {
+  "id": "I124158823",
+  "name": "Conservatoire National des Arts et M\u00e9tiers",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I125687163",
+  "name": "City College of New York",
+  "latitude": 40.714271545410156,
+  "longitude": -74.00596618652344,
+  "country": "US"
+ },
+ {
+  "id": "I125749732",
+  "name": "Western University",
+  "latitude": 42.98339080810547,
+  "longitude": -81.23303985595703,
+  "country": "CA"
+ },
+ {
+  "id": "I125932930",
+  "name": "Parks Canada",
+  "latitude": 45.411170959472656,
+  "longitude": -75.6981201171875,
+  "country": "CA"
+ },
+ {
+  "id": "I126307644",
+  "name": "University of Iowa",
+  "latitude": 41.661128997802734,
+  "longitude": -91.53016662597656,
+  "country": "US"
+ },
+ {
+  "id": "I126345244",
+  "name": "Portland State University",
+  "latitude": 45.5234489440918,
+  "longitude": -122.67620849609375,
+  "country": "US"
+ },
+ {
+  "id": "I126460647",
+  "name": "Universidade Federal do Rio Grande",
+  "latitude": -32.03499984741211,
+  "longitude": -52.098609924316406,
+  "country": "BR"
+ },
+ {
+  "id": "I127251866",
+  "name": "Alfred-Wegener-Institut Helmholtz-Zentrum f\u00fcr Polar- und Meeresforschung",
+  "latitude": 53.53615188598633,
+  "longitude": 8.59298038482666,
+  "country": "DE"
+ },
+ {
+  "id": "I1280367701",
+  "name": "Canadian Forest Service",
+  "latitude": 45.411170959472656,
+  "longitude": -75.6981201171875,
+  "country": "CA"
+ },
+ {
+  "id": "I1280640908",
+  "name": "The Nature Conservancy",
+  "latitude": 38.88100814819336,
+  "longitude": -77.10427856445312,
+  "country": "US"
+ },
+ {
+  "id": "I1281133977",
+  "name": "International Union for Conservation of Nature",
+  "latitude": 23.78559684753418,
+  "longitude": 90.40145874023438,
+  "country": "BD"
+ },
+ {
+  "id": "I1281210470",
+  "name": "CSIRO Oceans and Atmosphere",
+  "latitude": -35.2834587097168,
+  "longitude": 149.06495666503906,
+  "country": "AU"
+ },
+ {
+  "id": "I1281635806",
+  "name": "Alberta Environment and Protected Areas",
+  "latitude": 53.550140380859375,
+  "longitude": -113.46871185302734,
+  "country": "CA"
+ },
+ {
+  "id": "I1281735042",
+  "name": "Natural Resources Canada",
+  "latitude": 45.411170959472656,
+  "longitude": -75.6981201171875,
+  "country": "CA"
+ },
+ {
+  "id": "I1282105669",
+  "name": "Argonne National Laboratory",
+  "latitude": 41.673641204833984,
+  "longitude": -88.0017318725586,
+  "country": "US"
+ },
+ {
+  "id": "I1282311441",
+  "name": "Lawrence Livermore National Laboratory",
+  "latitude": 37.68186950683594,
+  "longitude": -121.76801300048828,
+  "country": "US"
+ },
+ {
+  "id": "I1283052075",
+  "name": "American Legacy Foundation",
+  "latitude": 38.90882873535156,
+  "longitude": -77.0394515991211,
+  "country": "US"
+ },
+ {
+  "id": "I12834331",
+  "name": "University of Wyoming",
+  "latitude": 41.311370849609375,
+  "longitude": -105.59110260009766,
+  "country": "US"
+ },
+ {
+  "id": "I1284772924",
+  "name": "Washington State Department of Health",
+  "latitude": 47.0449104309082,
+  "longitude": -122.90168762207031,
+  "country": "US"
+ },
+ {
+  "id": "I1285790362",
+  "name": "Finnish Meteorological Institute",
+  "latitude": 60.16952133178711,
+  "longitude": 24.935449600219727,
+  "country": "FI"
+ },
+ {
+  "id": "I1286329397",
+  "name": "United States Geological Survey",
+  "latitude": 38.968719482421875,
+  "longitude": -77.34110260009766,
+  "country": "US"
+ },
+ {
+  "id": "I1286406326",
+  "name": "Bureau of Meteorology",
+  "latitude": -37.81399917602539,
+  "longitude": 144.96331787109375,
+  "country": "AU"
+ },
+ {
+  "id": "I1286858202",
+  "name": "Energy and Resources Institute",
+  "latitude": 28.589967727661133,
+  "longitude": 77.22525787353516,
+  "country": "IN"
+ },
+ {
+  "id": "I1286959531",
+  "name": "United Nations",
+  "latitude": 40.714271545410156,
+  "longitude": -74.00596618652344,
+  "country": "US"
+ },
+ {
+  "id": "I1288894424",
+  "name": "Health Canada",
+  "latitude": 45.411170959472656,
+  "longitude": -75.6981201171875,
+  "country": "CA"
+ },
+ {
+  "id": "I1289243028",
+  "name": "Oak Ridge National Laboratory",
+  "latitude": 36.01036071777344,
+  "longitude": -84.26963806152344,
+  "country": "US"
+ },
+ {
+  "id": "I128932393",
+  "name": "University College of the Cayman Islands",
+  "latitude": 19.281465530395508,
+  "longitude": -81.38375854492188,
+  "country": "KY"
+ },
+ {
+  "id": "I1289910757",
+  "name": "NEOMA Business School",
+  "latitude": 49.46294021606445,
+  "longitude": 1.0643470287322998,
+  "country": "FR"
+ },
+ {
+  "id": "I12912129",
+  "name": "Northeastern University",
+  "latitude": 42.358428955078125,
+  "longitude": -71.05976867675781,
+  "country": "US"
+ },
+ {
+  "id": "I1291425158",
+  "name": "Google (United States)",
+  "latitude": 37.42295455932617,
+  "longitude": -122.08406066894531,
+  "country": "US"
+ },
+ {
+  "id": "I1292875679",
+  "name": "Commonwealth Scientific and Industrial Research Organisation",
+  "latitude": -35.2834587097168,
+  "longitude": 149.12806701660156,
+  "country": "AU"
+ },
+ {
+  "id": "I1293035123",
+  "name": "Met Office",
+  "latitude": 50.72359848022461,
+  "longitude": -3.527509927749634,
+  "country": "GB"
+ },
+ {
+  "id": "I1293066303",
+  "name": "Meise Botanic Garden",
+  "latitude": 50.93933868408203,
+  "longitude": 4.326550006866455,
+  "country": "BE"
+ },
+ {
+  "id": "I1293302089",
+  "name": "Swedish Meteorological and Hydrological Institute",
+  "latitude": 58.59418869018555,
+  "longitude": 16.182600021362305,
+  "country": "SE"
+ },
+ {
+  "id": "I1294345657",
+  "name": "Sea Turtle Conservancy",
+  "latitude": 29.805570602416992,
+  "longitude": -82.43867492675781,
+  "country": "US"
+ },
+ {
+  "id": "I1294537935",
+  "name": "Point Blue Conservation Science",
+  "latitude": 38.22794723510742,
+  "longitude": -122.59088134765625,
+  "country": "US"
+ },
+ {
+  "id": "I1294671590",
+  "name": "Centre National de la Recherche Scientifique",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I1297550317",
+  "name": "Norwegian Food Safety Authority",
+  "latitude": 59.9127311706543,
+  "longitude": 10.746089935302734,
+  "country": "NO"
+ },
+ {
+  "id": "I129801699",
+  "name": "University of Tasmania",
+  "latitude": -42.87936019897461,
+  "longitude": 147.32940673828125,
+  "country": "AU"
+ },
+ {
+  "id": "I129877168",
+  "name": "Carl von Ossietzky Universit\u00e4t Oldenburg",
+  "latitude": 53.141178131103516,
+  "longitude": 8.214670181274414,
+  "country": "DE"
+ },
+ {
+  "id": "I1298853749",
+  "name": "University Hospital of North Norway",
+  "latitude": 69.6489028930664,
+  "longitude": 18.955080032348633,
+  "country": "NO"
+ },
+ {
+  "id": "I129902397",
+  "name": "Dalhousie University",
+  "latitude": 44.6426887512207,
+  "longitude": -63.576881408691406,
+  "country": "CA"
+ },
+ {
+  "id": "I1299204452",
+  "name": "Oeschger Centre for Climate Change Research",
+  "latitude": 46.95048904418945,
+  "longitude": 7.438118934631348,
+  "country": "CH"
+ },
+ {
+  "id": "I130194489",
+  "name": "University of Alicante",
+  "latitude": 38.34516906738281,
+  "longitude": -0.48148998618125916,
+  "country": "ES"
+ },
+ {
+  "id": "I1302124595",
+  "name": "Bureau of Land Management",
+  "latitude": 38.900272369384766,
+  "longitude": -77.04222106933594,
+  "country": "US"
+ },
+ {
+  "id": "I130217899",
+  "name": "\u00c5bo Akademi University",
+  "latitude": 60.451480865478516,
+  "longitude": 22.26869010925293,
+  "country": "FI"
+ },
+ {
+  "id": "I1302262991",
+  "name": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado da Bahia",
+  "latitude": -13.007801055908203,
+  "longitude": -38.5120964050293,
+  "country": "BR"
+ },
+ {
+  "id": "I1302368450",
+  "name": "Environmental Protection Agency",
+  "latitude": 38.893741607666016,
+  "longitude": -77.03043365478516,
+  "country": "US"
+ },
+ {
+  "id": "I130238516",
+  "name": "University of Minnesota",
+  "latitude": 44.9799690246582,
+  "longitude": -93.26383972167969,
+  "country": "US"
+ },
+ {
+  "id": "I1302438520",
+  "name": "Australian Wildlife Conservancy",
+  "latitude": -31.946815490722656,
+  "longitude": 115.82942199707031,
+  "country": "AU"
+ },
+ {
+  "id": "I1302741095",
+  "name": "Statistics New Zealand",
+  "latitude": -41.28664016723633,
+  "longitude": 174.77557373046875,
+  "country": "NZ"
+ },
+ {
+  "id": "I1302918504",
+  "name": "Planetary Science Institute",
+  "latitude": 32.264381408691406,
+  "longitude": -110.94628143310547,
+  "country": "US"
+ },
+ {
+  "id": "I130438778",
+  "name": "Memorial University of Newfoundland",
+  "latitude": 47.56494140625,
+  "longitude": -52.70930862426758,
+  "country": "CA"
+ },
+ {
+  "id": "I1304808963",
+  "name": "National Park Service",
+  "latitude": 38.895111083984375,
+  "longitude": -77.03636932373047,
+  "country": "US"
+ },
+ {
+  "id": "I1306266525",
+  "name": "Goddard Space Flight Center",
+  "latitude": 39.00455093383789,
+  "longitude": -76.87552642822266,
+  "country": "US"
+ },
+ {
+  "id": "I130701444",
+  "name": "Georgia Institute of Technology",
+  "latitude": 33.749000549316406,
+  "longitude": -84.38797760009766,
+  "country": "US"
+ },
+ {
+  "id": "I130769515",
+  "name": "Pennsylvania State University",
+  "latitude": 40.79338836669922,
+  "longitude": -77.86000061035156,
+  "country": "US"
+ },
+ {
+  "id": "I1308126019",
+  "name": "National Oceanic and Atmospheric Administration",
+  "latitude": 38.895111083984375,
+  "longitude": -77.03636932373047,
+  "country": "US"
+ },
+ {
+  "id": "I130828816",
+  "name": "University of Leeds",
+  "latitude": 53.796478271484375,
+  "longitude": -1.5478500127792358,
+  "country": "GB"
+ },
+ {
+  "id": "I1308891854",
+  "name": "Oregon Department of Fish and Wildlife",
+  "latitude": 44.897403717041016,
+  "longitude": -123.00270080566406,
+  "country": "US"
+ },
+ {
+  "id": "I1309140791",
+  "name": "Royal Netherlands Meteorological Institute",
+  "latitude": 52.11000061035156,
+  "longitude": 5.180560111999512,
+  "country": "NL"
+ },
+ {
+  "id": "I1309849503",
+  "name": "RAND Corporation",
+  "latitude": 34.00959777832031,
+  "longitude": -118.49066925048828,
+  "country": "US"
+ },
+ {
+  "id": "I1310784620",
+  "name": "Norwegian Water Resources and Energy Directorate",
+  "latitude": 59.92941665649414,
+  "longitude": 10.708149909973145,
+  "country": "NO"
+ },
+ {
+  "id": "I1311206647",
+  "name": "American Association For The Advancement of Science",
+  "latitude": 38.90025329589844,
+  "longitude": -77.02789306640625,
+  "country": "US"
+ },
+ {
+  "id": "I131209590",
+  "name": "Antioch University New England",
+  "latitude": 42.93194580078125,
+  "longitude": -72.29389190673828,
+  "country": "US"
+ },
+ {
+  "id": "I131221577",
+  "name": "Bucknell University",
+  "latitude": 40.96453094482422,
+  "longitude": -76.88440704345703,
+  "country": "US"
+ },
+ {
+  "id": "I131249849",
+  "name": "Oregon State University",
+  "latitude": 44.564571380615234,
+  "longitude": -123.26203918457031,
+  "country": "US"
+ },
+ {
+  "id": "I1312857945",
+  "name": "Natural Resources Defense Council",
+  "latitude": 40.74057388305664,
+  "longitude": -73.99340057373047,
+  "country": "US"
+ },
+ {
+  "id": "I1313003366",
+  "name": "Woodwell Climate Research Center",
+  "latitude": 41.55149841308594,
+  "longitude": -70.61475372314453,
+  "country": "US"
+ },
+ {
+  "id": "I1313323035",
+  "name": "Russian Academy of Sciences",
+  "latitude": 55.752220153808594,
+  "longitude": 37.61555862426758,
+  "country": "RU"
+ },
+ {
+  "id": "I13134134",
+  "name": "Universidad de Cantabria",
+  "latitude": 43.4647216796875,
+  "longitude": -3.8044400215148926,
+  "country": "ES"
+ },
+ {
+  "id": "I1314042554",
+  "name": "Norwegian Meteorological Institute",
+  "latitude": 59.9127311706543,
+  "longitude": 10.746089935302734,
+  "country": "NO"
+ },
+ {
+  "id": "I1315852903",
+  "name": "Japan Agency for Marine-Earth Science and Technology",
+  "latitude": 35.3209342956543,
+  "longitude": 139.649658203125,
+  "country": "JP"
+ },
+ {
+  "id": "I131651094",
+  "name": "University of Denver",
+  "latitude": 39.73915100097656,
+  "longitude": -104.98470306396484,
+  "country": "US"
+ },
+ {
+  "id": "I1316690553",
+  "name": "NOAA National Ocean Service",
+  "latitude": 38.99066925048828,
+  "longitude": -77.02609252929688,
+  "country": "US"
+ },
+ {
+  "id": "I1317774081",
+  "name": "International Institute for Applied Systems Analysis",
+  "latitude": 48.068328857421875,
+  "longitude": 16.356069564819336,
+  "country": "AT"
+ },
+ {
+  "id": "I1318617081",
+  "name": "Woodrow Wilson International Center for Scholars",
+  "latitude": 38.895111083984375,
+  "longitude": -77.03636932373047,
+  "country": "US"
+ },
+ {
+  "id": "I1318687432",
+  "name": "National Academy of Sciences",
+  "latitude": 38.89302062988281,
+  "longitude": -77.04774475097656,
+  "country": "US"
+ },
+ {
+  "id": "I1319261023",
+  "name": "Monterey Bay Aquarium Research Institute",
+  "latitude": 36.76578903198242,
+  "longitude": -121.75800323486328,
+  "country": "US"
+ },
+ {
+  "id": "I1319328641",
+  "name": "British Antarctic Survey",
+  "latitude": 52.21296310424805,
+  "longitude": 0.07980100065469742,
+  "country": "GB"
+ },
+ {
+  "id": "I1319399744",
+  "name": "Secretariat of the Pacific Community",
+  "latitude": -22.30149269104004,
+  "longitude": 166.4429168701172,
+  "country": "NC"
+ },
+ {
+  "id": "I1319577703",
+  "name": "California Department of Parks and Recreation",
+  "latitude": 38.58156967163086,
+  "longitude": -121.49440002441406,
+  "country": "US"
+ },
+ {
+  "id": "I1319689352",
+  "name": "Fisheries and Oceans Canada",
+  "latitude": 45.411170959472656,
+  "longitude": -75.6981201171875,
+  "country": "CA"
+ },
+ {
+  "id": "I132053463",
+  "name": "Universit\u00e9 Libre de Bruxelles",
+  "latitude": 50.85044860839844,
+  "longitude": 4.348780155181885,
+  "country": "BE"
+ },
+ {
+  "id": "I1320721754",
+  "name": "Ministry of Natural Resources and Forestry",
+  "latitude": 44.30012130737305,
+  "longitude": -78.31623077392578,
+  "country": "CA"
+ },
+ {
+  "id": "I1321067030",
+  "name": "Zoological Society of London",
+  "latitude": 51.535701751708984,
+  "longitude": -0.1574999988079071,
+  "country": "GB"
+ },
+ {
+  "id": "I1322780083",
+  "name": "Minnesota Department of Natural Resources",
+  "latitude": 44.95627212524414,
+  "longitude": -93.08402252197266,
+  "country": "US"
+ },
+ {
+  "id": "I1327020802",
+  "name": "Geological Survey of Canada",
+  "latitude": 45.401893615722656,
+  "longitude": -75.70528411865234,
+  "country": "CA"
+ },
+ {
+  "id": "I1327163397",
+  "name": "State University of New York",
+  "latitude": 42.65258026123047,
+  "longitude": -73.75623321533203,
+  "country": "US"
+ },
+ {
+  "id": "I1328540965",
+  "name": "Australian Institute of Marine Science",
+  "latitude": -19.266389846801758,
+  "longitude": 146.80569458007812,
+  "country": "AU"
+ },
+ {
+  "id": "I1329245128",
+  "name": "British Oceanographic Data Centre",
+  "latitude": 53.410579681396484,
+  "longitude": -2.977940082550049,
+  "country": "GB"
+ },
+ {
+  "id": "I1329765538",
+  "name": "Universities Space Research Association",
+  "latitude": 39.240379333496094,
+  "longitude": -76.83941650390625,
+  "country": "US"
+ },
+ {
+  "id": "I1330876588",
+  "name": "Australian Antarctic Division",
+  "latitude": -42.87936019897461,
+  "longitude": 147.32940673828125,
+  "country": "AU"
+ },
+ {
+  "id": "I1331384533",
+  "name": "University of Hawaii System",
+  "latitude": 21.30694007873535,
+  "longitude": -157.85833740234375,
+  "country": "US"
+ },
+ {
+  "id": "I1332124652",
+  "name": "Centre for Environment, Fisheries and Aquaculture Science",
+  "latitude": 52.4752311706543,
+  "longitude": 1.751670002937317,
+  "country": "GB"
+ },
+ {
+  "id": "I1332258667",
+  "name": "Cape Eleuthera Institute",
+  "latitude": 24.834165573120117,
+  "longitude": -76.32718658447266,
+  "country": "BS"
+ },
+ {
+  "id": "I1332460256",
+  "name": "Wildlife Conservation Society",
+  "latitude": 40.714271545410156,
+  "longitude": -74.00596618652344,
+  "country": "US"
+ },
+ {
+  "id": "I1333577951",
+  "name": "California Department of Fish and Wildlife",
+  "latitude": 38.58156967163086,
+  "longitude": -121.49440002441406,
+  "country": "US"
+ },
+ {
+  "id": "I1333651918",
+  "name": "Indian Institute of Tropical Meteorology",
+  "latitude": 18.519569396972656,
+  "longitude": 73.8553466796875,
+  "country": "IN"
+ },
+ {
+  "id": "I1334329717",
+  "name": "World Bank",
+  "latitude": 38.895111083984375,
+  "longitude": -77.03636932373047,
+  "country": "US"
+ },
+ {
+  "id": "I133437993",
+  "name": "Korea Institute of Ocean Science and Technology",
+  "latitude": 35.101680755615234,
+  "longitude": 129.03004455566406,
+  "country": "KR"
+ },
+ {
+  "id": "I1334627681",
+  "name": "Jet Propulsion Laboratory",
+  "latitude": 34.19916915893555,
+  "longitude": -118.18785095214844,
+  "country": "US"
+ },
+ {
+  "id": "I1334950195",
+  "name": "Australian Nuclear Science and Technology Organisation",
+  "latitude": -33.86785125732422,
+  "longitude": 151.2073211669922,
+  "country": "AU"
+ },
+ {
+  "id": "I1335415512",
+  "name": "Korea Meteorological Administration",
+  "latitude": 37.493709564208984,
+  "longitude": 126.91703796386719,
+  "country": "KR"
+ },
+ {
+  "id": "I133731052",
+  "name": "University of Helsinki",
+  "latitude": 60.16952133178711,
+  "longitude": 24.935449600219727,
+  "country": "FI"
+ },
+ {
+  "id": "I1337719021",
+  "name": "Australian Research Council",
+  "latitude": -35.2834587097168,
+  "longitude": 149.12806701660156,
+  "country": "AU"
+ },
+ {
+  "id": "I1338124936",
+  "name": "American Museum of Natural History",
+  "latitude": 40.714271545410156,
+  "longitude": -74.00596618652344,
+  "country": "US"
+ },
+ {
+  "id": "I1338139034",
+  "name": "New Jersey Department of Health",
+  "latitude": 40.22050476074219,
+  "longitude": -74.76461791992188,
+  "country": "US"
+ },
+ {
+  "id": "I1338920048",
+  "name": "Marine Biological Laboratory",
+  "latitude": 41.52701187133789,
+  "longitude": -70.6732406616211,
+  "country": "US"
+ },
+ {
+  "id": "I1339531966",
+  "name": "Alaska Native Tribal Health Consortium",
+  "latitude": 61.18281936645508,
+  "longitude": -149.80642700195312,
+  "country": "US"
+ },
+ {
+  "id": "I1339850787",
+  "name": "Aboriginal Affairs Northern Dev Canada",
+  "latitude": 45.477230072021484,
+  "longitude": -75.7016372680664,
+  "country": "CA"
+ },
+ {
+  "id": "I1340121542",
+  "name": "Climate Central",
+  "latitude": 40.350067138671875,
+  "longitude": -74.6608657836914,
+  "country": "US"
+ },
+ {
+  "id": "I1340161457",
+  "name": "Stockholm Environment Institute",
+  "latitude": 51.78076171875,
+  "longitude": -1.2676199674606323,
+  "country": "GB"
+ },
+ {
+  "id": "I134161618",
+  "name": "National Taiwan Normal University",
+  "latitude": 25.026159286499023,
+  "longitude": 121.52802276611328,
+  "country": "TW"
+ },
+ {
+  "id": "I1341618623",
+  "name": "National Museum of Natural History",
+  "latitude": 38.895111083984375,
+  "longitude": -77.03636932373047,
+  "country": "US"
+ },
+ {
+  "id": "I1341640284",
+  "name": "Centrum Wiskunde & Informatica",
+  "latitude": 52.37403106689453,
+  "longitude": 4.889689922332764,
+  "country": "NL"
+ },
+ {
+  "id": "I1342547582",
+  "name": "Environment and Climate Change Canada",
+  "latitude": 45.42537307739258,
+  "longitude": -75.69985961914062,
+  "country": "CA"
+ },
+ {
+  "id": "I1343028186",
+  "name": "United States Fish and Wildlife Service",
+  "latitude": 38.88233184814453,
+  "longitude": -77.17108917236328,
+  "country": "US"
+ },
+ {
+  "id": "I1343871089",
+  "name": "Los Alamos National Laboratory",
+  "latitude": 35.88808059692383,
+  "longitude": -106.30696868896484,
+  "country": "US"
+ },
+ {
+  "id": "I134560555",
+  "name": "Universit\u00e9 Toulouse III - Paul Sabatier",
+  "latitude": 43.6042594909668,
+  "longitude": 1.4436700344085693,
+  "country": "FR"
+ },
+ {
+  "id": "I13469542",
+  "name": "Vrije Universiteit Brussel",
+  "latitude": 50.85044860839844,
+  "longitude": 4.348780155181885,
+  "country": "BE"
+ },
+ {
+  "id": "I134820265",
+  "name": "Consejo Superior de Investigaciones Cient\u00edficas",
+  "latitude": 40.416500091552734,
+  "longitude": -3.7025599479675293,
+  "country": "ES"
+ },
+ {
+  "id": "I134987099",
+  "name": "Mongolian Academy of Sciences",
+  "latitude": 47.907711029052734,
+  "longitude": 106.88323974609375,
+  "country": "MN"
+ },
+ {
+  "id": "I13511017",
+  "name": "Texas State University",
+  "latitude": 29.883270263671875,
+  "longitude": -97.94139099121094,
+  "country": "US"
+ },
+ {
+  "id": "I135117807",
+  "name": "Universit\u00e9 de Sherbrooke",
+  "latitude": 45.400081634521484,
+  "longitude": -71.89907836914062,
+  "country": "CA"
+ },
+ {
+  "id": "I135140700",
+  "name": "University of Bonn",
+  "latitude": 50.734378814697266,
+  "longitude": 7.095489978790283,
+  "country": "DE"
+ },
+ {
+  "id": "I135310074",
+  "name": "University of Wisconsin\u2013Madison",
+  "latitude": 43.07305145263672,
+  "longitude": -89.40122985839844,
+  "country": "US"
+ },
+ {
+  "id": "I135474949",
+  "name": "Bowdoin College",
+  "latitude": 43.914520263671875,
+  "longitude": -69.96533203125,
+  "country": "US"
+ },
+ {
+  "id": "I135598925",
+  "name": "Kyushu University",
+  "latitude": 33.599998474121094,
+  "longitude": 130.4166717529297,
+  "country": "JP"
+ },
+ {
+  "id": "I136199984",
+  "name": "Harvard University",
+  "latitude": 42.375099182128906,
+  "longitude": -71.1056137084961,
+  "country": "US"
+ },
+ {
+  "id": "I136324864",
+  "name": "Polar Research Institute of China",
+  "latitude": 31.222219467163086,
+  "longitude": 121.45806121826172,
+  "country": "CN"
+ },
+ {
+  "id": "I137902535",
+  "name": "North Carolina State University",
+  "latitude": 35.772098541259766,
+  "longitude": -78.63861083984375,
+  "country": "US"
+ },
+ {
+  "id": "I138006243",
+  "name": "University of Arizona",
+  "latitude": 32.22174072265625,
+  "longitude": -110.92648315429688,
+  "country": "US"
+ },
+ {
+  "id": "I138595864",
+  "name": "Stockholm Resilience Centre",
+  "latitude": 59.32938003540039,
+  "longitude": 18.068710327148438,
+  "country": "SE"
+ },
+ {
+  "id": "I138900291",
+  "name": "Nipissing University",
+  "latitude": 46.31679916381836,
+  "longitude": -79.4663314819336,
+  "country": "CA"
+ },
+ {
+  "id": "I138925566",
+  "name": "Ewha Womans University",
+  "latitude": 37.56306838989258,
+  "longitude": 126.94673919677734,
+  "country": "KR"
+ },
+ {
+  "id": "I13897259",
+  "name": "Universidad Andr\u00e9s Bello",
+  "latitude": -33.456939697265625,
+  "longitude": -70.64826965332031,
+  "country": "CL"
+ },
+ {
+  "id": "I139264467",
+  "name": "Seoul National University",
+  "latitude": 37.566001892089844,
+  "longitude": 126.97840118408203,
+  "country": "KR"
+ },
+ {
+  "id": "I139559945",
+  "name": "World Maritime University",
+  "latitude": 55.60586929321289,
+  "longitude": 13.00072956085205,
+  "country": "SE"
+ },
+ {
+  "id": "I140172145",
+  "name": "University of Connecticut",
+  "latitude": 41.80842971801758,
+  "longitude": -72.24951934814453,
+  "country": "US"
+ },
+ {
+  "id": "I141472210",
+  "name": "University of Alaska Fairbanks",
+  "latitude": 64.83778381347656,
+  "longitude": -147.7163848876953,
+  "country": "US"
+ },
+ {
+  "id": "I141568987",
+  "name": "Hong Kong Baptist University",
+  "latitude": 22.2783203125,
+  "longitude": 114.17469024658203,
+  "country": "HK"
+ },
+ {
+  "id": "I141596103",
+  "name": "University of Lisbon",
+  "latitude": 38.716670989990234,
+  "longitude": -9.133330345153809,
+  "country": "PT"
+ },
+ {
+  "id": "I141649380",
+  "name": "Western Michigan University",
+  "latitude": 42.291709899902344,
+  "longitude": -85.58722686767578,
+  "country": "US"
+ },
+ {
+  "id": "I141816643",
+  "name": "Natural Environment Research Council",
+  "latitude": 51.55796813964844,
+  "longitude": -1.7811599969863892,
+  "country": "GB"
+ },
+ {
+  "id": "I141945490",
+  "name": "University of British Columbia",
+  "latitude": 49.24966049194336,
+  "longitude": -123.11933898925781,
+  "country": "CA"
+ },
+ {
+  "id": "I142263535",
+  "name": "University of Nottingham",
+  "latitude": 52.93806838989258,
+  "longitude": -1.1967029571533203,
+  "country": "GB"
+ },
+ {
+  "id": "I142606810",
+  "name": "Pacific Northwest National Laboratory",
+  "latitude": 46.28569030761719,
+  "longitude": -119.28446197509766,
+  "country": "US"
+ },
+ {
+  "id": "I142740786",
+  "name": "University of Louisville",
+  "latitude": 38.25423812866211,
+  "longitude": -85.75940704345703,
+  "country": "US"
+ },
+ {
+  "id": "I142899784",
+  "name": "University of Sfax",
+  "latitude": 34.74055862426758,
+  "longitude": 10.760279655456543,
+  "country": "TN"
+ },
+ {
+  "id": "I143002897",
+  "name": "Universit\u00e9 de Toulon",
+  "latitude": 43.12467956542969,
+  "longitude": 6.0103302001953125,
+  "country": "FR"
+ },
+ {
+  "id": "I143302722",
+  "name": "University of Kentucky",
+  "latitude": 37.98868942260742,
+  "longitude": -84.47772216796875,
+  "country": "US"
+ },
+ {
+  "id": "I143804889",
+  "name": "Loughborough University",
+  "latitude": 52.76667022705078,
+  "longitude": -1.2000000476837158,
+  "country": "GB"
+ },
+ {
+  "id": "I144889574",
+  "name": "Universit\u00e9 de Pau et des Pays de l'Adour",
+  "latitude": 43.3111686706543,
+  "longitude": -0.35583001375198364,
+  "country": "FR"
+ },
+ {
+  "id": "I14500998",
+  "name": "International University of Monaco",
+  "latitude": 43.72929382324219,
+  "longitude": 7.415413856506348,
+  "country": "MC"
+ },
+ {
+  "id": "I145608581",
+  "name": "University of Miami",
+  "latitude": 25.72149085998535,
+  "longitude": -80.26837921142578,
+  "country": "US"
+ },
+ {
+  "id": "I146416000",
+  "name": "University of Kansas",
+  "latitude": 38.9716682434082,
+  "longitude": -95.2352523803711,
+  "country": "US"
+ },
+ {
+  "id": "I146429904",
+  "name": "Incheon National University",
+  "latitude": 37.37529373168945,
+  "longitude": 126.63301086425781,
+  "country": "KR"
+ },
+ {
+  "id": "I146655781",
+  "name": "University of Liverpool",
+  "latitude": 53.410579681396484,
+  "longitude": -2.977940082550049,
+  "country": "GB"
+ },
+ {
+  "id": "I147280213",
+  "name": "Universidad Veracruzana",
+  "latitude": 19.531240463256836,
+  "longitude": -96.9158935546875,
+  "country": "MX"
+ },
+ {
+  "id": "I147853995",
+  "name": "University of Alaska Anchorage",
+  "latitude": 61.21805953979492,
+  "longitude": -149.90028381347656,
+  "country": "US"
+ },
+ {
+  "id": "I148261361",
+  "name": "Institut de physique du globe de Paris",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I148283060",
+  "name": "Lawrence Berkeley National Laboratory",
+  "latitude": 37.87158966064453,
+  "longitude": -122.27275085449219,
+  "country": "US"
+ },
+ {
+  "id": "I149213910",
+  "name": "University of Antwerp",
+  "latitude": 51.22272872924805,
+  "longitude": 4.408430099487305,
+  "country": "BE"
+ },
+ {
+  "id": "I149704539",
+  "name": "Deakin University",
+  "latitude": -37.84978103637695,
+  "longitude": 145.11900329589844,
+  "country": "AU"
+ },
+ {
+  "id": "I149899117",
+  "name": "Max Planck Society",
+  "latitude": 48.137428283691406,
+  "longitude": 11.57548999786377,
+  "country": "DE"
+ },
+ {
+  "id": "I150209017",
+  "name": "Scripps Institution of Oceanography",
+  "latitude": 32.84727096557617,
+  "longitude": -117.27420043945312,
+  "country": "US"
+ },
+ {
+  "id": "I150314799",
+  "name": "International Food Policy Research Institute",
+  "latitude": 38.903255462646484,
+  "longitude": -77.04644775390625,
+  "country": "US"
+ },
+ {
+  "id": "I150397245",
+  "name": "York College, City University of New York",
+  "latitude": 40.70199966430664,
+  "longitude": -73.79499816894531,
+  "country": "US"
+ },
+ {
+  "id": "I151746483",
+  "name": "University of Waterloo",
+  "latitude": 43.466800689697266,
+  "longitude": -80.51638793945312,
+  "country": "CA"
+ },
+ {
+  "id": "I151934421",
+  "name": "University of Northern British Columbia",
+  "latitude": 53.91659927368164,
+  "longitude": -122.75301361083984,
+  "country": "CA"
+ },
+ {
+  "id": "I152304114",
+  "name": "Lamont-Doherty Earth Observatory",
+  "latitude": 41.00400161743164,
+  "longitude": -73.90699768066406,
+  "country": "US"
+ },
+ {
+  "id": "I152429107",
+  "name": "Jawaharlal Nehru University",
+  "latitude": 28.621370315551758,
+  "longitude": 77.21479797363281,
+  "country": "IN"
+ },
+ {
+  "id": "I153718931",
+  "name": "University of Ottawa",
+  "latitude": 45.411170959472656,
+  "longitude": -75.6981201171875,
+  "country": "CA"
+ },
+ {
+  "id": "I153901656",
+  "name": "University of North Carolina Wilmington",
+  "latitude": 34.22698211669922,
+  "longitude": -77.86325073242188,
+  "country": "US"
+ },
+ {
+  "id": "I154130895",
+  "name": "University of Auckland",
+  "latitude": -36.84852981567383,
+  "longitude": 174.76348876953125,
+  "country": "NZ"
+ },
+ {
+  "id": "I154202486",
+  "name": "Ifremer",
+  "latitude": 48.390289306640625,
+  "longitude": -4.4862799644470215,
+  "country": "FR"
+ },
+ {
+  "id": "I154338468",
+  "name": "University of Fribourg",
+  "latitude": 46.8023681640625,
+  "longitude": 7.151279926300049,
+  "country": "CH"
+ },
+ {
+  "id": "I154425047",
+  "name": "University of Alberta",
+  "latitude": 53.550140380859375,
+  "longitude": -113.46871185302734,
+  "country": "CA"
+ },
+ {
+  "id": "I154570441",
+  "name": "University of California, Santa Barbara",
+  "latitude": 34.42082977294922,
+  "longitude": -119.69818878173828,
+  "country": "US"
+ },
+ {
+  "id": "I154691954",
+  "name": "University of Quintana Roo",
+  "latitude": 18.514129638671875,
+  "longitude": -88.3038101196289,
+  "country": "MX"
+ },
+ {
+  "id": "I154799132",
+  "name": "Universit\u00e9 de Moncton",
+  "latitude": 46.094539642333984,
+  "longitude": -64.79650115966797,
+  "country": "CA"
+ },
+ {
+  "id": "I154986956",
+  "name": "European Centre for Medium-Range Weather Forecasts",
+  "latitude": 51.45624923706055,
+  "longitude": -0.9711300134658813,
+  "country": "GB"
+ },
+ {
+  "id": "I155093810",
+  "name": "University of Idaho",
+  "latitude": 46.732391357421875,
+  "longitude": -117.00016784667969,
+  "country": "US"
+ },
+ {
+  "id": "I156087764",
+  "name": "University of California, Merced",
+  "latitude": 37.30215835571289,
+  "longitude": -120.48297119140625,
+  "country": "US"
+ },
+ {
+  "id": "I156341307",
+  "name": "University of San Carlos of Guatemala",
+  "latitude": 14.64072036743164,
+  "longitude": -90.51326751708984,
+  "country": "GT"
+ },
+ {
+  "id": "I157286207",
+  "name": "National University of Ireland, Maynooth",
+  "latitude": 53.3849983215332,
+  "longitude": -6.593609809875488,
+  "country": "IE"
+ },
+ {
+  "id": "I157349981",
+  "name": "SUNY College of Environmental Science and Forestry",
+  "latitude": 43.048118591308594,
+  "longitude": -76.14742279052734,
+  "country": "US"
+ },
+ {
+  "id": "I157394403",
+  "name": "Baylor University",
+  "latitude": 31.54932975769043,
+  "longitude": -97.14666748046875,
+  "country": "US"
+ },
+ {
+  "id": "I157417397",
+  "name": "Bowling Green State University",
+  "latitude": 41.37477111816406,
+  "longitude": -83.65132141113281,
+  "country": "US"
+ },
+ {
+  "id": "I157674565",
+  "name": "University of Li\u00e8ge",
+  "latitude": 50.633731842041016,
+  "longitude": 5.567490100860596,
+  "country": "BE"
+ },
+ {
+  "id": "I157725225",
+  "name": "University of Illinois Urbana-Champaign",
+  "latitude": 40.110591888427734,
+  "longitude": -88.20726776123047,
+  "country": "US"
+ },
+ {
+  "id": "I158011677",
+  "name": "Sonoma State University",
+  "latitude": 38.33964157104492,
+  "longitude": -122.70110321044922,
+  "country": "US"
+ },
+ {
+  "id": "I15807432",
+  "name": "Osaka Prefecture University",
+  "latitude": 34.58332824707031,
+  "longitude": 135.4666748046875,
+  "country": "JP"
+ },
+ {
+  "id": "I159129438",
+  "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al",
+  "latitude": 45.50883865356445,
+  "longitude": -73.58780670166016,
+  "country": "CA"
+ },
+ {
+  "id": "I159176309",
+  "name": "Universit\u00e4t Hamburg",
+  "latitude": 53.55073165893555,
+  "longitude": 9.993020057678223,
+  "country": "DE"
+ },
+ {
+  "id": "I159247623",
+  "name": "Mansoura University",
+  "latitude": 31.03636932373047,
+  "longitude": 31.38068962097168,
+  "country": "EG"
+ },
+ {
+  "id": "I159385669",
+  "name": "Chiba University",
+  "latitude": 35.599998474121094,
+  "longitude": 140.11666870117188,
+  "country": "JP"
+ },
+ {
+  "id": "I160253776",
+  "name": "University of Cienfuegos",
+  "latitude": 22.173059463500977,
+  "longitude": -80.4505844116211,
+  "country": "CU"
+ },
+ {
+  "id": "I16038530",
+  "name": "Aberystwyth University",
+  "latitude": 52.41548156738281,
+  "longitude": -4.082920074462891,
+  "country": "GB"
+ },
+ {
+  "id": "I161046081",
+  "name": "University of Freiburg",
+  "latitude": 47.99589920043945,
+  "longitude": 7.852220058441162,
+  "country": "DE"
+ },
+ {
+  "id": "I161057412",
+  "name": "University of New Hampshire",
+  "latitude": 43.133968353271484,
+  "longitude": -70.92645263671875,
+  "country": "US"
+ },
+ {
+  "id": "I161318765",
+  "name": "University of California, Los Angeles",
+  "latitude": 34.05223083496094,
+  "longitude": -118.24368286132812,
+  "country": "US"
+ },
+ {
+  "id": "I161548249",
+  "name": "Bangor University",
+  "latitude": 53.22751998901367,
+  "longitude": -4.129360198974609,
+  "country": "GB"
+ },
+ {
+  "id": "I161593684",
+  "name": "Stockholm University",
+  "latitude": 59.32938003540039,
+  "longitude": 18.068710327148438,
+  "country": "SE"
+ },
+ {
+  "id": "I161675122",
+  "name": "Cooperative Institute for Research in Environmental Sciences",
+  "latitude": 40.014991760253906,
+  "longitude": -105.27055358886719,
+  "country": "US"
+ },
+ {
+  "id": "I162714631",
+  "name": "George Mason University",
+  "latitude": 38.84621810913086,
+  "longitude": -77.3063735961914,
+  "country": "US"
+ },
+ {
+  "id": "I16285277",
+  "name": "William & Mary",
+  "latitude": 37.27069854736328,
+  "longitude": -76.70745849609375,
+  "country": "US"
+ },
+ {
+  "id": "I164185940",
+  "name": "Texas A&M University at Galveston",
+  "latitude": 29.301349639892578,
+  "longitude": -94.79769897460938,
+  "country": "US"
+ },
+ {
+  "id": "I164576550",
+  "name": "World Conservation Monitoring Centre",
+  "latitude": 52.219871520996094,
+  "longitude": 0.0919250026345253,
+  "country": "GB"
+ },
+ {
+  "id": "I16465266",
+  "name": "Austral University of Chile",
+  "latitude": -39.8142204284668,
+  "longitude": -73.24588775634766,
+  "country": "CL"
+ },
+ {
+  "id": "I165143802",
+  "name": "University of Queensland",
+  "latitude": -27.467939376831055,
+  "longitude": 153.02809143066406,
+  "country": "AU"
+ },
+ {
+  "id": "I165368041",
+  "name": "University of Iceland",
+  "latitude": 64.13548278808594,
+  "longitude": -21.895410537719727,
+  "country": "IS"
+ },
+ {
+  "id": "I165476936",
+  "name": "Vale (Brazil)",
+  "latitude": -19.63037109375,
+  "longitude": -43.24480056762695,
+  "country": "BR"
+ },
+ {
+  "id": "I165580012",
+  "name": "Geospatial Information Authority of Japan",
+  "latitude": 36.14206314086914,
+  "longitude": 140.04318237304688,
+  "country": "JP"
+ },
+ {
+  "id": "I165733156",
+  "name": "University of Georgia",
+  "latitude": 33.9609489440918,
+  "longitude": -83.37793731689453,
+  "country": "US"
+ },
+ {
+  "id": "I165779595",
+  "name": "University of Melbourne",
+  "latitude": -37.81399917602539,
+  "longitude": 144.96331787109375,
+  "country": "AU"
+ },
+ {
+  "id": "I165932596",
+  "name": "National University of Singapore",
+  "latitude": 1.2896699905395508,
+  "longitude": 103.85006713867188,
+  "country": "SG"
+ },
+ {
+  "id": "I166401450",
+  "name": "Universidad Nacional de C\u00f3rdoba",
+  "latitude": -31.41349983215332,
+  "longitude": -64.1810531616211,
+  "country": "AR"
+ },
+ {
+  "id": "I16733864",
+  "name": "National Taiwan University",
+  "latitude": 25.016000747680664,
+  "longitude": 121.53600311279297,
+  "country": "TW"
+ },
+ {
+  "id": "I167576493",
+  "name": "Colorado School of Mines",
+  "latitude": 39.75553894042969,
+  "longitude": -105.22109985351562,
+  "country": "US"
+ },
+ {
+  "id": "I16835326",
+  "name": "University of St Andrews",
+  "latitude": 56.33871078491211,
+  "longitude": -2.7990200519561768,
+  "country": "GB"
+ },
+ {
+  "id": "I168635309",
+  "name": "University of Calgary",
+  "latitude": 51.05010986328125,
+  "longitude": -114.08528900146484,
+  "country": "CA"
+ },
+ {
+  "id": "I169381384",
+  "name": "University of Groningen",
+  "latitude": 53.219444274902344,
+  "longitude": 6.5629658699035645,
+  "country": "NL"
+ },
+ {
+  "id": "I16944753",
+  "name": "Clarkson University",
+  "latitude": 44.66978073120117,
+  "longitude": -74.98130798339844,
+  "country": "US"
+ },
+ {
+  "id": "I170481763",
+  "name": "Yukon University",
+  "latitude": 60.75033187866211,
+  "longitude": -135.09873962402344,
+  "country": "CA"
+ },
+ {
+  "id": "I17068995",
+  "name": "Florida Fish and Wildlife Conservation Commission",
+  "latitude": 30.43825912475586,
+  "longitude": -84.28073120117188,
+  "country": "US"
+ },
+ {
+  "id": "I170897317",
+  "name": "Duke University",
+  "latitude": 35.9940299987793,
+  "longitude": -78.89862060546875,
+  "country": "US"
+ },
+ {
+  "id": "I171481255",
+  "name": "Shibaura Institute of Technology",
+  "latitude": 35.66188049316406,
+  "longitude": 139.79519653320312,
+  "country": "JP"
+ },
+ {
+  "id": "I172675005",
+  "name": "Nanyang Technological University",
+  "latitude": 1.2896699905395508,
+  "longitude": 103.85006713867188,
+  "country": "SG"
+ },
+ {
+  "id": "I172787465",
+  "name": "University of Concepci\u00f3n",
+  "latitude": -36.826988220214844,
+  "longitude": -73.04976654052734,
+  "country": "CL"
+ },
+ {
+  "id": "I173304897",
+  "name": "Universidad de Granada",
+  "latitude": 37.18817138671875,
+  "longitude": -3.6066699028015137,
+  "country": "ES"
+ },
+ {
+  "id": "I173469076",
+  "name": "Ilisimatusarfik",
+  "latitude": 64.1834716796875,
+  "longitude": -51.7215690612793,
+  "country": "GL"
+ },
+ {
+  "id": "I173664879",
+  "name": "Universidad Aut\u00f3noma de Baja California",
+  "latitude": 32.627811431884766,
+  "longitude": -115.45446014404297,
+  "country": "MX"
+ },
+ {
+  "id": "I174025329",
+  "name": "University of the Sunshine Coast",
+  "latitude": -26.65682029724121,
+  "longitude": 153.0795440673828,
+  "country": "AU"
+ },
+ {
+  "id": "I174216632",
+  "name": "City University of New York",
+  "latitude": 40.714271545410156,
+  "longitude": -74.00596618652344,
+  "country": "US"
+ },
+ {
+  "id": "I17626003",
+  "name": "University of Rhode Island",
+  "latitude": 41.48038101196289,
+  "longitude": -71.5225601196289,
+  "country": "US"
+ },
+ {
+  "id": "I176453806",
+  "name": "University of Potsdam",
+  "latitude": 52.398860931396484,
+  "longitude": 13.06566047668457,
+  "country": "DE"
+ },
+ {
+  "id": "I177235860",
+  "name": "Public Health Agency of Canada",
+  "latitude": 45.411170959472656,
+  "longitude": -75.6981201171875,
+  "country": "CA"
+ },
+ {
+  "id": "I177483745",
+  "name": "Universit\u00e9 Joseph Fourier",
+  "latitude": 45.17869186401367,
+  "longitude": 5.714789867401123,
+  "country": "FR"
+ },
+ {
+  "id": "I177725633",
+  "name": "Chinese University of Hong Kong",
+  "latitude": 22.419721603393555,
+  "longitude": 114.20679473876953,
+  "country": "CN"
+ },
+ {
+  "id": "I177877127",
+  "name": "University of Western Australia",
+  "latitude": -31.952239990234375,
+  "longitude": 115.86139678955078,
+  "country": "AU"
+ },
+ {
+  "id": "I177881444",
+  "name": "Pomona College",
+  "latitude": 34.0966796875,
+  "longitude": -117.71977996826172,
+  "country": "US"
+ },
+ {
+  "id": "I178102782",
+  "name": "John F. Kennedy University",
+  "latitude": 37.94797897338867,
+  "longitude": -122.06079864501953,
+  "country": "US"
+ },
+ {
+  "id": "I178574317",
+  "name": "Mie University",
+  "latitude": 34.73332977294922,
+  "longitude": 136.51666259765625,
+  "country": "JP"
+ },
+ {
+  "id": "I17866349",
+  "name": "Universit\u00e9 de Toulouse",
+  "latitude": 43.6042594909668,
+  "longitude": 1.4436700344085693,
+  "country": "FR"
+ },
+ {
+  "id": "I17974374",
+  "name": "Universidade de S\u00e3o Paulo",
+  "latitude": -23.547500610351562,
+  "longitude": -46.6361083984375,
+  "country": "BR"
+ },
+ {
+  "id": "I18014758",
+  "name": "Simon Fraser University",
+  "latitude": 49.266361236572266,
+  "longitude": -122.95262908935547,
+  "country": "CA"
+ },
+ {
+  "id": "I180437899",
+  "name": "University of Bremen",
+  "latitude": 53.07582092285156,
+  "longitude": 8.807169914245605,
+  "country": "DE"
+ },
+ {
+  "id": "I180923762",
+  "name": "University of Cologne",
+  "latitude": 50.93333053588867,
+  "longitude": 6.949999809265137,
+  "country": "DE"
+ },
+ {
+  "id": "I181233156",
+  "name": "University of Oregon",
+  "latitude": 44.05207061767578,
+  "longitude": -123.08674621582031,
+  "country": "US"
+ },
+ {
+  "id": "I181369854",
+  "name": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg",
+  "latitude": 49.59098815917969,
+  "longitude": 11.007829666137695,
+  "country": "DE"
+ },
+ {
+  "id": "I181391015",
+  "name": "Universidade Estadual de Campinas (UNICAMP)",
+  "latitude": -22.905559539794922,
+  "longitude": -47.060829162597656,
+  "country": "BR"
+ },
+ {
+  "id": "I182286215",
+  "name": "Institute of Arctic and Alpine Research",
+  "latitude": 40.014991760253906,
+  "longitude": -105.27055358886719,
+  "country": "US"
+ },
+ {
+  "id": "I182451676",
+  "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouski",
+  "latitude": 48.44879150390625,
+  "longitude": -68.52395629882812,
+  "country": "CA"
+ },
+ {
+  "id": "I183067930",
+  "name": "Shanghai Jiao Tong University",
+  "latitude": 31.222219467163086,
+  "longitude": 121.45806121826172,
+  "country": "CN"
+ },
+ {
+  "id": "I183570559",
+  "name": "National Chiayi University",
+  "latitude": 23.463682174682617,
+  "longitude": 120.48360443115234,
+  "country": "TW"
+ },
+ {
+  "id": "I183935753",
+  "name": "King's College London",
+  "latitude": 51.50852966308594,
+  "longitude": -0.12574000656604767,
+  "country": "GB"
+ },
+ {
+  "id": "I184746854",
+  "name": "Lincoln University",
+  "latitude": -43.650001525878906,
+  "longitude": 172.48333740234375,
+  "country": "NZ"
+ },
+ {
+  "id": "I184942183",
+  "name": "University of Oslo",
+  "latitude": 59.9127311706543,
+  "longitude": 10.746089935302734,
+  "country": "NO"
+ },
+ {
+  "id": "I1850255",
+  "name": "University of Basel",
+  "latitude": 47.55839157104492,
+  "longitude": 7.573269844055176,
+  "country": "CH"
+ },
+ {
+  "id": "I185103710",
+  "name": "University of California, Santa Cruz",
+  "latitude": 36.97412109375,
+  "longitude": -122.03079986572266,
+  "country": "US"
+ },
+ {
+  "id": "I185261750",
+  "name": "University of Toronto",
+  "latitude": 43.70642852783203,
+  "longitude": -79.39864349365234,
+  "country": "CA"
+ },
+ {
+  "id": "I185492890",
+  "name": "University of Canterbury",
+  "latitude": -43.533329010009766,
+  "longitude": 172.63333129882812,
+  "country": "NZ"
+ },
+ {
+  "id": "I186143895",
+  "name": "Lehigh University",
+  "latitude": 40.62593078613281,
+  "longitude": -75.3704605102539,
+  "country": "US"
+ },
+ {
+  "id": "I186274478",
+  "name": "United States Coast Guard Academy",
+  "latitude": 41.373878479003906,
+  "longitude": -72.09873962402344,
+  "country": "US"
+ },
+ {
+  "id": "I186335123",
+  "name": "East Carolina University",
+  "latitude": 35.6126594543457,
+  "longitude": -77.36634826660156,
+  "country": "US"
+ },
+ {
+  "id": "I186442907",
+  "name": "Universidad de Oriente",
+  "latitude": 10.453969955444336,
+  "longitude": -64.18256378173828,
+  "country": "VE"
+ },
+ {
+  "id": "I187531555",
+  "name": "Lund University",
+  "latitude": 55.705841064453125,
+  "longitude": 13.193209648132324,
+  "country": "SE"
+ },
+ {
+  "id": "I188329596",
+  "name": "University of Canberra",
+  "latitude": -35.2834587097168,
+  "longitude": 149.12806701660156,
+  "country": "AU"
+ },
+ {
+  "id": "I188538660",
+  "name": "University of Colorado Boulder",
+  "latitude": 40.014991760253906,
+  "longitude": -105.27055358886719,
+  "country": "US"
+ },
+ {
+  "id": "I189158943",
+  "name": "University of Milan",
+  "latitude": 45.464271545410156,
+  "longitude": 9.189510345458984,
+  "country": "IT"
+ },
+ {
+  "id": "I190082696",
+  "name": "Durham University",
+  "latitude": 54.76517868041992,
+  "longitude": -1.5782239437103271,
+  "country": "GB"
+ },
+ {
+  "id": "I190118902",
+  "name": "United Nations University Institute on Globalization, Culture and Mobility",
+  "latitude": 41.388790130615234,
+  "longitude": 2.158989906311035,
+  "country": "ES"
+ },
+ {
+  "id": "I190249584",
+  "name": "Universit\u00e4t Innsbruck",
+  "latitude": 47.26266098022461,
+  "longitude": 11.394539833068848,
+  "country": "AT"
+ },
+ {
+  "id": "I191208505",
+  "name": "Xiamen University",
+  "latitude": 24.47978973388672,
+  "longitude": 118.08187103271484,
+  "country": "CN"
+ },
+ {
+  "id": "I191217947",
+  "name": "NOAA Geophysical Fluid Dynamics Laboratory",
+  "latitude": 40.34872055053711,
+  "longitude": -74.65904998779297,
+  "country": "US"
+ },
+ {
+  "id": "I192389796",
+  "name": "Humboldt State University",
+  "latitude": 40.866519927978516,
+  "longitude": -124.08283996582031,
+  "country": "US"
+ },
+ {
+  "id": "I192455969",
+  "name": "York University",
+  "latitude": 43.70642852783203,
+  "longitude": -79.39864349365234,
+  "country": "CA"
+ },
+ {
+  "id": "I192513696",
+  "name": "National University of San Marcos",
+  "latitude": -12.043180465698242,
+  "longitude": -77.02823638916016,
+  "country": "PE"
+ },
+ {
+  "id": "I193531525",
+  "name": "George Washington University",
+  "latitude": 38.895111083984375,
+  "longitude": -77.03636932373047,
+  "country": "US"
+ },
+ {
+  "id": "I193662353",
+  "name": "Utrecht University",
+  "latitude": 52.0908317565918,
+  "longitude": 5.122220039367676,
+  "country": "NL"
+ },
+ {
+  "id": "I19370010",
+  "name": "Orange (France)",
+  "latitude": 48.83502197265625,
+  "longitude": 2.2924718856811523,
+  "country": "FR"
+ },
+ {
+  "id": "I193775966",
+  "name": "Yonsei University",
+  "latitude": 37.566001892089844,
+  "longitude": 126.97840118408203,
+  "country": "KR"
+ },
+ {
+  "id": "I194601409",
+  "name": "Cooperative Institute for Mesoscale Meteorological Studies",
+  "latitude": 35.18138885498047,
+  "longitude": -97.44000244140625,
+  "country": "US"
+ },
+ {
+  "id": "I195460627",
+  "name": "University of Aberdeen",
+  "latitude": 57.1436882019043,
+  "longitude": -2.098140001296997,
+  "country": "GB"
+ },
+ {
+  "id": "I195575238",
+  "name": "Middlebury College",
+  "latitude": 44.00835037231445,
+  "longitude": -73.17737579345703,
+  "country": "US"
+ },
+ {
+  "id": "I195731000",
+  "name": "Universit\u00e9 de Versailles Saint-Quentin-en-Yvelines",
+  "latitude": 48.8035888671875,
+  "longitude": 2.134239912033081,
+  "country": "FR"
+ },
+ {
+  "id": "I196272386",
+  "name": "Providence College",
+  "latitude": 41.82398986816406,
+  "longitude": -71.41282653808594,
+  "country": "US"
+ },
+ {
+  "id": "I196375840",
+  "name": "Autonomous University of Sinaloa",
+  "latitude": 24.790319442749023,
+  "longitude": -107.3878173828125,
+  "country": "MX"
+ },
+ {
+  "id": "I196664497",
+  "name": "Autonomous University of San Luis Potos\u00ed",
+  "latitude": 22.15289306640625,
+  "longitude": -100.97676849365234,
+  "country": "MX"
+ },
+ {
+  "id": "I196817621",
+  "name": "Carnegie Institution for Science",
+  "latitude": 38.895111083984375,
+  "longitude": -77.03636932373047,
+  "country": "US"
+ },
+ {
+  "id": "I19700959",
+  "name": "Florida International University",
+  "latitude": 25.774269104003906,
+  "longitude": -80.19365692138672,
+  "country": "US"
+ },
+ {
+  "id": "I197191942",
+  "name": "St. Francis Xavier University",
+  "latitude": 45.616851806640625,
+  "longitude": -61.99858093261719,
+  "country": "CA"
+ },
+ {
+  "id": "I197940685",
+  "name": "National Oceanography Centre",
+  "latitude": 50.90394973754883,
+  "longitude": -1.4042799472808838,
+  "country": "GB"
+ },
+ {
+  "id": "I19820366",
+  "name": "Chinese Academy of Sciences",
+  "latitude": 39.907501220703125,
+  "longitude": 116.39723205566406,
+  "country": "CN"
+ },
+ {
+  "id": "I198423848",
+  "name": "National Institute for Occupational Safety and Health",
+  "latitude": 38.883522033691406,
+  "longitude": -77.0172119140625,
+  "country": "US"
+ },
+ {
+  "id": "I200202764",
+  "name": "National Institute for Environmental Studies",
+  "latitude": 36.050418853759766,
+  "longitude": 140.1185302734375,
+  "country": "JP"
+ },
+ {
+  "id": "I200475212",
+  "name": "The Graduate University for Advanced Studies, SOKENDAI",
+  "latitude": 35.26111602783203,
+  "longitude": 139.6084442138672,
+  "country": "JP"
+ },
+ {
+  "id": "I200650556",
+  "name": "University of Agder",
+  "latitude": 58.14670944213867,
+  "longitude": 7.99560022354126,
+  "country": "NO"
+ },
+ {
+  "id": "I200845125",
+  "name": "Nanjing University of Information Science and Technology",
+  "latitude": 32.061668395996094,
+  "longitude": 118.77777862548828,
+  "country": "CN"
+ },
+ {
+  "id": "I20089843",
+  "name": "Princeton University",
+  "latitude": 40.34872055053711,
+  "longitude": -74.65904998779297,
+  "country": "US"
+ },
+ {
+  "id": "I201448701",
+  "name": "University of Washington",
+  "latitude": 47.60620880126953,
+  "longitude": -122.33206939697266,
+  "country": "US"
+ },
+ {
+  "id": "I201537933",
+  "name": "Tohoku University",
+  "latitude": 38.26667022705078,
+  "longitude": 140.86666870117188,
+  "country": "JP"
+ },
+ {
+  "id": "I202262619",
+  "name": "United Nations Environment Programme",
+  "latitude": -1.283329963684082,
+  "longitude": 36.81666946411133,
+  "country": "KE"
+ },
+ {
+  "id": "I202266959",
+  "name": "Environmental Law Institute",
+  "latitude": 38.905555725097656,
+  "longitude": -77.0385971069336,
+  "country": "US"
+ },
+ {
+  "id": "I20231570",
+  "name": "Peking University",
+  "latitude": 39.907501220703125,
+  "longitude": 116.39723205566406,
+  "country": "CN"
+ },
+ {
+  "id": "I202697423",
+  "name": "University of Zurich",
+  "latitude": 47.366668701171875,
+  "longitude": 8.550000190734863,
+  "country": "CH"
+ },
+ {
+  "id": "I20305541",
+  "name": "National Autonomous University of Nicaragua",
+  "latitude": 12.132820129394531,
+  "longitude": -86.25039672851562,
+  "country": "NI"
+ },
+ {
+  "id": "I203088144",
+  "name": "Nova Southeastern University",
+  "latitude": 26.077899932861328,
+  "longitude": -80.24188995361328,
+  "country": "US"
+ },
+ {
+  "id": "I203172682",
+  "name": "Northern Arizona University",
+  "latitude": 35.19807052612305,
+  "longitude": -111.6512680053711,
+  "country": "US"
+ },
+ {
+  "id": "I203238179",
+  "name": "Rhodes University",
+  "latitude": -33.30421829223633,
+  "longitude": 26.532760620117188,
+  "country": "ZA"
+ },
+ {
+  "id": "I204136569",
+  "name": "The Open University",
+  "latitude": 52.04172134399414,
+  "longitude": -0.7558299899101257,
+  "country": "GB"
+ },
+ {
+  "id": "I204250578",
+  "name": "University of California, Irvine",
+  "latitude": 33.66946029663086,
+  "longitude": -117.82311248779297,
+  "country": "US"
+ },
+ {
+  "id": "I204337017",
+  "name": "Aarhus University",
+  "latitude": 56.15673828125,
+  "longitude": 10.210760116577148,
+  "country": "DK"
+ },
+ {
+  "id": "I204722609",
+  "name": "Queen's University",
+  "latitude": 44.229759216308594,
+  "longitude": -76.4809799194336,
+  "country": "CA"
+ },
+ {
+  "id": "I204730241",
+  "name": "Universit\u00e9 Paris Cit\u00e9",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I204778367",
+  "name": "Norwegian University of Science and Technology",
+  "latitude": 63.43048858642578,
+  "longitude": 10.395059585571289,
+  "country": "NO"
+ },
+ {
+  "id": "I204824540",
+  "name": "University of Wollongong",
+  "latitude": -34.42399978637695,
+  "longitude": 150.89344787597656,
+  "country": "AU"
+ },
+ {
+  "id": "I205220096",
+  "name": "Institute of Oceanology. PP Shirshov Russian Academy of Sciences",
+  "latitude": 55.676944732666016,
+  "longitude": 37.56888961791992,
+  "country": "RU"
+ },
+ {
+  "id": "I205349734",
+  "name": "Hokkaido University",
+  "latitude": 43.07817840576172,
+  "longitude": 141.3399658203125,
+  "country": "JP"
+ },
+ {
+  "id": "I205640436",
+  "name": "Curtin University",
+  "latitude": -31.952239990234375,
+  "longitude": 115.86139678955078,
+  "country": "AU"
+ },
+ {
+  "id": "I205924995",
+  "name": "Japan Society for the Promotion of Science",
+  "latitude": 35.68716049194336,
+  "longitude": 139.74038696289062,
+  "country": "JP"
+ },
+ {
+  "id": "I206895457",
+  "name": "University of Siegen",
+  "latitude": 50.87480926513672,
+  "longitude": 8.024310111999512,
+  "country": "DE"
+ },
+ {
+  "id": "I212119943",
+  "name": "University of Victoria",
+  "latitude": 48.4359016418457,
+  "longitude": -123.35154724121094,
+  "country": "CA"
+ },
+ {
+  "id": "I21250087",
+  "name": "Charles University",
+  "latitude": 50.08803939819336,
+  "longitude": 14.420760154724121,
+  "country": "CZ"
+ },
+ {
+  "id": "I21491767",
+  "name": "Aix-Marseille Universit\u00e9",
+  "latitude": 43.29695129394531,
+  "longitude": 5.381070137023926,
+  "country": "FR"
+ },
+ {
+  "id": "I219193219",
+  "name": "Purdue University West Lafayette",
+  "latitude": 40.42586898803711,
+  "longitude": -86.90807342529297,
+  "country": "US"
+ },
+ {
+  "id": "I22188714",
+  "name": "University of Prince Edward Island",
+  "latitude": 46.257179260253906,
+  "longitude": -63.13921356201172,
+  "country": "CA"
+ },
+ {
+  "id": "I223532165",
+  "name": "University of Utah",
+  "latitude": 40.760780334472656,
+  "longitude": -111.89105224609375,
+  "country": "US"
+ },
+ {
+  "id": "I223822909",
+  "name": "Heidelberg University",
+  "latitude": 49.40768051147461,
+  "longitude": 8.690790176391602,
+  "country": "DE"
+ },
+ {
+  "id": "I22442739",
+  "name": "University of Taipei",
+  "latitude": 25.047760009765625,
+  "longitude": 121.53185272216797,
+  "country": "TW"
+ },
+ {
+  "id": "I23732399",
+  "name": "Montana State University",
+  "latitude": 45.679649353027344,
+  "longitude": -111.03855895996094,
+  "country": "US"
+ },
+ {
+  "id": "I23923803",
+  "name": "University of Exeter",
+  "latitude": 50.72359848022461,
+  "longitude": -3.527509927749634,
+  "country": "GB"
+ },
+ {
+  "id": "I241749",
+  "name": "University of Cambridge",
+  "latitude": 52.20000076293945,
+  "longitude": 0.11666999757289886,
+  "country": "GB"
+ },
+ {
+  "id": "I24354313",
+  "name": "University of Buenos Aires",
+  "latitude": -34.61315155029297,
+  "longitude": -58.37723159790039,
+  "country": "AR"
+ },
+ {
+  "id": "I24603500",
+  "name": "University of Massachusetts Amherst",
+  "latitude": 42.375370025634766,
+  "longitude": -72.51924896240234,
+  "country": "US"
+ },
+ {
+  "id": "I24861097",
+  "name": "St. Olaf College",
+  "latitude": 44.45830154418945,
+  "longitude": -93.1615982055664,
+  "country": "US"
+ },
+ {
+  "id": "I25254941",
+  "name": "Beijing Normal University",
+  "latitude": 39.907501220703125,
+  "longitude": 116.39723205566406,
+  "country": "CN"
+ },
+ {
+  "id": "I25390106",
+  "name": "University of Hawaii\u2013West Oahu",
+  "latitude": 21.356386184692383,
+  "longitude": -158.0561981201172,
+  "country": "US"
+ },
+ {
+  "id": "I26092322",
+  "name": "Stellenbosch University",
+  "latitude": -33.93461990356445,
+  "longitude": 18.86676025390625,
+  "country": "ZA"
+ },
+ {
+  "id": "I2613432",
+  "name": "University of South Florida",
+  "latitude": 27.947519302368164,
+  "longitude": -82.45842742919922,
+  "country": "US"
+ },
+ {
+  "id": "I26538001",
+  "name": "San Diego State University",
+  "latitude": 32.7157096862793,
+  "longitude": -117.16471862792969,
+  "country": "US"
+ },
+ {
+  "id": "I2738703131",
+  "name": "Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I2746051580",
+  "name": "Universit\u00e9 Paris Sciences et Lettres",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I27577105",
+  "name": "University College Cork",
+  "latitude": 51.89796829223633,
+  "longitude": -8.470609664916992,
+  "country": "IE"
+ },
+ {
+  "id": "I275799156",
+  "name": "University of New England",
+  "latitude": 43.45853042602539,
+  "longitude": -70.38926696777344,
+  "country": "US"
+ },
+ {
+  "id": "I277688954",
+  "name": "Universit\u00e9 Paris-Saclay",
+  "latitude": 48.68333053588867,
+  "longitude": 2.1333301067352295,
+  "country": "FR"
+ },
+ {
+  "id": "I27804330",
+  "name": "Brown University",
+  "latitude": 41.82398986816406,
+  "longitude": -71.41282653808594,
+  "country": "US"
+ },
+ {
+  "id": "I27825529",
+  "name": "California State University Los Angeles",
+  "latitude": 34.05223083496094,
+  "longitude": -118.24368286132812,
+  "country": "US"
+ },
+ {
+  "id": "I27837315",
+  "name": "University of Michigan\u2013Ann Arbor",
+  "latitude": 42.27756118774414,
+  "longitude": -83.74088287353516,
+  "country": "US"
+ },
+ {
+  "id": "I27841520",
+  "name": "NOAA Pacific Marine Environmental Laboratory",
+  "latitude": 47.60620880126953,
+  "longitude": -122.33206939697266,
+  "country": "US"
+ },
+ {
+  "id": "I2799285752",
+  "name": "Bay Institute",
+  "latitude": 37.806236267089844,
+  "longitude": -122.41191864013672,
+  "country": "US"
+ },
+ {
+  "id": "I2799356940",
+  "name": "University Corporation for Atmospheric Research",
+  "latitude": 40.014991760253906,
+  "longitude": -105.27055358886719,
+  "country": "US"
+ },
+ {
+  "id": "I2799376586",
+  "name": "The Scarborough Hospital",
+  "latitude": 43.756187438964844,
+  "longitude": -79.24678039550781,
+  "country": "CA"
+ },
+ {
+  "id": "I2799456076",
+  "name": "Danish Energy Agency",
+  "latitude": 55.53628921508789,
+  "longitude": 9.4656343460083,
+  "country": "DK"
+ },
+ {
+  "id": "I2799501893",
+  "name": "Oceanography Society",
+  "latitude": 39.08399963378906,
+  "longitude": -77.15276336669922,
+  "country": "US"
+ },
+ {
+  "id": "I2799506148",
+  "name": "Government of Western Australia",
+  "latitude": -31.952239990234375,
+  "longitude": 115.86139678955078,
+  "country": "AU"
+ },
+ {
+  "id": "I2799524160",
+  "name": "Alaska Institute for Justice",
+  "latitude": 61.21587371826172,
+  "longitude": -149.8909912109375,
+  "country": "US"
+ },
+ {
+  "id": "I2799535048",
+  "name": "Centre National d'\u00c9tudes Spatiales",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I2799786571",
+  "name": "Committee on Climate Change",
+  "latitude": 51.49202346801758,
+  "longitude": -0.15573300421237946,
+  "country": "GB"
+ },
+ {
+  "id": "I2799863703",
+  "name": "Kennedy Space Center",
+  "latitude": 28.52454948425293,
+  "longitude": -80.6813735961914,
+  "country": "US"
+ },
+ {
+  "id": "I2799883060",
+  "name": "Leibniz Centre for Tropical Marine Research",
+  "latitude": 53.07582092285156,
+  "longitude": 8.807169914245605,
+  "country": "DE"
+ },
+ {
+  "id": "I2799949648",
+  "name": "Central Institution for Meteorology and Geodynamics",
+  "latitude": 48.20848846435547,
+  "longitude": 16.372079849243164,
+  "country": "AT"
+ },
+ {
+  "id": "I2799966484",
+  "name": "Bjerknes Centre for Climate Research",
+  "latitude": 60.39299011230469,
+  "longitude": 5.324150085449219,
+  "country": "NO"
+ },
+ {
+  "id": "I2800016743",
+  "name": "Arctic and Antarctic Research Institute",
+  "latitude": 59.94603729248047,
+  "longitude": 30.23458480834961,
+  "country": "RU"
+ },
+ {
+  "id": "I2800020546",
+  "name": "Norwegian Environment Agency",
+  "latitude": 63.43048858642578,
+  "longitude": 10.395059585571289,
+  "country": "NO"
+ },
+ {
+  "id": "I2800026062",
+  "name": "Bedford Institute of Oceanography",
+  "latitude": 44.683902740478516,
+  "longitude": -63.611751556396484,
+  "country": "CA"
+ },
+ {
+  "id": "I2800197911",
+  "name": "Falmouth Hospital",
+  "latitude": 41.56441116333008,
+  "longitude": -70.62223815917969,
+  "country": "US"
+ },
+ {
+  "id": "I2800248085",
+  "name": "Auckland Council",
+  "latitude": -36.84852981567383,
+  "longitude": 174.76348876953125,
+  "country": "NZ"
+ },
+ {
+  "id": "I2800251061",
+  "name": "Cold Regions Research and Engineering Laboratory",
+  "latitude": 43.70228958129883,
+  "longitude": -72.28954315185547,
+  "country": "US"
+ },
+ {
+  "id": "I2800262456",
+  "name": "Swiss Federal Institute for Forest, Snow and Landscape Research",
+  "latitude": 47.35514831542969,
+  "longitude": 8.442560195922852,
+  "country": "CH"
+ },
+ {
+  "id": "I2800273996",
+  "name": "South African Weather Service",
+  "latitude": -25.80942153930664,
+  "longitude": 28.256221771240234,
+  "country": "ZA"
+ },
+ {
+  "id": "I2800289517",
+  "name": "German Climate Computing Centre",
+  "latitude": 53.55073165893555,
+  "longitude": 9.993020057678223,
+  "country": "DE"
+ },
+ {
+  "id": "I2800327333",
+  "name": "Government of Malaysia",
+  "latitude": 2.9704151153564453,
+  "longitude": 101.70606231689453,
+  "country": "MY"
+ },
+ {
+  "id": "I2800424308",
+  "name": "Finnish Environment Institute",
+  "latitude": 60.16952133178711,
+  "longitude": 24.935449600219727,
+  "country": "FI"
+ },
+ {
+  "id": "I2800447973",
+  "name": "University of French Guiana",
+  "latitude": 4.933330059051514,
+  "longitude": -52.33332824707031,
+  "country": "GF"
+ },
+ {
+  "id": "I2800578083",
+  "name": "Wellington City Council",
+  "latitude": -41.27889633178711,
+  "longitude": 174.7752227783203,
+  "country": "NZ"
+ },
+ {
+  "id": "I2800628740",
+  "name": "Icelandic Meteorological Office",
+  "latitude": 64.12777709960938,
+  "longitude": -21.903621673583984,
+  "country": "IS"
+ },
+ {
+  "id": "I2800663845",
+  "name": "Bigelow Laboratory for Ocean Sciences",
+  "latitude": 43.876468658447266,
+  "longitude": -69.63365936279297,
+  "country": "US"
+ },
+ {
+  "id": "I2800664540",
+  "name": "Centenary Institute",
+  "latitude": -33.86785125732422,
+  "longitude": 151.2073211669922,
+  "country": "AU"
+ },
+ {
+  "id": "I2800696839",
+  "name": "Antarctica New Zealand",
+  "latitude": -43.533329010009766,
+  "longitude": 172.63333129882812,
+  "country": "NZ"
+ },
+ {
+  "id": "I2800735176",
+  "name": "Mote Marine Laboratory",
+  "latitude": 27.336429595947266,
+  "longitude": -82.53064727783203,
+  "country": "US"
+ },
+ {
+  "id": "I2800772125",
+  "name": "Denver Federal Center",
+  "latitude": 39.71963119506836,
+  "longitude": -105.12104797363281,
+  "country": "US"
+ },
+ {
+  "id": "I2800800851",
+  "name": "Alaska Department of Natural Resources",
+  "latitude": 61.21805953979492,
+  "longitude": -149.90028381347656,
+  "country": "US"
+ },
+ {
+  "id": "I2800853303",
+  "name": "Northern Research Institute",
+  "latitude": 69.68167114257812,
+  "longitude": 18.987733840942383,
+  "country": "NO"
+ },
+ {
+  "id": "I2800946780",
+  "name": "Bermuda College",
+  "latitude": 32.278160095214844,
+  "longitude": -64.77462005615234,
+  "country": "BM"
+ },
+ {
+  "id": "I2800978909",
+  "name": "Kelowna General Hospital",
+  "latitude": 49.87305450439453,
+  "longitude": -119.4941635131836,
+  "country": "CA"
+ },
+ {
+  "id": "I2801014300",
+  "name": "Florida Gulf Coast University",
+  "latitude": 26.621679306030273,
+  "longitude": -81.84059143066406,
+  "country": "US"
+ },
+ {
+  "id": "I2801223450",
+  "name": "Institute of Natural Sciences",
+  "latitude": 50.85044860839844,
+  "longitude": 4.348780155181885,
+  "country": "BE"
+ },
+ {
+  "id": "I2801520950",
+  "name": "At Bristol",
+  "latitude": 51.45125198364258,
+  "longitude": -2.599884033203125,
+  "country": "GB"
+ },
+ {
+  "id": "I2801559191",
+  "name": "New South Wales Department of Primary Industries",
+  "latitude": -33.28396987915039,
+  "longitude": 149.1001739501953,
+  "country": "AU"
+ },
+ {
+  "id": "I2801637956",
+  "name": "Cherokee Nation",
+  "latitude": 35.91537094116211,
+  "longitude": -94.96996307373047,
+  "country": "US"
+ },
+ {
+  "id": "I2801745118",
+  "name": "Knipovich Polar Research Institute of Marine Fisheries and Oceanography",
+  "latitude": 68.96073150634766,
+  "longitude": 33.06768798828125,
+  "country": "RU"
+ },
+ {
+  "id": "I2801851002",
+  "name": "Harvard University Press",
+  "latitude": 42.38301467895508,
+  "longitude": -71.12705993652344,
+  "country": "US"
+ },
+ {
+  "id": "I2801853262",
+  "name": "Alaska Department of Health and Social Services",
+  "latitude": 61.22789764404297,
+  "longitude": -149.8810272216797,
+  "country": "US"
+ },
+ {
+  "id": "I2801862240",
+  "name": "Research Manitoba",
+  "latitude": 49.894073486328125,
+  "longitude": -97.15153503417969,
+  "country": "CA"
+ },
+ {
+  "id": "I2801979204",
+  "name": "Geological Survey of Denmark and Greenland",
+  "latitude": 55.675941467285156,
+  "longitude": 12.565529823303223,
+  "country": "DK"
+ },
+ {
+  "id": "I2801986924",
+  "name": "Marine Conservation Institute",
+  "latitude": 47.6557731628418,
+  "longitude": -122.34196472167969,
+  "country": "US"
+ },
+ {
+  "id": "I2801997990",
+  "name": "Japan Meteorological Agency",
+  "latitude": 35.68949890136719,
+  "longitude": 139.69171142578125,
+  "country": "JP"
+ },
+ {
+  "id": "I2802036497",
+  "name": "Pacific Science Center",
+  "latitude": 47.619789123535156,
+  "longitude": -122.35012817382812,
+  "country": "US"
+ },
+ {
+  "id": "I2802073567",
+  "name": "Government of New Zealand",
+  "latitude": -41.28664016723633,
+  "longitude": 174.77557373046875,
+  "country": "NZ"
+ },
+ {
+  "id": "I2802079931",
+  "name": "Nord University",
+  "latitude": 67.27999877929688,
+  "longitude": 14.405010223388672,
+  "country": "NO"
+ },
+ {
+  "id": "I2802094821",
+  "name": "NOAA Atlantic Oceanographic and Meteorological Laboratories",
+  "latitude": 25.774269104003906,
+  "longitude": -80.19365692138672,
+  "country": "US"
+ },
+ {
+  "id": "I2802152550",
+  "name": "Earth Island Institute",
+  "latitude": 37.8695182800293,
+  "longitude": -122.26605987548828,
+  "country": "US"
+ },
+ {
+  "id": "I2802153510",
+  "name": "Norwegian Institute of Marine Research",
+  "latitude": 60.39299011230469,
+  "longitude": 5.324150085449219,
+  "country": "NO"
+ },
+ {
+  "id": "I2802236040",
+  "name": "University of Colorado System",
+  "latitude": 40.014991760253906,
+  "longitude": -105.27055358886719,
+  "country": "US"
+ },
+ {
+  "id": "I2802384920",
+  "name": "Stennis Space Center",
+  "latitude": 30.308809280395508,
+  "longitude": -89.33004760742188,
+  "country": "US"
+ },
+ {
+  "id": "I2802566253",
+  "name": "Plymouth Marine Laboratory",
+  "latitude": 50.37152862548828,
+  "longitude": -4.143050193786621,
+  "country": "GB"
+ },
+ {
+  "id": "I2802599571",
+  "name": "India Meteorological Department",
+  "latitude": 28.635759353637695,
+  "longitude": 77.22444915771484,
+  "country": "IN"
+ },
+ {
+  "id": "I2802613606",
+  "name": "Scientific Committee on Antarctic Research",
+  "latitude": 52.19865036010742,
+  "longitude": 0.12623800337314606,
+  "country": "GB"
+ },
+ {
+  "id": "I2802634152",
+  "name": "Autonomous University of Campeche",
+  "latitude": 19.828277587890625,
+  "longitude": -90.55657958984375,
+  "country": "MX"
+ },
+ {
+  "id": "I2802660506",
+  "name": "United States Coast Guard",
+  "latitude": 38.85282516479492,
+  "longitude": -77.00131225585938,
+  "country": "US"
+ },
+ {
+  "id": "I2802675693",
+  "name": "Directorate of Fisheries",
+  "latitude": 60.399505615234375,
+  "longitude": 5.317910194396973,
+  "country": "NO"
+ },
+ {
+  "id": "I2802769386",
+  "name": "Boca Raton Regional Hospital",
+  "latitude": 26.35849380493164,
+  "longitude": -80.10236358642578,
+  "country": "US"
+ },
+ {
+  "id": "I2802779139",
+  "name": "Stazione Zoologica Anton Dohrn",
+  "latitude": 40.8521614074707,
+  "longitude": 14.268110275268555,
+  "country": "IT"
+ },
+ {
+  "id": "I2802841028",
+  "name": "Tartu Observatory",
+  "latitude": 58.380619049072266,
+  "longitude": 26.72509002685547,
+  "country": "EE"
+ },
+ {
+  "id": "I2802939387",
+  "name": "Norwegian Institute for Water Research",
+  "latitude": 59.9127311706543,
+  "longitude": 10.746089935302734,
+  "country": "NO"
+ },
+ {
+  "id": "I2802946424",
+  "name": "Johns Hopkins University Applied Physics Laboratory",
+  "latitude": 39.138999938964844,
+  "longitude": -76.87052917480469,
+  "country": "US"
+ },
+ {
+  "id": "I2802992173",
+  "name": "NOAA Oceanic and Atmospheric Research",
+  "latitude": 38.99066925048828,
+  "longitude": -77.02609252929688,
+  "country": "US"
+ },
+ {
+  "id": "I28407311",
+  "name": "University of Manchester",
+  "latitude": 53.48094940185547,
+  "longitude": -2.2374300956726074,
+  "country": "GB"
+ },
+ {
+  "id": "I28638086",
+  "name": "Vancouver Island University",
+  "latitude": 49.1663818359375,
+  "longitude": -123.94003295898438,
+  "country": "CA"
+ },
+ {
+  "id": "I28670366",
+  "name": "National Ecological Observatory Network",
+  "latitude": 40.016448974609375,
+  "longitude": -105.24573516845703,
+  "country": "US"
+ },
+ {
+  "id": "I288498992",
+  "name": "World Wildlife Fund Canada",
+  "latitude": 43.700111389160156,
+  "longitude": -79.41629791259766,
+  "country": "CA"
+ },
+ {
+  "id": "I2898391981",
+  "name": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e. V. (DLR)",
+  "latitude": 50.93333053588867,
+  "longitude": 6.949999809265137,
+  "country": "DE"
+ },
+ {
+  "id": "I29078338",
+  "name": "Istituto Nazionale di Geofisica e Vulcanologia",
+  "latitude": 41.891929626464844,
+  "longitude": 12.511329650878906,
+  "country": "IT"
+ },
+ {
+  "id": "I29867402",
+  "name": "Central Washington University",
+  "latitude": 46.99650955200195,
+  "longitude": -120.5478515625,
+  "country": "US"
+ },
+ {
+  "id": "I3020440027",
+  "name": "University of Tyumen",
+  "latitude": 57.15858459472656,
+  "longitude": 65.532958984375,
+  "country": "RU"
+ },
+ {
+  "id": "I3130643134",
+  "name": "Ensenada Institute of Technology",
+  "latitude": 31.806041717529297,
+  "longitude": -116.59031677246094,
+  "country": "MX"
+ },
+ {
+  "id": "I3130739676",
+  "name": "Nunavut Arctic College",
+  "latitude": 63.746971130371094,
+  "longitude": -68.51727294921875,
+  "country": "CA"
+ },
+ {
+  "id": "I3132364740",
+  "name": "University of Fiji",
+  "latitude": -17.66781234741211,
+  "longitude": 177.4078826904297,
+  "country": "FJ"
+ },
+ {
+  "id": "I315704651",
+  "name": "Leibniz Association",
+  "latitude": 52.52436828613281,
+  "longitude": 13.410530090332031,
+  "country": "DE"
+ },
+ {
+  "id": "I31746571",
+  "name": "UNSW Sydney",
+  "latitude": -33.86785125732422,
+  "longitude": 151.2073211669922,
+  "country": "AU"
+ },
+ {
+  "id": "I31847773",
+  "name": "Zhejiang Ocean University",
+  "latitude": 29.988689422607422,
+  "longitude": 122.20487976074219,
+  "country": "CN"
+ },
+ {
+  "id": "I31944674",
+  "name": "Universidad de Costa Rica",
+  "latitude": 9.933329582214355,
+  "longitude": -84.08332824707031,
+  "country": "CR"
+ },
+ {
+  "id": "I32021983",
+  "name": "Kiel University",
+  "latitude": 54.32133102416992,
+  "longitude": 10.134889602661133,
+  "country": "DE"
+ },
+ {
+  "id": "I32062511",
+  "name": "Heriot-Watt University",
+  "latitude": 55.95206069946289,
+  "longitude": -3.1964800357818604,
+  "country": "GB"
+ },
+ {
+  "id": "I32389192",
+  "name": "University of Alabama at Birmingham",
+  "latitude": 33.520660400390625,
+  "longitude": -86.802490234375,
+  "country": "US"
+ },
+ {
+  "id": "I32574673",
+  "name": "Shantou University",
+  "latitude": 23.354890823364258,
+  "longitude": 116.67875671386719,
+  "country": "CN"
+ },
+ {
+  "id": "I32625721",
+  "name": "University of Saskatchewan",
+  "latitude": 52.132381439208984,
+  "longitude": -106.6689224243164,
+  "country": "CA"
+ },
+ {
+  "id": "I32686375",
+  "name": "Danish Meteorological Institute",
+  "latitude": 55.675941467285156,
+  "longitude": 12.565529823303223,
+  "country": "DK"
+ },
+ {
+  "id": "I32870303",
+  "name": "University of South Carolina Sumter",
+  "latitude": 33.93305587768555,
+  "longitude": -80.37388610839844,
+  "country": "US"
+ },
+ {
+  "id": "I32971472",
+  "name": "Yale University",
+  "latitude": 41.30815124511719,
+  "longitude": -72.92816162109375,
+  "country": "US"
+ },
+ {
+  "id": "I33213144",
+  "name": "University of Florida",
+  "latitude": 29.651630401611328,
+  "longitude": -82.3248291015625,
+  "country": "US"
+ },
+ {
+  "id": "I33875959",
+  "name": "Vestlandsforsking",
+  "latitude": 61.230690002441406,
+  "longitude": 7.085752964019775,
+  "country": "NO"
+ },
+ {
+  "id": "I34403800",
+  "name": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
+  "latitude": 54.32133102416992,
+  "longitude": 10.134889602661133,
+  "country": "DE"
+ },
+ {
+  "id": "I35364215",
+  "name": "Naval Postgraduate School",
+  "latitude": 36.60023880004883,
+  "longitude": -121.8946762084961,
+  "country": "US"
+ },
+ {
+  "id": "I35440088",
+  "name": "ETH Zurich",
+  "latitude": 47.366668701171875,
+  "longitude": 8.550000190734863,
+  "country": "CH"
+ },
+ {
+  "id": "I35710372",
+  "name": "Gulf of Maine Research Institute",
+  "latitude": 43.65176773071289,
+  "longitude": -70.25634002685547,
+  "country": "US"
+ },
+ {
+  "id": "I35722693",
+  "name": "University of Hawaii at Hilo",
+  "latitude": 19.699600219726562,
+  "longitude": -155.08160400390625,
+  "country": "US"
+ },
+ {
+  "id": "I36080156",
+  "name": "National Institute of Polar Research",
+  "latitude": 35.68949890136719,
+  "longitude": 139.69171142578125,
+  "country": "JP"
+ },
+ {
+  "id": "I36234482",
+  "name": "University of Bristol",
+  "latitude": 51.455230712890625,
+  "longitude": -2.5966498851776123,
+  "country": "GB"
+ },
+ {
+  "id": "I36258959",
+  "name": "University of California, San Diego",
+  "latitude": 32.7157096862793,
+  "longitude": -117.16471862792969,
+  "country": "US"
+ },
+ {
+  "id": "I36672615",
+  "name": "Courant Institute of Mathematical Sciences",
+  "latitude": 40.728702545166016,
+  "longitude": -73.9957275390625,
+  "country": "US"
+ },
+ {
+  "id": "I36893310",
+  "name": "University of Hyderabad",
+  "latitude": 17.384050369262695,
+  "longitude": 78.45635986328125,
+  "country": "IN"
+ },
+ {
+  "id": "I37415318",
+  "name": "Bates College",
+  "latitude": 44.10034942626953,
+  "longitude": -70.21478271484375,
+  "country": "US"
+ },
+ {
+  "id": "I39343248",
+  "name": "Humboldt-Universit\u00e4t zu Berlin",
+  "latitude": 52.52436828613281,
+  "longitude": 13.410530090332031,
+  "country": "DE"
+ },
+ {
+  "id": "I39398033",
+  "name": "Pontificia Universidad Cat\u00f3lica del Ecuador",
+  "latitude": -0.22984999418258667,
+  "longitude": -78.52494812011719,
+  "country": "EC"
+ },
+ {
+  "id": "I39565521",
+  "name": "Office of Science",
+  "latitude": 38.895111083984375,
+  "longitude": -77.03636932373047,
+  "country": "US"
+ },
+ {
+  "id": "I39586589",
+  "name": "Swansea University",
+  "latitude": 51.62078857421875,
+  "longitude": -3.943229913711548,
+  "country": "GB"
+ },
+ {
+  "id": "I39660569",
+  "name": "Colgate University",
+  "latitude": 42.82701110839844,
+  "longitude": -75.54461669921875,
+  "country": "US"
+ },
+ {
+  "id": "I39804081",
+  "name": "Sorbonne Universit\u00e9",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I39854758",
+  "name": "Auckland University of Technology",
+  "latitude": -36.853233337402344,
+  "longitude": 174.76649475097656,
+  "country": "NZ"
+ },
+ {
+  "id": "I40120149",
+  "name": "University of Oxford",
+  "latitude": 51.752220153808594,
+  "longitude": -1.2559599876403809,
+  "country": "GB"
+ },
+ {
+  "id": "I40347166",
+  "name": "University of Chicago",
+  "latitude": 41.85002899169922,
+  "longitude": -87.6500473022461,
+  "country": "US"
+ },
+ {
+  "id": "I41156924",
+  "name": "Victoria University of Wellington",
+  "latitude": -41.2901611328125,
+  "longitude": 174.76864624023438,
+  "country": "NZ"
+ },
+ {
+  "id": "I4210086075",
+  "name": "Center for Urban Waters",
+  "latitude": 47.260250091552734,
+  "longitude": -122.43450927734375,
+  "country": "US"
+ },
+ {
+  "id": "I4210086941",
+  "name": "Ministry of Marine Affairs and Fisheries",
+  "latitude": -6.214620113372803,
+  "longitude": 106.84513092041016,
+  "country": "ID"
+ },
+ {
+  "id": "I4210087047",
+  "name": "Centro Nacional de Monitoramento e Alertas de Desastres Naturais",
+  "latitude": -23.157501220703125,
+  "longitude": -45.793514251708984,
+  "country": "BR"
+ },
+ {
+  "id": "I4210087486",
+  "name": "Tula Foundation",
+  "latitude": 49.24966049194336,
+  "longitude": -123.11933898925781,
+  "country": "CA"
+ },
+ {
+  "id": "I4210088064",
+  "name": "Arctic Research Centre",
+  "latitude": 63.821659088134766,
+  "longitude": 20.304832458496094,
+  "country": "SE"
+ },
+ {
+  "id": "I4210088553",
+  "name": "Centre National de Recherches M\u00e9t\u00e9orologiques",
+  "latitude": 43.57524108886719,
+  "longitude": 1.3725719451904297,
+  "country": "FR"
+ },
+ {
+  "id": "I4210089453",
+  "name": "Mid Atlantic Fishery Management Council",
+  "latitude": 39.15816879272461,
+  "longitude": -75.52436828613281,
+  "country": "US"
+ },
+ {
+  "id": "I4210089612",
+  "name": "United States Air Force",
+  "latitude": 38.88100814819336,
+  "longitude": -77.10427856445312,
+  "country": "US"
+ },
+ {
+  "id": "I4210089824",
+  "name": "Centre d'\u00c9cologie Fonctionnelle et \u00c9volutive",
+  "latitude": 43.610931396484375,
+  "longitude": 3.876349925994873,
+  "country": "FR"
+ },
+ {
+  "id": "I4210090208",
+  "name": "Danish Centre for Marine Research",
+  "latitude": 55.750301361083984,
+  "longitude": 12.580633163452148,
+  "country": "DK"
+ },
+ {
+  "id": "I4210090273",
+  "name": "Madison Group (United States)",
+  "latitude": 42.99638748168945,
+  "longitude": -89.4278335571289,
+  "country": "US"
+ },
+ {
+  "id": "I4210090700",
+  "name": "Royal HaskoningDHV (United Kingdom)",
+  "latitude": 52.5890998840332,
+  "longitude": -0.28203099966049194,
+  "country": "GB"
+ },
+ {
+  "id": "I4210091091",
+  "name": "Armed Forces Health Surveillance Center",
+  "latitude": 39.05051803588867,
+  "longitude": -76.97306823730469,
+  "country": "US"
+ },
+ {
+  "id": "I4210091437",
+  "name": "Sorbonne Paris Cit\u00e9",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I4210091775",
+  "name": "Instituto Espa\u00f1ol de Oceanograf\u00eda",
+  "latitude": 40.416500091552734,
+  "longitude": -3.7025599479675293,
+  "country": "ES"
+ },
+ {
+  "id": "I4210092081",
+  "name": "Institute of Physical-Chemical and Biological Problems in Soil Science",
+  "latitude": 54.83205032348633,
+  "longitude": 37.6059455871582,
+  "country": "RU"
+ },
+ {
+  "id": "I4210092684",
+  "name": "Farallon Institute",
+  "latitude": 38.23206329345703,
+  "longitude": -122.63067626953125,
+  "country": "US"
+ },
+ {
+  "id": "I4210092862",
+  "name": "Arctic Monitoring And Assessment Programme",
+  "latitude": 59.91392135620117,
+  "longitude": 10.750779151916504,
+  "country": "NO"
+ },
+ {
+  "id": "I4210093431",
+  "name": "Research Institute of Industrial Science and Technology",
+  "latitude": 36.010780334472656,
+  "longitude": 129.32315063476562,
+  "country": "KR"
+ },
+ {
+  "id": "I4210093716",
+  "name": "Korea Polar Research Institute",
+  "latitude": 37.385276794433594,
+  "longitude": 126.6424789428711,
+  "country": "KR"
+ },
+ {
+  "id": "I4210093799",
+  "name": "NOAA National Centers for Environmental Prediction",
+  "latitude": 38.98067092895508,
+  "longitude": -76.93692016601562,
+  "country": "US"
+ },
+ {
+  "id": "I4210094167",
+  "name": "Virginia Aquarium & Marine Science Center",
+  "latitude": 36.82118225097656,
+  "longitude": -75.98345947265625,
+  "country": "US"
+ },
+ {
+  "id": "I4210094421",
+  "name": "AZTI",
+  "latitude": 43.32586669921875,
+  "longitude": -1.9311109781265259,
+  "country": "ES"
+ },
+ {
+  "id": "I4210094865",
+  "name": "Pacific Institute for Climate Solutions",
+  "latitude": 48.4359016418457,
+  "longitude": -123.35154724121094,
+  "country": "CA"
+ },
+ {
+  "id": "I4210095242",
+  "name": "Netherlands eScience Center",
+  "latitude": 52.37403106689453,
+  "longitude": 4.889689922332764,
+  "country": "NL"
+ },
+ {
+  "id": "I4210095365",
+  "name": "Collecte Localisation Satellites (France)",
+  "latitude": 43.546180725097656,
+  "longitude": 1.474910020828247,
+  "country": "FR"
+ },
+ {
+  "id": "I4210095422",
+  "name": "Center for Medical, Agricultural and Veterinary Entomology",
+  "latitude": 29.634986877441406,
+  "longitude": -82.35887145996094,
+  "country": "US"
+ },
+ {
+  "id": "I4210095454",
+  "name": "Assembly of First Nations",
+  "latitude": 45.42240524291992,
+  "longitude": -75.69625854492188,
+  "country": "CA"
+ },
+ {
+  "id": "I4210095510",
+  "name": "Centre d'Etudes Biologiques de Chiz\u00e9",
+  "latitude": 46.18198013305664,
+  "longitude": -0.4739600121974945,
+  "country": "FR"
+ },
+ {
+  "id": "I4210095662",
+  "name": "Faculty of Media",
+  "latitude": 46.06269836425781,
+  "longitude": 14.560333251953125,
+  "country": "SI"
+ },
+ {
+  "id": "I4210095787",
+  "name": "NOAA National Weather Service",
+  "latitude": 38.99066925048828,
+  "longitude": -77.02609252929688,
+  "country": "US"
+ },
+ {
+  "id": "I4210095992",
+  "name": "Centre for Arctic Gas Hydrate, Environment and Climate",
+  "latitude": 69.65109252929688,
+  "longitude": 18.954822540283203,
+  "country": "NO"
+ },
+ {
+  "id": "I4210097074",
+  "name": "Theiss Research",
+  "latitude": 32.83882141113281,
+  "longitude": -117.27442932128906,
+  "country": "US"
+ },
+ {
+  "id": "I4210097923",
+  "name": "Government of British Columbia",
+  "latitude": 48.4359016418457,
+  "longitude": -123.35154724121094,
+  "country": "CA"
+ },
+ {
+  "id": "I4210098382",
+  "name": "Littoral, Environnement et Soci\u00e9t\u00e9s",
+  "latitude": 46.16307830810547,
+  "longitude": -1.1522200107574463,
+  "country": "FR"
+ },
+ {
+  "id": "I4210099130",
+  "name": "Montreal Police Service",
+  "latitude": 45.458229064941406,
+  "longitude": -73.75151062011719,
+  "country": "CA"
+ },
+ {
+  "id": "I4210099313",
+  "name": "Sigma Space (United States)",
+  "latitude": 38.95684814453125,
+  "longitude": -76.83621978759766,
+  "country": "US"
+ },
+ {
+  "id": "I4210099605",
+  "name": "Institut Polaire Fran\u00e7ais Paul \u00c9mile Victor",
+  "latitude": 48.360008239746094,
+  "longitude": -4.562646865844727,
+  "country": "FR"
+ },
+ {
+  "id": "I4210099840",
+  "name": "Environnements et Pal\u00e9oenvironnements Oc\u00e9aniques et Continentaux",
+  "latitude": 44.80564880371094,
+  "longitude": -0.6323999762535095,
+  "country": "FR"
+ },
+ {
+  "id": "I4210100015",
+  "name": "Mediterranean Institute for Advanced Studies",
+  "latitude": 45.91685485839844,
+  "longitude": 13.620355606079102,
+  "country": "SI"
+ },
+ {
+  "id": "I4210100064",
+  "name": "Earth Cryosphere Institute",
+  "latitude": 57.166561126708984,
+  "longitude": 65.51362609863281,
+  "country": "RU"
+ },
+ {
+  "id": "I4210100852",
+  "name": "Integrated Marine Observing System",
+  "latitude": -42.87936019897461,
+  "longitude": 147.32940673828125,
+  "country": "AU"
+ },
+ {
+  "id": "I4210101167",
+  "name": "Institute of Oceanology",
+  "latitude": 36.06488037109375,
+  "longitude": 120.38041687011719,
+  "country": "CN"
+ },
+ {
+  "id": "I4210101760",
+  "name": "Instituto de Investigaci\u00f3ns Mari\u00f1as",
+  "latitude": 42.232818603515625,
+  "longitude": -8.722640037536621,
+  "country": "ES"
+ },
+ {
+  "id": "I4210102263",
+  "name": "Continuous Plankton Recorder Survey",
+  "latitude": 50.37152862548828,
+  "longitude": -4.143050193786621,
+  "country": "GB"
+ },
+ {
+  "id": "I4210102559",
+  "name": "Karumb\u00e9",
+  "latitude": -34.827213287353516,
+  "longitude": -56.152652740478516,
+  "country": "UY"
+ },
+ {
+  "id": "I4210102807",
+  "name": "Uni Research (Norway)",
+  "latitude": 60.384376525878906,
+  "longitude": 5.333240985870361,
+  "country": "NO"
+ },
+ {
+  "id": "I4210102892",
+  "name": "Nunavut Research Institute",
+  "latitude": 63.746971130371094,
+  "longitude": -68.51727294921875,
+  "country": "CA"
+ },
+ {
+  "id": "I4210103046",
+  "name": "Centre international de recherche sur l\u2019environnement et le d\u00e9veloppement",
+  "latitude": 48.83668899536133,
+  "longitude": 2.4825499057769775,
+  "country": "FR"
+ },
+ {
+  "id": "I4210103266",
+  "name": "Deltares",
+  "latitude": 52.00667190551758,
+  "longitude": 4.355559825897217,
+  "country": "NL"
+ },
+ {
+  "id": "I4210103685",
+  "name": "South China Sea Institute Of Oceanology",
+  "latitude": 23.116670608520508,
+  "longitude": 113.25,
+  "country": "CN"
+ },
+ {
+  "id": "I4210104289",
+  "name": "Engility (United States)",
+  "latitude": 38.90195083618164,
+  "longitude": -77.430908203125,
+  "country": "US"
+ },
+ {
+  "id": "I4210104448",
+  "name": "Institut Catal\u00e0 de Ci\u00e8ncies del Clima",
+  "latitude": 41.388790130615234,
+  "longitude": 2.158989906311035,
+  "country": "ES"
+ },
+ {
+  "id": "I4210104630",
+  "name": "Laboratoire Chrono-Environnement",
+  "latitude": 47.248779296875,
+  "longitude": 6.0181498527526855,
+  "country": "FR"
+ },
+ {
+  "id": "I4210104672",
+  "name": "Hong Kong Observatory",
+  "latitude": 22.302499771118164,
+  "longitude": 114.17416381835938,
+  "country": "CN"
+ },
+ {
+  "id": "I4210104684",
+  "name": "VetAgro Sup",
+  "latitude": 45.74845886230469,
+  "longitude": 4.846710205078125,
+  "country": "FR"
+ },
+ {
+  "id": "I4210104958",
+  "name": "Centre for Polar Observation and Modelling",
+  "latitude": 53.80851745605469,
+  "longitude": -1.55281400680542,
+  "country": "GB"
+ },
+ {
+  "id": "I4210105401",
+  "name": "Instituto del Mar del Peru",
+  "latitude": -12.066851615905762,
+  "longitude": -77.15789031982422,
+  "country": "PE"
+ },
+ {
+  "id": "I4210105893",
+  "name": "Global Science & Technology (United States)",
+  "latitude": 38.99870300292969,
+  "longitude": -76.89429473876953,
+  "country": "US"
+ },
+ {
+  "id": "I4210106392",
+  "name": "ARC Centre of Excellence for Environmental Decisions",
+  "latitude": -27.49787712097168,
+  "longitude": 153.01214599609375,
+  "country": "AU"
+ },
+ {
+  "id": "I4210106983",
+  "name": "Instituto Nacional de Investigaci\u00f3n en Glaciares y Ecosistemas de Monta\u00f1a",
+  "latitude": -9.528611183166504,
+  "longitude": -77.52657318115234,
+  "country": "PE"
+ },
+ {
+  "id": "I4210107283",
+  "name": "Royal Netherlands Institute for Sea Research",
+  "latitude": 53.054168701171875,
+  "longitude": 4.797220230102539,
+  "country": "NL"
+ },
+ {
+  "id": "I4210107335",
+  "name": "St. George's School",
+  "latitude": 41.49144744873047,
+  "longitude": -71.2732162475586,
+  "country": "US"
+ },
+ {
+  "id": "I4210107718",
+  "name": "Northern Research Station",
+  "latitude": 43.07305145263672,
+  "longitude": -89.40122985839844,
+  "country": "US"
+ },
+ {
+  "id": "I4210107786",
+  "name": "Netherlands Institute of Ecology",
+  "latitude": 51.970001220703125,
+  "longitude": 5.666669845581055,
+  "country": "NL"
+ },
+ {
+  "id": "I4210107956",
+  "name": "Institut de Recherche pour le D\u00e9veloppement",
+  "latitude": -22.300861358642578,
+  "longitude": 166.44349670410156,
+  "country": "NC"
+ },
+ {
+  "id": "I4210108174",
+  "name": "Abbotsford Veterinary Clinic",
+  "latitude": 49.04561233520508,
+  "longitude": -122.29188537597656,
+  "country": "CA"
+ },
+ {
+  "id": "I4210108348",
+  "name": "Natural History Museum Rotterdam",
+  "latitude": 51.91080093383789,
+  "longitude": 4.472499847412109,
+  "country": "NL"
+ },
+ {
+  "id": "I4210109053",
+  "name": "NOAA National Marine Fisheries Service Alaska Fisheries Science Center",
+  "latitude": 47.60620880126953,
+  "longitude": -122.33206939697266,
+  "country": "US"
+ },
+ {
+  "id": "I4210109519",
+  "name": "Clinical Research Puerto Rico",
+  "latitude": 18.46632957458496,
+  "longitude": -66.10572052001953,
+  "country": "PR"
+ },
+ {
+  "id": "I4210109599",
+  "name": "NOAA National Marine Fisheries Service Southwest Fisheries Science Center",
+  "latitude": 32.84727096557617,
+  "longitude": -117.27420043945312,
+  "country": "US"
+ },
+ {
+  "id": "I4210109607",
+  "name": "Secretariat of the Pacific Regional Environment Programme",
+  "latitude": -13.869559288024902,
+  "longitude": -171.76800537109375,
+  "country": "WS"
+ },
+ {
+  "id": "I4210109753",
+  "name": "Collaboration for Australian Weather and Climate Research",
+  "latitude": -37.81517791748047,
+  "longitude": 144.95960998535156,
+  "country": "AU"
+ },
+ {
+  "id": "I4210110009",
+  "name": "Biologie des Organismes et \u00c9cosyst\u00e8mes Aquatiques",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I4210110488",
+  "name": "Center for Northern Studies",
+  "latitude": 46.812278747558594,
+  "longitude": -71.21453857421875,
+  "country": "CA"
+ },
+ {
+  "id": "I4210110682",
+  "name": "Consortium For Ocean Leadership",
+  "latitude": 38.895111083984375,
+  "longitude": -77.03636932373047,
+  "country": "US"
+ },
+ {
+  "id": "I4210110796",
+  "name": "Institute of Computational Mathematics and Mathematical Geophysics",
+  "latitude": 54.85150146484375,
+  "longitude": 83.1026840209961,
+  "country": "RU"
+ },
+ {
+  "id": "I4210110903",
+  "name": "Natural History Museum Aarhus",
+  "latitude": 56.15673828125,
+  "longitude": 10.210760116577148,
+  "country": "DK"
+ },
+ {
+  "id": "I4210111564",
+  "name": "Melnikov Permafrost Institute of the Siberian Branch of the Russian Academy of Science",
+  "latitude": 62.011112213134766,
+  "longitude": 129.66278076171875,
+  "country": "RU"
+ },
+ {
+  "id": "I4210111827",
+  "name": "CMCC Foundation - Euro-Mediterranean Center on Climate Change",
+  "latitude": 40.35480880737305,
+  "longitude": 18.172439575195312,
+  "country": "IT"
+ },
+ {
+  "id": "I4210112311",
+  "name": "North Slope Borough",
+  "latitude": 71.29241943359375,
+  "longitude": -156.78280639648438,
+  "country": "US"
+ },
+ {
+  "id": "I4210112368",
+  "name": "National Centre for Atmospheric Science",
+  "latitude": 53.80449295043945,
+  "longitude": -1.561424732208252,
+  "country": "GB"
+ },
+ {
+  "id": "I4210112445",
+  "name": "Stinger Ghaffarian Technologies (United States)",
+  "latitude": 38.99385070800781,
+  "longitude": -76.87354278564453,
+  "country": "US"
+ },
+ {
+  "id": "I4210112630",
+  "name": "Laboratoire d\u2019\u00c9tudes en G\u00e9ophysique et Oc\u00e9anographie Spatiales",
+  "latitude": 43.6042594909668,
+  "longitude": 1.4436700344085693,
+  "country": "FR"
+ },
+ {
+  "id": "I4210113150",
+  "name": "Laboratoire Interdisciplinaire de Physique",
+  "latitude": 45.1786994934082,
+  "longitude": 5.762810230255127,
+  "country": "FR"
+ },
+ {
+  "id": "I4210113154",
+  "name": "Jos\u00e9 Benito Vives de Andr\u00e9is Marine and Coastal Research Institute",
+  "latitude": 11.240790367126465,
+  "longitude": -74.19904327392578,
+  "country": "CO"
+ },
+ {
+  "id": "I4210113430",
+  "name": "Tecnalia",
+  "latitude": 43.28769302368164,
+  "longitude": -1.9838370084762573,
+  "country": "ES"
+ },
+ {
+  "id": "I4210113730",
+  "name": "M\u00e9t\u00e9o-France",
+  "latitude": 43.6042594909668,
+  "longitude": 1.4436700344085693,
+  "country": "FR"
+ },
+ {
+  "id": "I4210113896",
+  "name": "Qingdao National Laboratory for Marine Science and Technology",
+  "latitude": 36.06488037109375,
+  "longitude": 120.38041687011719,
+  "country": "CN"
+ },
+ {
+  "id": "I4210114102",
+  "name": "Institut Pierre-Simon Laplace",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I4210114313",
+  "name": "St John New Zealand",
+  "latitude": -36.87487030029297,
+  "longitude": 174.84214782714844,
+  "country": "NZ"
+ },
+ {
+  "id": "I4210114472",
+  "name": "Meteorological Service Singapore",
+  "latitude": 1.3562239408493042,
+  "longitude": 103.971923828125,
+  "country": "SG"
+ },
+ {
+  "id": "I4210114556",
+  "name": "First Institute of Oceanography",
+  "latitude": 36.10223388671875,
+  "longitude": 120.45933532714844,
+  "country": "CN"
+ },
+ {
+  "id": "I4210114607",
+  "name": "IVL Swedish Environmental Research Institute",
+  "latitude": 59.32938003540039,
+  "longitude": 18.068710327148438,
+  "country": "SE"
+ },
+ {
+  "id": "I4210114710",
+  "name": "Voeikov Main Geophysical Observatory",
+  "latitude": 59.99179458618164,
+  "longitude": 30.351146697998047,
+  "country": "RU"
+ },
+ {
+  "id": "I4210114957",
+  "name": "Project Seagrass",
+  "latitude": 51.505828857421875,
+  "longitude": -3.5772199630737305,
+  "country": "GB"
+ },
+ {
+  "id": "I4210115089",
+  "name": "Centre for Southern Hemisphere Oceans Research",
+  "latitude": -42.87936019897461,
+  "longitude": 147.32940673828125,
+  "country": "AU"
+ },
+ {
+  "id": "I4210115122",
+  "name": "Hordaland County Council",
+  "latitude": 60.38698196411133,
+  "longitude": 5.332193851470947,
+  "country": "NO"
+ },
+ {
+  "id": "I4210115206",
+  "name": "Hubrecht Institute for Developmental Biology and Stem Cell Research",
+  "latitude": 52.0908317565918,
+  "longitude": 5.122220039367676,
+  "country": "NL"
+ },
+ {
+  "id": "I4210116261",
+  "name": "All Russian Research Institute of Hydrometeorological information World Data Center",
+  "latitude": 55.111446380615234,
+  "longitude": 36.60813522338867,
+  "country": "RU"
+ },
+ {
+  "id": "I4210116649",
+  "name": "Inland Norway University of Applied Sciences",
+  "latitude": 60.88190841674805,
+  "longitude": 11.562310218811035,
+  "country": "NO"
+ },
+ {
+  "id": "I4210116766",
+  "name": "Institute of Geography",
+  "latitude": 55.71080017089844,
+  "longitude": 37.57781219482422,
+  "country": "RU"
+ },
+ {
+  "id": "I4210116772",
+  "name": "Ministry of Environment",
+  "latitude": 9.076583862304688,
+  "longitude": 7.3984880447387695,
+  "country": "NG"
+ },
+ {
+  "id": "I4210116800",
+  "name": "NOAA National Ice Center",
+  "latitude": 38.84872055053711,
+  "longitude": -76.92385864257812,
+  "country": "US"
+ },
+ {
+  "id": "I4210116941",
+  "name": "Mediterranean Institute for Advanced Studies",
+  "latitude": 39.667938232421875,
+  "longitude": 2.578670024871826,
+  "country": "ES"
+ },
+ {
+  "id": "I4210117306",
+  "name": "Island Institute",
+  "latitude": 44.1040153503418,
+  "longitude": -69.10938262939453,
+  "country": "US"
+ },
+ {
+  "id": "I4210117350",
+  "name": "Marine and Freshwater Research Institute",
+  "latitude": 64.13548278808594,
+  "longitude": -21.895410537719727,
+  "country": "IS"
+ },
+ {
+  "id": "I4210117686",
+  "name": "Japan Fisheries Research and Education Agency",
+  "latitude": 35.43333053588867,
+  "longitude": 139.64999389648438,
+  "country": "JP"
+ },
+ {
+  "id": "I4210117728",
+  "name": "Center For Remote Sensing (United States)",
+  "latitude": 38.8640022277832,
+  "longitude": -77.33023834228516,
+  "country": "US"
+ },
+ {
+  "id": "I4210118312",
+  "name": "Centre for Marine Socioecology",
+  "latitude": -42.87936019897461,
+  "longitude": 147.32940673828125,
+  "country": "AU"
+ },
+ {
+  "id": "I4210118560",
+  "name": "Max Planck Institute for Evolutionary Anthropology",
+  "latitude": 51.320556640625,
+  "longitude": 12.394444465637207,
+  "country": "DE"
+ },
+ {
+  "id": "I4210118628",
+  "name": "Joint Research Center",
+  "latitude": 51.16556930541992,
+  "longitude": 4.989170074462891,
+  "country": "BE"
+ },
+ {
+  "id": "I4210118689",
+  "name": "Joint Research Centre",
+  "latitude": 45.81480026245117,
+  "longitude": 8.612939834594727,
+  "country": "IT"
+ },
+ {
+  "id": "I4210118918",
+  "name": "Climate Centre",
+  "latitude": 52.08198547363281,
+  "longitude": 4.346776962280273,
+  "country": "NL"
+ },
+ {
+  "id": "I4210120012",
+  "name": "Taos Orthopaedic Institute",
+  "latitude": 36.378082275390625,
+  "longitude": -105.58583068847656,
+  "country": "US"
+ },
+ {
+  "id": "I4210120769",
+  "name": "ARC Centre of Excellence for Climate System Science",
+  "latitude": -33.86785125732422,
+  "longitude": 151.2073211669922,
+  "country": "AU"
+ },
+ {
+  "id": "I4210120799",
+  "name": "Hawke's Bay Regional Council",
+  "latitude": -39.493350982666016,
+  "longitude": 176.9168243408203,
+  "country": "NZ"
+ },
+ {
+  "id": "I4210121038",
+  "name": "Alaska Department of Environmental Conservation",
+  "latitude": 58.30148696899414,
+  "longitude": -134.41481018066406,
+  "country": "US"
+ },
+ {
+  "id": "I4210121148",
+  "name": "Zaragoza Logistics Center",
+  "latitude": 41.65605926513672,
+  "longitude": -0.8773400187492371,
+  "country": "ES"
+ },
+ {
+  "id": "I4210121297",
+  "name": "NOAA National Marine Fisheries Service Northeast Fisheries Science Center",
+  "latitude": 41.55149841308594,
+  "longitude": -70.61475372314453,
+  "country": "US"
+ },
+ {
+  "id": "I4210121781",
+  "name": "Nofima",
+  "latitude": 69.6489028930664,
+  "longitude": 18.955080032348633,
+  "country": "NO"
+ },
+ {
+  "id": "I4210122952",
+  "name": "Maison des Sciences de l'Homme",
+  "latitude": 47.21254348754883,
+  "longitude": -1.538701057434082,
+  "country": "FR"
+ },
+ {
+  "id": "I4210123239",
+  "name": "Global Climate Forum",
+  "latitude": 52.52284240722656,
+  "longitude": 13.401309967041016,
+  "country": "DE"
+ },
+ {
+  "id": "I4210124557",
+  "name": "Pacific Northwest Research Station",
+  "latitude": 45.5234489440918,
+  "longitude": -122.67620849609375,
+  "country": "US"
+ },
+ {
+  "id": "I4210124611",
+  "name": "NOAA National Marine Fisheries Service Pacific Islands Fisheries Science Center",
+  "latitude": 21.30694007873535,
+  "longitude": -157.85833740234375,
+  "country": "US"
+ },
+ {
+  "id": "I4210124937",
+  "name": "Laboratoire des Sciences du Climat et de l'Environnement",
+  "latitude": 48.68333053588867,
+  "longitude": 2.1333301067352295,
+  "country": "FR"
+ },
+ {
+  "id": "I4210125535",
+  "name": "Observatoire Midi-Pyr\u00e9n\u00e9es",
+  "latitude": 43.6042594909668,
+  "longitude": 1.4436700344085693,
+  "country": "FR"
+ },
+ {
+  "id": "I4210126209",
+  "name": "Havstovan",
+  "latitude": 62.0058708190918,
+  "longitude": -6.779773235321045,
+  "country": "FO"
+ },
+ {
+  "id": "I4210127517",
+  "name": "Institute for Law and Justice",
+  "latitude": 38.804840087890625,
+  "longitude": -77.04692077636719,
+  "country": "US"
+ },
+ {
+  "id": "I4210128104",
+  "name": "National Centre for Earth Observation",
+  "latitude": 52.63859939575195,
+  "longitude": -1.1316900253295898,
+  "country": "GB"
+ },
+ {
+  "id": "I4210128176",
+  "name": "Institute for Circumpolar Health Research",
+  "latitude": 62.466651916503906,
+  "longitude": -114.34663391113281,
+  "country": "CA"
+ },
+ {
+  "id": "I4210128486",
+  "name": "Sea Level Research (United Kingdom)",
+  "latitude": 53.395450592041016,
+  "longitude": -2.980123996734619,
+  "country": "GB"
+ },
+ {
+  "id": "I4210128546",
+  "name": "Federal Institute of Hydrology",
+  "latitude": 50.35356903076172,
+  "longitude": 7.578829765319824,
+  "country": "DE"
+ },
+ {
+  "id": "I4210128565",
+  "name": "CEA Paris-Saclay",
+  "latitude": 48.68333053588867,
+  "longitude": 2.1333301067352295,
+  "country": "FR"
+ },
+ {
+  "id": "I4210129963",
+  "name": "Ecopath International Initiative",
+  "latitude": 41.388790130615234,
+  "longitude": 2.158989906311035,
+  "country": "ES"
+ },
+ {
+  "id": "I4210131645",
+  "name": "NOAA National Marine Fisheries Service Southeast Fisheries Science Center",
+  "latitude": 25.774269104003906,
+  "longitude": -80.19365692138672,
+  "country": "US"
+ },
+ {
+  "id": "I4210131853",
+  "name": "Ministry of Forests",
+  "latitude": 48.4359016418457,
+  "longitude": -123.35154724121094,
+  "country": "CA"
+ },
+ {
+  "id": "I4210132730",
+  "name": "Farallones Marine Sanctuary Association",
+  "latitude": 37.774505615234375,
+  "longitude": -122.4207763671875,
+  "country": "US"
+ },
+ {
+  "id": "I4210133019",
+  "name": "NOAA Center for Satellite Applications and Research",
+  "latitude": 38.98067092895508,
+  "longitude": -76.93692016601562,
+  "country": "US"
+ },
+ {
+  "id": "I4210133469",
+  "name": "Climate and Global Dynamics Laboratory",
+  "latitude": 40.014991760253906,
+  "longitude": -105.27055358886719,
+  "country": "US"
+ },
+ {
+  "id": "I4210134697",
+  "name": "\u00c9co-Anthropologie",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I4210135013",
+  "name": "Space Information Laboratories (United States)",
+  "latitude": 34.91982650756836,
+  "longitude": -120.44990539550781,
+  "country": "US"
+ },
+ {
+  "id": "I4210135053",
+  "name": "Quality Research",
+  "latitude": 29.50767707824707,
+  "longitude": -98.47115325927734,
+  "country": "US"
+ },
+ {
+  "id": "I4210135369",
+  "name": "Western EcoSystems Technology (United States)",
+  "latitude": 39.16837692260742,
+  "longitude": -86.53797912597656,
+  "country": "US"
+ },
+ {
+  "id": "I4210135697",
+  "name": "Antarctic Climate and Ecosystems Cooperative Research Centre",
+  "latitude": -42.87936019897461,
+  "longitude": 147.32940673828125,
+  "country": "AU"
+ },
+ {
+  "id": "I4210135759",
+  "name": "H.T. Harvey & Associates",
+  "latitude": 37.2499885559082,
+  "longitude": -121.96737670898438,
+  "country": "US"
+ },
+ {
+  "id": "I4210136249",
+  "name": "University of Applied Sciences Upper Austria",
+  "latitude": 48.161468505859375,
+  "longitude": 14.027623176574707,
+  "country": "AT"
+ },
+ {
+  "id": "I4210136404",
+  "name": "Gr\u00f8nlands Naturinstitut",
+  "latitude": 64.1834716796875,
+  "longitude": -51.7215690612793,
+  "country": "GL"
+ },
+ {
+  "id": "I4210136552",
+  "name": "International Rescue Committee",
+  "latitude": 40.754547119140625,
+  "longitude": -73.99093627929688,
+  "country": "US"
+ },
+ {
+  "id": "I4210136595",
+  "name": "Hamburg Institut (Germany)",
+  "latitude": 53.55158996582031,
+  "longitude": 9.93570613861084,
+  "country": "DE"
+ },
+ {
+  "id": "I4210136838",
+  "name": "Leibniz Institute for Regional Geography",
+  "latitude": 51.34724807739258,
+  "longitude": 12.471643447875977,
+  "country": "DE"
+ },
+ {
+  "id": "I4210137941",
+  "name": "Allowance (Czechia)",
+  "latitude": 50.039649963378906,
+  "longitude": 14.437295913696289,
+  "country": "CZ"
+ },
+ {
+  "id": "I4210138028",
+  "name": "Scientific Committee On Oceanic Research",
+  "latitude": 39.66738510131836,
+  "longitude": -75.75022888183594,
+  "country": "US"
+ },
+ {
+  "id": "I4210138062",
+  "name": "Akvaplan-niva",
+  "latitude": 69.6489028930664,
+  "longitude": 18.955080032348633,
+  "country": "NO"
+ },
+ {
+  "id": "I4210138199",
+  "name": "University of Washington Applied Physics Laboratory",
+  "latitude": 47.655311584472656,
+  "longitude": -122.31663513183594,
+  "country": "US"
+ },
+ {
+  "id": "I4210138309",
+  "name": "Center for Innovation",
+  "latitude": 38.90866470336914,
+  "longitude": -77.04178619384766,
+  "country": "US"
+ },
+ {
+  "id": "I4210138427",
+  "name": "Computational Physics (United States)",
+  "latitude": 38.8100471496582,
+  "longitude": -77.22124481201172,
+  "country": "US"
+ },
+ {
+  "id": "I4210139239",
+  "name": "Helmholtz-Zentrum Hereon",
+  "latitude": 53.43574905395508,
+  "longitude": 10.377900123596191,
+  "country": "DE"
+ },
+ {
+  "id": "I4210139252",
+  "name": "Sydney Institute of Marine Science",
+  "latitude": -33.839019775390625,
+  "longitude": 151.23956298828125,
+  "country": "AU"
+ },
+ {
+  "id": "I4210139426",
+  "name": "Instituto Chico Mendes de Conserva\u00e7\u00e3o da Biodiversidade",
+  "latitude": -15.779720306396484,
+  "longitude": -47.92972183227539,
+  "country": "BR"
+ },
+ {
+  "id": "I4210139705",
+  "name": "Ingegneria dei Sistemi (Italy)",
+  "latitude": 43.65286636352539,
+  "longitude": 10.437080383300781,
+  "country": "IT"
+ },
+ {
+  "id": "I4210140204",
+  "name": "Mental Health Commission",
+  "latitude": -31.950403213500977,
+  "longitude": 115.86038970947266,
+  "country": "AU"
+ },
+ {
+  "id": "I4210140587",
+  "name": "Government of Nunavut",
+  "latitude": 63.746971130371094,
+  "longitude": -68.51727294921875,
+  "country": "CA"
+ },
+ {
+  "id": "I4210140791",
+  "name": "Irvine University",
+  "latitude": 33.86848449707031,
+  "longitude": -118.09716033935547,
+  "country": "US"
+ },
+ {
+  "id": "I4210141098",
+  "name": "St. Helena Hospital",
+  "latitude": 38.54283142089844,
+  "longitude": -122.47518157958984,
+  "country": "US"
+ },
+ {
+  "id": "I4210141109",
+  "name": "Stratton Park Engineering Company (United States)",
+  "latitude": 40.03007507324219,
+  "longitude": -105.2263412475586,
+  "country": "US"
+ },
+ {
+  "id": "I4210141545",
+  "name": "University of California Division of Agriculture and Natural Resources",
+  "latitude": 37.80437088012695,
+  "longitude": -122.27079772949219,
+  "country": "US"
+ },
+ {
+  "id": "I4210142198",
+  "name": "Instytut Oceanologii Polskiej Akademii Nauk",
+  "latitude": 54.44179916381836,
+  "longitude": 18.560029983520508,
+  "country": "PL"
+ },
+ {
+  "id": "I4210142223",
+  "name": "Fisheries Administration",
+  "latitude": 11.544814109802246,
+  "longitude": 104.92835235595703,
+  "country": "KH"
+ },
+ {
+  "id": "I4210142438",
+  "name": "National Museum of Denmark",
+  "latitude": 55.67605209350586,
+  "longitude": 12.57461166381836,
+  "country": "DK"
+ },
+ {
+  "id": "I4210142920",
+  "name": "Global Policy Institute",
+  "latitude": 38.900611877441406,
+  "longitude": -77.03459930419922,
+  "country": "US"
+ },
+ {
+  "id": "I4210143030",
+  "name": "Bear Valley",
+  "latitude": 34.2464714050293,
+  "longitude": -116.88836669921875,
+  "country": "US"
+ },
+ {
+  "id": "I4210143069",
+  "name": "Museum am Rothenbaum",
+  "latitude": 53.5687255859375,
+  "longitude": 9.989502906799316,
+  "country": "DE"
+ },
+ {
+  "id": "I4210143073",
+  "name": "Penn Highlands DuBois",
+  "latitude": 41.114925384521484,
+  "longitude": -78.77515411376953,
+  "country": "US"
+ },
+ {
+  "id": "I4210143613",
+  "name": "Eagle Mount",
+  "latitude": 45.63521194458008,
+  "longitude": -111.05284118652344,
+  "country": "US"
+ },
+ {
+  "id": "I4210143632",
+  "name": "Tyndall Centre",
+  "latitude": 52.621822357177734,
+  "longitude": 1.2385220527648926,
+  "country": "GB"
+ },
+ {
+  "id": "I4210143931",
+  "name": "Rhodium Group (United States)",
+  "latitude": 40.747928619384766,
+  "longitude": -73.97181701660156,
+  "country": "US"
+ },
+ {
+  "id": "I4210144557",
+  "name": "Scientific Centre of Monaco",
+  "latitude": 43.73367691040039,
+  "longitude": 7.427157878875732,
+  "country": "MC"
+ },
+ {
+  "id": "I4210144776",
+  "name": "Earth System Science Interdisciplinary Center",
+  "latitude": 38.98067092895508,
+  "longitude": -76.93692016601562,
+  "country": "US"
+ },
+ {
+  "id": "I4210144891",
+  "name": "Science Systems and Applications (United States)",
+  "latitude": 38.991783142089844,
+  "longitude": -76.828369140625,
+  "country": "US"
+ },
+ {
+  "id": "I4210144897",
+  "name": "Northwest Research Associates",
+  "latitude": 47.64744567871094,
+  "longitude": -122.14285278320312,
+  "country": "US"
+ },
+ {
+  "id": "I4210144928",
+  "name": "Center for Remote Sensing and Integrated Systems",
+  "latitude": 38.9716682434082,
+  "longitude": -95.2352523803711,
+  "country": "US"
+ },
+ {
+  "id": "I4210145841",
+  "name": "Laboratoire de Glaciologie et G\u00e9ophysique de l\u2019Environnement",
+  "latitude": 45.1786994934082,
+  "longitude": 5.762810230255127,
+  "country": "FR"
+ },
+ {
+  "id": "I4210145996",
+  "name": "Research Center for Environmental Changes, Academia Sinica",
+  "latitude": 25.040712356567383,
+  "longitude": 121.61417388916016,
+  "country": "TW"
+ },
+ {
+  "id": "I4210146140",
+  "name": "Aberdeenshire Council",
+  "latitude": 57.153934478759766,
+  "longitude": -2.1481659412384033,
+  "country": "GB"
+ },
+ {
+  "id": "I4210146382",
+  "name": "Cambustion (United Kingdom)",
+  "latitude": 52.18785095214844,
+  "longitude": 0.15565800666809082,
+  "country": "GB"
+ },
+ {
+  "id": "I4210146417",
+  "name": "Ocean Medical Center",
+  "latitude": 39.953731536865234,
+  "longitude": -74.19792175292969,
+  "country": "US"
+ },
+ {
+  "id": "I4210147197",
+  "name": "Qinghai Meteorological Bureau",
+  "latitude": 34.47428512573242,
+  "longitude": 100.24007415771484,
+  "country": "CN"
+ },
+ {
+  "id": "I4210148429",
+  "name": "United Nations University",
+  "latitude": 50.71885299682617,
+  "longitude": 7.1240057945251465,
+  "country": "DE"
+ },
+ {
+  "id": "I4210148653",
+  "name": "San Diego Zoo Institute for Conservation Research",
+  "latitude": 33.11920928955078,
+  "longitude": -117.08641815185547,
+  "country": "US"
+ },
+ {
+  "id": "I4210149261",
+  "name": "Pacific University",
+  "latitude": 45.519840240478516,
+  "longitude": -123.11065673828125,
+  "country": "US"
+ },
+ {
+  "id": "I4210149736",
+  "name": "Food and Drug Administration",
+  "latitude": 13.847105979919434,
+  "longitude": 100.52775573730469,
+  "country": "TH"
+ },
+ {
+  "id": "I4210149887",
+  "name": "Marine Biodiversity Exploitation and Conservation",
+  "latitude": 43.402801513671875,
+  "longitude": 3.692780017852783,
+  "country": "FR"
+ },
+ {
+  "id": "I4210149923",
+  "name": "Severtsov Institute of Ecology and Evolution",
+  "latitude": 55.710792541503906,
+  "longitude": 37.57781219482422,
+  "country": "RU"
+ },
+ {
+  "id": "I4210150043",
+  "name": "CSC - IT Center for Science (Finland)",
+  "latitude": 60.2052001953125,
+  "longitude": 24.65220069885254,
+  "country": "FI"
+ },
+ {
+  "id": "I4210150607",
+  "name": "A.M. Obukhov Institute of Atmospheric Physics",
+  "latitude": 55.77478790283203,
+  "longitude": 37.63237762451172,
+  "country": "RU"
+ },
+ {
+  "id": "I4210150974",
+  "name": "Station Marine d'Endoume",
+  "latitude": 43.29695129394531,
+  "longitude": 5.381070137023926,
+  "country": "FR"
+ },
+ {
+  "id": "I4210151315",
+  "name": "Geocenter Denmark",
+  "latitude": 55.675941467285156,
+  "longitude": 12.565529823303223,
+  "country": "DK"
+ },
+ {
+  "id": "I4210151560",
+  "name": "Institut de Ci\u00e8ncies del Mar",
+  "latitude": 41.388790130615234,
+  "longitude": 2.158989906311035,
+  "country": "ES"
+ },
+ {
+  "id": "I4210151564",
+  "name": "Institute for Environment and Human Security",
+  "latitude": 50.734378814697266,
+  "longitude": 7.095489978790283,
+  "country": "DE"
+ },
+ {
+  "id": "I4210152247",
+  "name": "Karelian Research Centre",
+  "latitude": 61.784908294677734,
+  "longitude": 34.34690856933594,
+  "country": "RU"
+ },
+ {
+  "id": "I4210152277",
+  "name": "Louisiana Sea Grant",
+  "latitude": 30.409162521362305,
+  "longitude": -91.18305969238281,
+  "country": "US"
+ },
+ {
+  "id": "I4210152758",
+  "name": "Institute of Atmospheric Physics",
+  "latitude": 39.907501220703125,
+  "longitude": 116.39723205566406,
+  "country": "CN"
+ },
+ {
+  "id": "I4210152766",
+  "name": "Marine Technology Unit",
+  "latitude": 41.388790130615234,
+  "longitude": 2.158989906311035,
+  "country": "ES"
+ },
+ {
+  "id": "I4210152768",
+  "name": "National Centre for Sustainable Coastal Management",
+  "latitude": 13.013426780700684,
+  "longitude": 80.2328109741211,
+  "country": "IN"
+ },
+ {
+  "id": "I4210152878",
+  "name": "Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences",
+  "latitude": 52.398860931396484,
+  "longitude": 13.06566047668457,
+  "country": "DE"
+ },
+ {
+  "id": "I4210153159",
+  "name": "Vanuatu Cultural Centre",
+  "latitude": -17.74519920349121,
+  "longitude": 168.3179931640625,
+  "country": "VU"
+ },
+ {
+  "id": "I4210153706",
+  "name": "Norwegian Institute for Nature Research",
+  "latitude": 63.43048858642578,
+  "longitude": 10.395059585571289,
+  "country": "NO"
+ },
+ {
+  "id": "I4210154133",
+  "name": "Instituto de Ecolog\u00eda",
+  "latitude": 19.531240463256836,
+  "longitude": -96.9158935546875,
+  "country": "MX"
+ },
+ {
+  "id": "I4210154168",
+  "name": "Max Planck Institute for Biogeochemistry",
+  "latitude": 50.92877960205078,
+  "longitude": 11.589900016784668,
+  "country": "DE"
+ },
+ {
+  "id": "I4210154188",
+  "name": "Laboratoire d'Oc\u00e9anographie et du Climat : Exp\u00e9rimentations et Approches Num\u00e9riques",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": "FR"
+ },
+ {
+  "id": "I4210154282",
+  "name": "Instituto de Fomento Pesquero",
+  "latitude": -33.0359992980957,
+  "longitude": -71.62963104248047,
+  "country": "CL"
+ },
+ {
+  "id": "I4210154447",
+  "name": "Exeter Hospital",
+  "latitude": 50.71625900268555,
+  "longitude": -3.5117299556732178,
+  "country": "GB"
+ },
+ {
+  "id": "I4210154540",
+  "name": "Asiaq Greenland Survey",
+  "latitude": 64.16999053955078,
+  "longitude": -51.73365020751953,
+  "country": "GL"
+ },
+ {
+  "id": "I4210154624",
+  "name": "Atmospheric and Environmental Research",
+  "latitude": 42.53947067260742,
+  "longitude": -71.25694274902344,
+  "country": "US"
+ },
+ {
+  "id": "I4210154877",
+  "name": "Stockholm Environment Institute",
+  "latitude": 59.33436584472656,
+  "longitude": 18.097030639648438,
+  "country": "SE"
+ },
+ {
+  "id": "I4210155205",
+  "name": "Marine Institute",
+  "latitude": 53.26832962036133,
+  "longitude": -8.920000076293945,
+  "country": "IE"
+ },
+ {
+  "id": "I4210155331",
+  "name": "Institut M\u00e9diterran\u00e9en d\u2019Oc\u00e9anologie",
+  "latitude": 43.29695129394531,
+  "longitude": 5.381070137023926,
+  "country": "FR"
+ },
+ {
+  "id": "I4210156082",
+  "name": "BioConsult SH (Germany)",
+  "latitude": 54.490352630615234,
+  "longitude": 9.037528038024902,
+  "country": "DE"
+ },
+ {
+  "id": "I4210156181",
+  "name": "Wisconsin Disability Association",
+  "latitude": 43.45438766479492,
+  "longitude": -89.4950180053711,
+  "country": "US"
+ },
+ {
+  "id": "I4210156316",
+  "name": "Rocky Mountain Research (United States)",
+  "latitude": 40.787330627441406,
+  "longitude": -111.90068054199219,
+  "country": "US"
+ },
+ {
+  "id": "I4210156486",
+  "name": "Laboratoire de G\u00e9ographie Physique",
+  "latitude": 48.76443862915039,
+  "longitude": 2.391390085220337,
+  "country": "FR"
+ },
+ {
+  "id": "I4210156643",
+  "name": "Harvard Global Health Institute",
+  "latitude": 42.375099182128906,
+  "longitude": -71.1056137084961,
+  "country": "US"
+ },
+ {
+  "id": "I4210156829",
+  "name": "Research Network (United States)",
+  "latitude": 34.004154205322266,
+  "longitude": -84.58769989013672,
+  "country": "US"
+ },
+ {
+  "id": "I4210156930",
+  "name": "Earth and Space Research",
+  "latitude": 47.614078521728516,
+  "longitude": -122.34237670898438,
+  "country": "US"
+ },
+ {
+  "id": "I4210157108",
+  "name": "Institut Universitaire Europ\u00e9en de la Mer",
+  "latitude": 48.381309509277344,
+  "longitude": -4.6180500984191895,
+  "country": "FR"
+ },
+ {
+  "id": "I4210157424",
+  "name": "NOAA National Centers for Coastal Ocean Science",
+  "latitude": 38.99066925048828,
+  "longitude": -77.02609252929688,
+  "country": "US"
+ },
+ {
+  "id": "I4210157637",
+  "name": "Ouranos",
+  "latitude": 45.50634002685547,
+  "longitude": -73.5724105834961,
+  "country": "CA"
+ },
+ {
+  "id": "I4210157750",
+  "name": "Aurora College",
+  "latitude": 68.35916900634766,
+  "longitude": -133.71820068359375,
+  "country": "CA"
+ },
+ {
+  "id": "I4210157868",
+  "name": "Yukon Department of Environment",
+  "latitude": 60.715938568115234,
+  "longitude": -135.0840606689453,
+  "country": "CA"
+ },
+ {
+  "id": "I4210157891",
+  "name": "NOAA National Centers for Environmental Information",
+  "latitude": 35.600948333740234,
+  "longitude": -82.55402374267578,
+  "country": "US"
+ },
+ {
+  "id": "I4210158228",
+  "name": "Laboratoire d\u2019Oc\u00e9anographie de Villefranche",
+  "latitude": 43.70391845703125,
+  "longitude": 7.310880184173584,
+  "country": "FR"
+ },
+ {
+  "id": "I4210158426",
+  "name": "Biog\u00e9osciences",
+  "latitude": 47.31666946411133,
+  "longitude": 5.016670227050781,
+  "country": "FR"
+ },
+ {
+  "id": "I4210158893",
+  "name": "Bureau de Recherches G\u00e9ologiques et Mini\u00e8res",
+  "latitude": 47.902889251708984,
+  "longitude": 1.9038900136947632,
+  "country": "FR"
+ },
+ {
+  "id": "I4210159301",
+  "name": "Swiss Institute of Comparative Law",
+  "latitude": 46.51599884033203,
+  "longitude": 6.632820129394531,
+  "country": "CH"
+ },
+ {
+  "id": "I4210159338",
+  "name": "Future Analytics",
+  "latitude": 53.334747314453125,
+  "longitude": -6.252320766448975,
+  "country": "IE"
+ },
+ {
+  "id": "I4210159635",
+  "name": "Beijing Seismological Bureau",
+  "latitude": 39.97936248779297,
+  "longitude": 116.30709838867188,
+  "country": "CN"
+ },
+ {
+  "id": "I4210159790",
+  "name": "Institute of Earth Environment",
+  "latitude": 34.258331298828125,
+  "longitude": 108.9286117553711,
+  "country": "CN"
+ },
+ {
+  "id": "I4210160113",
+  "name": "Government of Northwest Territories",
+  "latitude": 62.45410919189453,
+  "longitude": -114.37248229980469,
+  "country": "CA"
+ },
+ {
+  "id": "I4210160261",
+  "name": "Research Institute for Humanity and Nature",
+  "latitude": 35.02106857299805,
+  "longitude": 135.75384521484375,
+  "country": "JP"
+ },
+ {
+  "id": "I4210160401",
+  "name": "National Center for Infectious Diseases",
+  "latitude": 33.749000549316406,
+  "longitude": -84.38797760009766,
+  "country": "US"
+ },
+ {
+  "id": "I4210161097",
+  "name": "Bolin Centre for Climate Research",
+  "latitude": 59.32938003540039,
+  "longitude": 18.068710327148438,
+  "country": "SE"
+ },
+ {
+  "id": "I4210161208",
+  "name": "Laboratoire d\u2019Oc\u00e9anologie et de G\u00e9osciences",
+  "latitude": 50.769630432128906,
+  "longitude": 1.6113899946212769,
+  "country": "FR"
+ },
+ {
+  "id": "I4210161504",
+  "name": "International Union for Conservation of Nature",
+  "latitude": 46.42081832885742,
+  "longitude": 6.270100116729736,
+  "country": "CH"
+ },
+ {
+  "id": "I4210161576",
+  "name": "Global Institute for Water Security",
+  "latitude": 52.141082763671875,
+  "longitude": -106.62439727783203,
+  "country": "CA"
+ },
+ {
+  "id": "I4210161589",
+  "name": "Bahamas Marine Mammal Research Organisation",
+  "latitude": 26.52320098876953,
+  "longitude": -77.09001159667969,
+  "country": "BS"
+ },
+ {
+  "id": "I4210161770",
+  "name": "Wildlife Conservation Society Fiji",
+  "latitude": -18.147064208984375,
+  "longitude": 178.43031311035156,
+  "country": "FJ"
+ },
+ {
+  "id": "I4210162280",
+  "name": "Laboratoire de G\u00e9ologie de l\u2019\u00c9cole Normale Sup\u00e9rieure",
+  "latitude": 48.84314727783203,
+  "longitude": 2.346220016479492,
+  "country": "FR"
+ },
+ {
+  "id": "I4210162457",
+  "name": "Fujian Institute of Oceanography",
+  "latitude": 24.482221603393555,
+  "longitude": 118.08169555664062,
+  "country": "CN"
+ },
+ {
+  "id": "I4210162760",
+  "name": "Instituto Geof\u00edsico del Per\u00fa",
+  "latitude": -12.05450439453125,
+  "longitude": -76.94454193115234,
+  "country": "PE"
+ },
+ {
+  "id": "I4210162872",
+  "name": "Laboratoire des Sciences de l'Environnement Marin",
+  "latitude": 48.381309509277344,
+  "longitude": -4.6180500984191895,
+  "country": "FR"
+ },
+ {
+  "id": "I4210163131",
+  "name": "Max Planck Institute for Meteorology",
+  "latitude": 53.56779479980469,
+  "longitude": 9.975467681884766,
+  "country": "DE"
+ },
+ {
+  "id": "I4210163172",
+  "name": "Environmental Earth Sciences",
+  "latitude": -33.81703186035156,
+  "longitude": 151.1826934814453,
+  "country": "AU"
+ },
+ {
+  "id": "I4210163231",
+  "name": "The FRAM Centre",
+  "latitude": 69.6489028930664,
+  "longitude": 18.955080032348633,
+  "country": "NO"
+ },
+ {
+  "id": "I4210164369",
+  "name": "National Institute of Oceanography and Applied Geophysics",
+  "latitude": 45.64952850341797,
+  "longitude": 13.776780128479004,
+  "country": "IT"
+ },
+ {
+  "id": "I4210165017",
+  "name": "European Space Research Institute",
+  "latitude": 41.80910110473633,
+  "longitude": 12.679420471191406,
+  "country": "IT"
+ },
+ {
+  "id": "I4210165284",
+  "name": "El Colegio de la Frontera Sur",
+  "latitude": 19.843860626220703,
+  "longitude": -90.52554321289062,
+  "country": "MX"
+ },
+ {
+  "id": "I4210166020",
+  "name": "Ecosystem Sciences",
+  "latitude": -35.2749137878418,
+  "longitude": 149.11331176757812,
+  "country": "AU"
+ },
+ {
+  "id": "I4210166112",
+  "name": "State Key Laboratory of Remote Sensing Science",
+  "latitude": 39.907501220703125,
+  "longitude": 116.39723205566406,
+  "country": "CN"
+ },
+ {
+  "id": "I4210166444",
+  "name": "Institut de Recherche pour le D\u00e9veloppement",
+  "latitude": 43.29695129394531,
+  "longitude": 5.381070137023926,
+  "country": "FR"
+ },
+ {
+  "id": "I4210166920",
+  "name": "NOAA National Marine Fisheries Service Northwest Fisheries Science Center",
+  "latitude": 47.60620880126953,
+  "longitude": -122.33206939697266,
+  "country": "US"
+ },
+ {
+  "id": "I4210166937",
+  "name": "Korea Institute of Atmospheric Prediction Systems",
+  "latitude": 37.492069244384766,
+  "longitude": 126.92350006103516,
+  "country": "KR"
+ },
+ {
+  "id": "I4210167379",
+  "name": "Polar Scientific",
+  "latitude": 52.01367950439453,
+  "longitude": -0.9728839993476868,
+  "country": "GB"
+ },
+ {
+  "id": "I43406934",
+  "name": "Universit\u00e9 Laval",
+  "latitude": 46.812278747558594,
+  "longitude": -71.21453857421875,
+  "country": "CA"
+ },
+ {
+  "id": "I43439940",
+  "name": "University of Southampton",
+  "latitude": 50.90394973754883,
+  "longitude": -1.4042799472808838,
+  "country": "GB"
+ },
+ {
+  "id": "I4387152347",
+  "name": "California Water Science Center",
+  "latitude": 38.58156967163086,
+  "longitude": -121.49440002441406,
+  "country": null
+ },
+ {
+  "id": "I4387152659",
+  "name": "Ministerio de Medio Ambiente y Recursos Naturales",
+  "latitude": 13.689350128173828,
+  "longitude": -89.18717956542969,
+  "country": null
+ },
+ {
+  "id": "I4387152772",
+  "name": "Climate Service Center",
+  "latitude": 53.55073165893555,
+  "longitude": 9.993020057678223,
+  "country": null
+ },
+ {
+  "id": "I4387153814",
+  "name": "U.S. Geological Survey, Wetland and Aquatic Research Center",
+  "latitude": 30.224090576171875,
+  "longitude": -92.01983642578125,
+  "country": null
+ },
+ {
+  "id": "I4387154547",
+  "name": "fRI Research",
+  "latitude": 53.400089263916016,
+  "longitude": -117.5856704711914,
+  "country": null
+ },
+ {
+  "id": "I4387154889",
+  "name": "Kearney Agricultural Research and Extension Center",
+  "latitude": 36.61162185668945,
+  "longitude": -119.52706909179688,
+  "country": null
+ },
+ {
+  "id": "I4387930220",
+  "name": "NOAA National Weather Service Alaska Region",
+  "latitude": 61.21805953979492,
+  "longitude": -149.90028381347656,
+  "country": null
+ },
+ {
+  "id": "I4387930221",
+  "name": "NOAA Climate Prediction Center",
+  "latitude": 38.98067092895508,
+  "longitude": -76.93692016601562,
+  "country": null
+ },
+ {
+  "id": "I4388446413",
+  "name": "Meteorological Research Institute",
+  "latitude": 36.20000076293945,
+  "longitude": 140.10000610351562,
+  "country": null
+ },
+ {
+  "id": "I4390039322",
+  "name": "National Snow and Ice Data Center",
+  "latitude": 40.014991760253906,
+  "longitude": -105.27055358886719,
+  "country": null
+ },
+ {
+  "id": "I4391012618",
+  "name": "U.S. Geological Survey, Alaska Science Center",
+  "latitude": 61.21805953979492,
+  "longitude": -149.90028381347656,
+  "country": null
+ },
+ {
+  "id": "I4391767831",
+  "name": "Pacific Island Ecosystems Research Center",
+  "latitude": 19.41938018798828,
+  "longitude": -155.2884979248047,
+  "country": null
+ },
+ {
+  "id": "I4391768139",
+  "name": "Forest and Rangeland Ecosystem Science Center",
+  "latitude": 44.564571380615234,
+  "longitude": -123.26203918457031,
+  "country": null
+ },
+ {
+  "id": "I4392021179",
+  "name": "Northern Rocky Mountain Science Center",
+  "latitude": 45.679649353027344,
+  "longitude": -111.03855895996094,
+  "country": null
+ },
+ {
+  "id": "I4392738177",
+  "name": "New Zealand Agricultural Greenhouse Gas Research Centre",
+  "latitude": -40.356361389160156,
+  "longitude": 175.6111297607422,
+  "country": null
+ },
+ {
+  "id": "I4394709165",
+  "name": "Institute for Marine and Antarctic Studies",
+  "latitude": -42.889949798583984,
+  "longitude": 147.33323669433594,
+  "country": null
+ },
+ {
+  "id": "I4396570543",
+  "name": "International Arctic Research Center",
+  "latitude": 64.83778381347656,
+  "longitude": -147.7163848876953,
+  "country": null
+ },
+ {
+  "id": "I4396570579",
+  "name": "DTU Space",
+  "latitude": 55.77043914794922,
+  "longitude": 12.503780364990234,
+  "country": null
+ },
+ {
+  "id": "I4399598467",
+  "name": "Institut SYMLOG de France",
+  "latitude": 48.85340881347656,
+  "longitude": 2.34879994392395,
+  "country": null
+ },
+ {
+  "id": "I4400009048",
+  "name": "Byrd Polar and Climate Research Center",
+  "latitude": 39.961181640625,
+  "longitude": -82.99878692626953,
+  "country": null
+ },
+ {
+  "id": "I4401200256",
+  "name": "Nansen Environmental and Remote Sensing Center",
+  "latitude": 60.39299011230469,
+  "longitude": 5.324150085449219,
+  "country": null
+ },
+ {
+  "id": "I4402554120",
+  "name": "Rutgers New Jersey Medical School",
+  "latitude": 39.683719635009766,
+  "longitude": -75.7496566772461,
+  "country": null
+ },
+ {
+  "id": "I4430876",
+  "name": "UNAVCO",
+  "latitude": 40.06139373779297,
+  "longitude": -105.20591735839844,
+  "country": "US"
+ },
+ {
+  "id": "I4432739",
+  "name": "University of Bergen",
+  "latitude": 60.39299011230469,
+  "longitude": 5.324150085449219,
+  "country": "NO"
+ },
+ {
+  "id": "I44675526",
+  "name": "Shanghai Ocean University",
+  "latitude": 31.222219467163086,
+  "longitude": 121.45806121826172,
+  "country": "CN"
+ },
+ {
+  "id": "I44854399",
+  "name": "University of Southern Mississippi",
+  "latitude": 31.327119827270508,
+  "longitude": -89.29033660888672,
+  "country": "US"
+ },
+ {
+  "id": "I45084792",
+  "name": "University of Florence",
+  "latitude": 43.77925109863281,
+  "longitude": 11.246259689331055,
+  "country": "IT"
+ },
+ {
+  "id": "I45129253",
+  "name": "University College London",
+  "latitude": 51.50852966308594,
+  "longitude": -0.12574000656604767,
+  "country": "GB"
+ },
+ {
+  "id": "I4575257",
+  "name": "Hanyang University",
+  "latitude": 37.55746841430664,
+  "longitude": 127.0453109741211,
+  "country": "KR"
+ },
+ {
+  "id": "I45935490",
+  "name": "National Institute of Water and Atmospheric Research",
+  "latitude": -36.84402847290039,
+  "longitude": 174.76171875,
+  "country": "NZ"
+ },
+ {
+  "id": "I46247651",
+  "name": "University of Manitoba",
+  "latitude": 49.8843994140625,
+  "longitude": -97.14704132080078,
+  "country": "CA"
+ },
+ {
+  "id": "I47508984",
+  "name": "Imperial College London",
+  "latitude": 51.50852966308594,
+  "longitude": -0.12574000656604767,
+  "country": "GB"
+ },
+ {
+  "id": "I48840829",
+  "name": "Tokyo University of Marine Science and Technology",
+  "latitude": 35.68949890136719,
+  "longitude": 139.69171142578125,
+  "country": "JP"
+ },
+ {
+  "id": "I4921948",
+  "name": "Pusan National University",
+  "latitude": 35.101680755615234,
+  "longitude": 129.03004455566406,
+  "country": "KR"
+ },
+ {
+  "id": "I5023651",
+  "name": "McGill University",
+  "latitude": 45.50883865356445,
+  "longitude": -73.58780670166016,
+  "country": "CA"
+ },
+ {
+  "id": "I50441567",
+  "name": "Universitat de les Illes Balears",
+  "latitude": 39.56938934326172,
+  "longitude": 2.650239944458008,
+  "country": "ES"
+ },
+ {
+  "id": "I51158804",
+  "name": "Massey University",
+  "latitude": -40.356361389160156,
+  "longitude": 175.6111297607422,
+  "country": "NZ"
+ },
+ {
+  "id": "I5124864",
+  "name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+  "latitude": 46.51599884033203,
+  "longitude": 6.632820129394531,
+  "country": "CH"
+ },
+ {
+  "id": "I51361536",
+  "name": "University of El Salvador",
+  "latitude": 13.689350128173828,
+  "longitude": -89.18717956542969,
+  "country": "SV"
+ },
+ {
+  "id": "I51504820",
+  "name": "San Jose State University",
+  "latitude": 37.33938980102539,
+  "longitude": -121.89495849609375,
+  "country": "US"
+ },
+ {
+  "id": "I51532219",
+  "name": "University of Lincoln",
+  "latitude": 53.226829528808594,
+  "longitude": -0.5379199981689453,
+  "country": "GB"
+ },
+ {
+  "id": "I51556381",
+  "name": "University of Virginia",
+  "latitude": 38.0293083190918,
+  "longitude": -78.47667694091797,
+  "country": "US"
+ },
+ {
+  "id": "I52099693",
+  "name": "University of York",
+  "latitude": 53.9576301574707,
+  "longitude": -1.0827100276947021,
+  "country": "GB"
+ },
+ {
+  "id": "I52179390",
+  "name": "University of Waikato",
+  "latitude": -37.783329010009766,
+  "longitude": 175.2833251953125,
+  "country": "NZ"
+ },
+ {
+  "id": "I52218309",
+  "name": "Smithsonian Environmental Research Center",
+  "latitude": 38.9379997253418,
+  "longitude": -76.55699920654297,
+  "country": "US"
+ },
+ {
+  "id": "I52357470",
+  "name": "The Ohio State University",
+  "latitude": 39.961181640625,
+  "longitude": -82.99878692626953,
+  "country": "US"
+ },
+ {
+  "id": "I52768194",
+  "name": "Hanover College",
+  "latitude": 38.714229583740234,
+  "longitude": -85.47357177734375,
+  "country": "US"
+ },
+ {
+  "id": "I52913039",
+  "name": "University of Houston - Clear Lake",
+  "latitude": 29.584001541137695,
+  "longitude": -95.09764862060547,
+  "country": "US"
+ },
+ {
+  "id": "I530967",
+  "name": "Toronto Metropolitan University",
+  "latitude": 43.70642852783203,
+  "longitude": -79.39864349365234,
+  "country": "CA"
+ },
+ {
+  "id": "I54383971",
+  "name": "EcoHealth Alliance",
+  "latitude": 40.714271545410156,
+  "longitude": -74.00596618652344,
+  "country": "US"
+ },
+ {
+  "id": "I55732556",
+  "name": "Arizona State University",
+  "latitude": 33.41476821899414,
+  "longitude": -111.90930938720703,
+  "country": "US"
+ },
+ {
+  "id": "I55952717",
+  "name": "Universidad Rovira i Virgili",
+  "latitude": 41.119049072265625,
+  "longitude": 1.2454400062561035,
+  "country": "ES"
+ },
+ {
+  "id": "I56085075",
+  "name": "University of Tartu",
+  "latitude": 58.380619049072266,
+  "longitude": 26.72509002685547,
+  "country": "EE"
+ },
+ {
+  "id": "I56590836",
+  "name": "Monash University",
+  "latitude": -37.81399917602539,
+  "longitude": 144.96331787109375,
+  "country": "AU"
+ },
+ {
+  "id": "I5681781",
+  "name": "University of Adelaide",
+  "latitude": -34.92866134643555,
+  "longitude": 138.5986328125,
+  "country": "AU"
+ },
+ {
+  "id": "I57093077",
+  "name": "Swinburne University of Technology",
+  "latitude": -37.81399917602539,
+  "longitude": 144.96331787109375,
+  "country": "AU"
+ },
+ {
+  "id": "I57206974",
+  "name": "New York University",
+  "latitude": 40.714271545410156,
+  "longitude": -74.00596618652344,
+  "country": "US"
+ },
+ {
+  "id": "I59028903",
+  "name": "Ocean University of China",
+  "latitude": 36.06488037109375,
+  "longitude": 120.38041687011719,
+  "country": "CN"
+ },
+ {
+  "id": "I59272784",
+  "name": "Arab Academy for Science, Technology, and Maritime Transport",
+  "latitude": 31.201759338378906,
+  "longitude": 29.91581916809082,
+  "country": "EG"
+ },
+ {
+  "id": "I59553526",
+  "name": "Stony Brook University",
+  "latitude": 40.92565155029297,
+  "longitude": -73.14093780517578,
+  "country": "US"
+ },
+ {
+  "id": "I59807433",
+  "name": "Universit\u00e9 Lille Nord de France",
+  "latitude": 50.63296890258789,
+  "longitude": 3.058579921722412,
+  "country": "FR"
+ },
+ {
+  "id": "I60134161",
+  "name": "Nagoya University",
+  "latitude": 35.18146896362305,
+  "longitude": 136.90640258789062,
+  "country": "JP"
+ },
+ {
+  "id": "I60138030",
+  "name": "Desert Research Institute",
+  "latitude": 39.52962875366211,
+  "longitude": -119.81379699707031,
+  "country": "US"
+ },
+ {
+  "id": "I60200437",
+  "name": "Potsdam Institute for Climate Impact Research",
+  "latitude": 52.381282806396484,
+  "longitude": 13.064151763916016,
+  "country": "DE"
+ },
+ {
+  "id": "I61174481",
+  "name": "University of Akureyri",
+  "latitude": 65.68353271484375,
+  "longitude": -18.087799072265625,
+  "country": "IS"
+ },
+ {
+  "id": "I61497270",
+  "name": "Instituto Ant\u00e1rtico Chileno",
+  "latitude": -53.15483093261719,
+  "longitude": -70.91129302978516,
+  "country": "CL"
+ },
+ {
+  "id": "I6289922",
+  "name": "Universidade de Vigo",
+  "latitude": 42.232818603515625,
+  "longitude": -8.722640037536621,
+  "country": "ES"
+ },
+ {
+  "id": "I62916508",
+  "name": "Technical University of Munich",
+  "latitude": 48.137428283691406,
+  "longitude": 11.57548999786377,
+  "country": "DE"
+ },
+ {
+  "id": "I63135867",
+  "name": "University of Cincinnati",
+  "latitude": 39.132022857666016,
+  "longitude": -84.51554870605469,
+  "country": "US"
+ },
+ {
+  "id": "I63190737",
+  "name": "University at Buffalo, State University of New York",
+  "latitude": 42.886451721191406,
+  "longitude": -78.87837219238281,
+  "country": "US"
+ },
+ {
+  "id": "I63341726",
+  "name": "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res",
+  "latitude": 46.345149993896484,
+  "longitude": -72.54769897460938,
+  "country": "CA"
+ },
+ {
+  "id": "I63525965",
+  "name": "Western Sydney University",
+  "latitude": -33.59955978393555,
+  "longitude": 150.7514190673828,
+  "country": "AU"
+ },
+ {
+  "id": "I63634437",
+  "name": "Universidad Aut\u00f3noma de Madrid",
+  "latitude": 40.416500091552734,
+  "longitude": -3.7025599479675293,
+  "country": "ES"
+ },
+ {
+  "id": "I63664421",
+  "name": "Swiss Federal Institute of Aquatic Science and Technology",
+  "latitude": 47.397239685058594,
+  "longitude": 8.618720054626465,
+  "country": "CH"
+ },
+ {
+  "id": "I63772739",
+  "name": "Florida Atlantic University",
+  "latitude": 26.35869026184082,
+  "longitude": -80.08309936523438,
+  "country": "US"
+ },
+ {
+  "id": "I63966007",
+  "name": "Massachusetts Institute of Technology",
+  "latitude": 42.375099182128906,
+  "longitude": -71.1056137084961,
+  "country": "US"
+ },
+ {
+  "id": "I64663401",
+  "name": "Center for Scientific Research and Higher Education at Ensenada",
+  "latitude": 31.869380950927734,
+  "longitude": -116.66627502441406,
+  "country": "MX"
+ },
+ {
+  "id": "I65285256",
+  "name": "Pontifical Catholic University of Peru",
+  "latitude": -12.043180465698242,
+  "longitude": -77.02823638916016,
+  "country": "PE"
+ },
+ {
+  "id": "I65595360",
+  "name": "Royal Roads University",
+  "latitude": 48.4359016418457,
+  "longitude": -123.35154724121094,
+  "country": "CA"
+ },
+ {
+  "id": "I662221",
+  "name": "Trent University",
+  "latitude": 44.30012130737305,
+  "longitude": -78.31623077392578,
+  "country": "CA"
+ },
+ {
+  "id": "I66752286",
+  "name": "University of Milano-Bicocca",
+  "latitude": 45.464271545410156,
+  "longitude": 9.189510345458984,
+  "country": "IT"
+ },
+ {
+  "id": "I66809481",
+  "name": "Southern Cross University",
+  "latitude": -28.813539505004883,
+  "longitude": 153.2772979736328,
+  "country": "AU"
+ },
+ {
+  "id": "I66890659",
+  "name": "Saint Mary's University",
+  "latitude": 44.6426887512207,
+  "longitude": -63.576881408691406,
+  "country": "CA"
+ },
+ {
+  "id": "I66946132",
+  "name": "University of Maryland, College Park",
+  "latitude": 38.98067092895508,
+  "longitude": -76.93692016601562,
+  "country": "US"
+ },
+ {
+  "id": "I66958751",
+  "name": "Woods Hole Oceanographic Institution",
+  "latitude": 41.55149841308594,
+  "longitude": -70.61475372314453,
+  "country": "US"
+ },
+ {
+  "id": "I67031392",
+  "name": "Carleton University",
+  "latitude": 45.411170959472656,
+  "longitude": -75.6981201171875,
+  "country": "CA"
+ },
+ {
+  "id": "I6750721",
+  "name": "University of Montana",
+  "latitude": 46.87215042114258,
+  "longitude": -113.99400329589844,
+  "country": "US"
+ },
+ {
+  "id": "I68368234",
+  "name": "Center for Research and Advanced Studies of the National Polytechnic Institute",
+  "latitude": 19.509166717529297,
+  "longitude": -99.12944030761719,
+  "country": "MX"
+ },
+ {
+  "id": "I68947357",
+  "name": "Universit\u00e9 de Strasbourg",
+  "latitude": 48.583919525146484,
+  "longitude": 7.745530128479004,
+  "country": "FR"
+ },
+ {
+  "id": "I69552723",
+  "name": "University of Pretoria",
+  "latitude": -25.74485969543457,
+  "longitude": 28.187829971313477,
+  "country": "ZA"
+ },
+ {
+  "id": "I69737025",
+  "name": "University of Chile",
+  "latitude": -33.443321228027344,
+  "longitude": -70.65058135986328,
+  "country": "CL"
+ },
+ {
+  "id": "I70931966",
+  "name": "Universit\u00e9 de Montr\u00e9al",
+  "latitude": 45.50883865356445,
+  "longitude": -73.58780670166016,
+  "country": "CA"
+ },
+ {
+  "id": "I70983195",
+  "name": "Syracuse University",
+  "latitude": 43.048118591308594,
+  "longitude": -76.14742279052734,
+  "country": "US"
+ },
+ {
+  "id": "I71052956",
+  "name": "University of Reading",
+  "latitude": 51.45624923706055,
+  "longitude": -0.9711300134658813,
+  "country": "GB"
+ },
+ {
+  "id": "I71503853",
+  "name": "University of Algarve",
+  "latitude": 37.0186882019043,
+  "longitude": -7.927159786224365,
+  "country": "PT"
+ },
+ {
+  "id": "I71838634",
+  "name": "San Francisco State University",
+  "latitude": 37.77492904663086,
+  "longitude": -122.41941833496094,
+  "country": "US"
+ },
+ {
+  "id": "I71920554",
+  "name": "King Abdullah University of Science and Technology",
+  "latitude": 21.49011993408203,
+  "longitude": 39.186241149902344,
+  "country": "SA"
+ },
+ {
+  "id": "I71999127",
+  "name": "Universitat de Barcelona",
+  "latitude": 41.388790130615234,
+  "longitude": 2.158989906311035,
+  "country": "ES"
+ },
+ {
+  "id": "I72541430",
+  "name": "Lakehead University",
+  "latitude": 48.38201904296875,
+  "longitude": -89.25018310546875,
+  "country": "CA"
+ },
+ {
+  "id": "I74656192",
+  "name": "University of G\u00f6ttingen",
+  "latitude": 51.53443145751953,
+  "longitude": 9.932279586791992,
+  "country": "DE"
+ },
+ {
+  "id": "I74775410",
+  "name": "Rice University",
+  "latitude": 29.763280868530273,
+  "longitude": -95.36327362060547,
+  "country": "US"
+ },
+ {
+  "id": "I74801974",
+  "name": "The University of Tokyo",
+  "latitude": 35.68949890136719,
+  "longitude": 139.69171142578125,
+  "country": "JP"
+ },
+ {
+  "id": "I75381157",
+  "name": "Wilfrid Laurier University",
+  "latitude": 43.466800689697266,
+  "longitude": -80.51638793945312,
+  "country": "CA"
+ },
+ {
+  "id": "I75418795",
+  "name": "Fiji National University",
+  "latitude": -18.14160919189453,
+  "longitude": 178.4414825439453,
+  "country": "FJ"
+ },
+ {
+  "id": "I75821886",
+  "name": "University of South Florida St. Petersburg",
+  "latitude": 27.763193130493164,
+  "longitude": -82.63544464111328,
+  "country": "US"
+ },
+ {
+  "id": "I75881417",
+  "name": "WorldFish",
+  "latitude": 5.288567066192627,
+  "longitude": 100.28418731689453,
+  "country": "MY"
+ },
+ {
+  "id": "I76835614",
+  "name": "University of Missouri",
+  "latitude": 38.95170974731445,
+  "longitude": -92.33406829833984,
+  "country": "US"
+ },
+ {
+  "id": "I78037679",
+  "name": "UiT The Arctic University of Norway",
+  "latitude": 69.6489028930664,
+  "longitude": 18.955080032348633,
+  "country": "NO"
+ },
+ {
+  "id": "I781764",
+  "name": "Australasian College for Emergency Medicine",
+  "latitude": -37.81147003173828,
+  "longitude": 144.95220947265625,
+  "country": "AU"
+ },
+ {
+  "id": "I78577930",
+  "name": "Columbia University",
+  "latitude": 40.714271545410156,
+  "longitude": -74.00596618652344,
+  "country": "US"
+ },
+ {
+  "id": "I78744979",
+  "name": "La Rochelle Universit\u00e9",
+  "latitude": 46.16307830810547,
+  "longitude": -1.1522200107574463,
+  "country": "FR"
+ },
+ {
+  "id": "I78757542",
+  "name": "University of Newcastle Australia",
+  "latitude": -32.92953109741211,
+  "longitude": 151.7801055908203,
+  "country": "AU"
+ },
+ {
+  "id": "I7882870",
+  "name": "University of Glasgow",
+  "latitude": 55.865150451660156,
+  "longitude": -4.257629871368408,
+  "country": "GB"
+ },
+ {
+  "id": "I79080234",
+  "name": "National Agrarian University",
+  "latitude": -12.043180465698242,
+  "longitude": -77.02823638916016,
+  "country": "PE"
+ },
+ {
+  "id": "I79272384",
+  "name": "University of Maryland, Baltimore County",
+  "latitude": 39.29037857055664,
+  "longitude": -76.61219024658203,
+  "country": "US"
+ },
+ {
+  "id": "I7947594",
+  "name": "University of Maine",
+  "latitude": 44.883121490478516,
+  "longitude": -68.67198181152344,
+  "country": "US"
+ },
+ {
+  "id": "I79510175",
+  "name": "Cardiff University",
+  "latitude": 51.47999954223633,
+  "longitude": -3.180000066757202,
+  "country": "GB"
+ },
+ {
+  "id": "I79576946",
+  "name": "University of Pennsylvania",
+  "latitude": 39.9523811340332,
+  "longitude": -75.16361999511719,
+  "country": "US"
+ },
+ {
+  "id": "I79619799",
+  "name": "University of Birmingham",
+  "latitude": 52.450557708740234,
+  "longitude": -1.930556058883667,
+  "country": "GB"
+ },
+ {
+  "id": "I79817857",
+  "name": "University of Guelph",
+  "latitude": 43.54594039916992,
+  "longitude": -80.25598907470703,
+  "country": "CA"
+ },
+ {
+  "id": "I79839527",
+  "name": "Roger Williams University",
+  "latitude": 41.67705154418945,
+  "longitude": -71.26615905761719,
+  "country": "US"
+ },
+ {
+  "id": "I80281795",
+  "name": "University of Otago",
+  "latitude": -45.87416076660156,
+  "longitude": 170.5036163330078,
+  "country": "NZ"
+ },
+ {
+  "id": "I80605987",
+  "name": "NOAA Earth System Research Laboratory",
+  "latitude": 40.014991760253906,
+  "longitude": -105.27055358886719,
+  "country": "US"
+ },
+ {
+  "id": "I81365321",
+  "name": "Old Dominion University",
+  "latitude": 36.84680938720703,
+  "longitude": -76.28521728515625,
+  "country": "US"
+ },
+ {
+  "id": "I8165072",
+  "name": "Universidade Federal de Itajub\u00e1",
+  "latitude": -22.425559997558594,
+  "longitude": -45.452781677246094,
+  "country": "BR"
+ },
+ {
+  "id": "I8204097",
+  "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
+  "latitude": 48.137428283691406,
+  "longitude": 11.57548999786377,
+  "country": "DE"
+ },
+ {
+  "id": "I82497590",
+  "name": "Auburn University",
+  "latitude": 32.609859466552734,
+  "longitude": -85.48078155517578,
+  "country": "US"
+ },
+ {
+  "id": "I82951845",
+  "name": "RMIT University",
+  "latitude": -37.80674743652344,
+  "longitude": 144.9625701904297,
+  "country": "AU"
+ },
+ {
+  "id": "I83809506",
+  "name": "University of South Alabama",
+  "latitude": 30.694360733032227,
+  "longitude": -88.04305267333984,
+  "country": "US"
+ },
+ {
+  "id": "I83816512",
+  "name": "University of Genoa",
+  "latitude": 44.404781341552734,
+  "longitude": 8.944390296936035,
+  "country": "IT"
+ },
+ {
+  "id": "I84218800",
+  "name": "University of California, Davis",
+  "latitude": 38.5449104309082,
+  "longitude": -121.74051666259766,
+  "country": "US"
+ },
+ {
+  "id": "I84392919",
+  "name": "Temple University",
+  "latitude": 39.9523811340332,
+  "longitude": -75.16361999511719,
+  "country": "US"
+ },
+ {
+  "id": "I84884186",
+  "name": "Newcastle University",
+  "latitude": 54.97328186035156,
+  "longitude": -1.6139600276947021,
+  "country": "GB"
+ },
+ {
+  "id": "I8546481",
+  "name": "International Space Science Institute",
+  "latitude": 46.95289611816406,
+  "longitude": 7.435389041900635,
+  "country": "CH"
+ },
+ {
+  "id": "I859038795",
+  "name": "Virginia Tech",
+  "latitude": 37.22956848144531,
+  "longitude": -80.4139404296875,
+  "country": "US"
+ },
+ {
+  "id": "I86467917",
+  "name": "James Cook University",
+  "latitude": -19.266389846801758,
+  "longitude": 146.80569458007812,
+  "country": "AU"
+ },
+ {
+  "id": "I86500011",
+  "name": "Monroe Community College",
+  "latitude": 43.147560119628906,
+  "longitude": -77.55055236816406,
+  "country": "US"
+ },
+ {
+  "id": "I86501945",
+  "name": "University of Delaware",
+  "latitude": 39.683719635009766,
+  "longitude": -75.7496566772461,
+  "country": "US"
+ },
+ {
+  "id": "I86519309",
+  "name": "The University of Texas at Austin",
+  "latitude": 30.26715087890625,
+  "longitude": -97.74305725097656,
+  "country": "US"
+ },
+ {
+  "id": "I865915315",
+  "name": "Vrije Universiteit Amsterdam",
+  "latitude": 52.37403106689453,
+  "longitude": 4.889689922332764,
+  "country": "NL"
+ },
+ {
+  "id": "I86609021",
+  "name": "Manaaki Whenua \u2013 Landcare Research",
+  "latitude": -43.650001525878906,
+  "longitude": 172.48333740234375,
+  "country": "NZ"
+ },
+ {
+  "id": "I869375964",
+  "name": "Woodward (United States)",
+  "latitude": 40.584529876708984,
+  "longitude": -105.05754089355469,
+  "country": "US"
+ },
+ {
+  "id": "I87074743",
+  "name": "University of the Philippines Diliman",
+  "latitude": 14.654861450195312,
+  "longitude": 121.06446838378906,
+  "country": "PH"
+ },
+ {
+  "id": "I87216513",
+  "name": "Michigan State University",
+  "latitude": 42.73698043823242,
+  "longitude": -84.48387145996094,
+  "country": "US"
+ },
+ {
+  "id": "I87302398",
+  "name": "Norwegian Polar Institute",
+  "latitude": 69.6489028930664,
+  "longitude": 18.955080032348633,
+  "country": "NO"
+ },
+ {
+  "id": "I87303767",
+  "name": "U.S. Army Engineer Research and Development Center",
+  "latitude": 32.3526496887207,
+  "longitude": -90.87787628173828,
+  "country": "US"
+ },
+ {
+  "id": "I87339560",
+  "name": "College of Marin",
+  "latitude": 37.956642150878906,
+  "longitude": -122.54977416992188,
+  "country": "US"
+ },
+ {
+  "id": "I874386039",
+  "name": "Universidad Nacional de La Plata",
+  "latitude": -34.921451568603516,
+  "longitude": -57.95452880859375,
+  "country": "AR"
+ },
+ {
+  "id": "I87445476",
+  "name": "Xi'an Jiaotong University",
+  "latitude": 34.258331298828125,
+  "longitude": 108.9286117553711,
+  "country": "CN"
+ },
+ {
+  "id": "I875511016",
+  "name": "ENVIRON (United States)",
+  "latitude": 38.88167190551758,
+  "longitude": -77.11333465576172,
+  "country": "US"
+ },
+ {
+  "id": "I88060688",
+  "name": "Universidad Polit\u00e9cnica de Madrid",
+  "latitude": 40.416500091552734,
+  "longitude": -3.7025599479675293,
+  "country": "ES"
+ },
+ {
+  "id": "I88108880",
+  "name": "School for Field Studies",
+  "latitude": 42.55967712402344,
+  "longitude": -70.88627624511719,
+  "country": "US"
+ },
+ {
+  "id": "I881427289",
+  "name": "University of Gothenburg",
+  "latitude": 57.70716094970703,
+  "longitude": 11.966790199279785,
+  "country": "SE"
+ },
+ {
+  "id": "I88170914",
+  "name": "Scottish Association For Marine Science",
+  "latitude": 56.41535186767578,
+  "longitude": -5.471839904785156,
+  "country": "GB"
+ },
+ {
+  "id": "I881766915",
+  "name": "Nanjing University",
+  "latitude": 32.061668395996094,
+  "longitude": 118.77777862548828,
+  "country": "CN"
+ },
+ {
+  "id": "I88761825",
+  "name": "Korea University of Science and Technology",
+  "latitude": 36.38636779785156,
+  "longitude": 127.36930084228516,
+  "country": "KR"
+ },
+ {
+  "id": "I887968799",
+  "name": "RWTH Aachen University",
+  "latitude": 50.776641845703125,
+  "longitude": 6.0834197998046875,
+  "country": "DE"
+ },
+ {
+  "id": "I889458895",
+  "name": "University of Hong Kong",
+  "latitude": 22.2783203125,
+  "longitude": 114.17469024658203,
+  "country": "HK"
+ },
+ {
+  "id": "I89106005",
+  "name": "Centro de Estudios Cient\u00edficos",
+  "latitude": -39.813987731933594,
+  "longitude": -73.24789428710938,
+  "country": "CL"
+ },
+ {
+  "id": "I8961855",
+  "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+  "latitude": 19.428470611572266,
+  "longitude": -99.1276626586914,
+  "country": "MX"
+ },
+ {
+  "id": "I897542642",
+  "name": "University of Plymouth",
+  "latitude": 50.37152862548828,
+  "longitude": -4.143050193786621,
+  "country": "GB"
+ },
+ {
+  "id": "I8991828",
+  "name": "Pukyong National University",
+  "latitude": 35.1341667175293,
+  "longitude": 129.10360717773438,
+  "country": "KR"
+ },
+ {
+  "id": "I899635006",
+  "name": "Universit\u00e9 Grenoble Alpes",
+  "latitude": 45.1786994934082,
+  "longitude": 5.762810230255127,
+  "country": "FR"
+ },
+ {
+  "id": "I90267481",
+  "name": "Ume\u00e5 University",
+  "latitude": 63.82841873168945,
+  "longitude": 20.259719848632812,
+  "country": "SE"
+ },
+ {
+  "id": "I90464598",
+  "name": "University of Alaska Southeast",
+  "latitude": 58.30194091796875,
+  "longitude": -134.4197235107422,
+  "country": "US"
+ },
+ {
+  "id": "I90678064",
+  "name": "University of Colombo",
+  "latitude": 6.935480117797852,
+  "longitude": 79.84867858886719,
+  "country": "LK"
+ },
+ {
+  "id": "I90871651",
+  "name": "University of Toledo",
+  "latitude": 41.6639404296875,
+  "longitude": -83.55520629882812,
+  "country": "US"
+ },
+ {
+  "id": "I91045830",
+  "name": "Texas A&M University",
+  "latitude": 30.627979278564453,
+  "longitude": -96.33441162109375,
+  "country": "US"
+ },
+ {
+  "id": "I91136226",
+  "name": "University of Sheffield",
+  "latitude": 53.38296890258789,
+  "longitude": -1.46589994430542,
+  "country": "GB"
+ },
+ {
+  "id": "I91203450",
+  "name": "University of Haifa",
+  "latitude": 32.81840896606445,
+  "longitude": 34.98849868774414,
+  "country": "IL"
+ },
+ {
+  "id": "I913481162",
+  "name": "Wageningen University & Research",
+  "latitude": 51.970001220703125,
+  "longitude": 5.666669845581055,
+  "country": "NL"
+ },
+ {
+  "id": "I92008406",
+  "name": "University of Stavanger",
+  "latitude": 58.97005081176758,
+  "longitude": 5.733320236206055,
+  "country": "NO"
+ },
+ {
+  "id": "I92446798",
+  "name": "Colorado State University",
+  "latitude": 40.58525848388672,
+  "longitude": -105.08441925048828,
+  "country": "US"
+ },
+ {
+  "id": "I926574661",
+  "name": "Leipzig University",
+  "latitude": 51.33961868286133,
+  "longitude": 12.37129020690918,
+  "country": "DE"
+ },
+ {
+  "id": "I92869138",
+  "name": "BOKU University",
+  "latitude": 48.20848846435547,
+  "longitude": 16.372079849243164,
+  "country": "AT"
+ },
+ {
+  "id": "I94525581",
+  "name": "University of Arkansas at Pine Bluff",
+  "latitude": 34.24022674560547,
+  "longitude": -92.0185546875,
+  "country": "US"
+ },
+ {
+  "id": "I94624287",
+  "name": "University of Twente",
+  "latitude": 52.21833038330078,
+  "longitude": 6.895830154418945,
+  "country": "NL"
+ },
+ {
+  "id": "I94722563",
+  "name": "University of Jyv\u00e4skyl\u00e4",
+  "latitude": 62.24147033691406,
+  "longitude": 25.72088050842285,
+  "country": "FI"
+ },
+ {
+  "id": "I95220073",
+  "name": "University of Lapland",
+  "latitude": 66.5,
+  "longitude": 25.7166690826416,
+  "country": "FI"
+ },
+ {
+  "id": "I95457486",
+  "name": "University of California, Berkeley",
+  "latitude": 37.87158966064453,
+  "longitude": -122.27275085449219,
+  "country": "US"
+ },
+ {
+  "id": "I95674353",
+  "name": "UCLouvain",
+  "latitude": 50.66828918457031,
+  "longitude": 4.614429950714111,
+  "country": "BE"
+ },
+ {
+  "id": "I95850191",
+  "name": "Moss Landing Marine Laboratories",
+  "latitude": 36.60023880004883,
+  "longitude": -121.8946762084961,
+  "country": "US"
+ },
+ {
+  "id": "I96062909",
+  "name": "Babson College",
+  "latitude": 42.29648971557617,
+  "longitude": -71.29255676269531,
+  "country": "US"
+ },
+ {
+  "id": "I9617848",
+  "name": "Universitat Polit\u00e8cnica de Catalunya",
+  "latitude": 41.388790130615234,
+  "longitude": 2.158989906311035,
+  "country": "ES"
+ },
+ {
+  "id": "I96673099",
+  "name": "Technical University of Denmark",
+  "latitude": 55.77043914794922,
+  "longitude": 12.503780364990234,
+  "country": "DK"
+ },
+ {
+  "id": "I97018004",
+  "name": "Stanford University",
+  "latitude": 37.424110412597656,
+  "longitude": -122.16607666015625,
+  "country": "US"
+ },
+ {
+  "id": "I9736820",
+  "name": "\u00c9cole de Technologie Sup\u00e9rieure",
+  "latitude": 45.50883865356445,
+  "longitude": -73.58780670166016,
+  "country": "CA"
+ },
+ {
+  "id": "I98358874",
+  "name": "Delft University of Technology",
+  "latitude": 52.00667190551758,
+  "longitude": 4.355559825897217,
+  "country": "NL"
+ },
+ {
+  "id": "I98677209",
+  "name": "University of Edinburgh",
+  "latitude": 55.95206069946289,
+  "longitude": -3.1964800357818604,
+  "country": "GB"
+ },
+ {
+  "id": "I98805295",
+  "name": "University of the Aegean",
+  "latitude": 39.10771942138672,
+  "longitude": 26.55529022216797,
+  "country": "GR"
+ },
+ {
+  "id": "I99043593",
+  "name": "Macquarie University",
+  "latitude": -33.86785125732422,
+  "longitude": 151.2073211669922,
+  "country": "AU"
+ },
+ {
+  "id": "I9927081",
+  "name": "Aalto University",
+  "latitude": 60.2052001953125,
+  "longitude": 24.65220069885254,
+  "country": "FI"
+ }
+]

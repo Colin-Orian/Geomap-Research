@@ -10,7 +10,7 @@ export function readCSV(fileName, delim){
 }
 
 
-export async function readAllData(geoMap, works, location_to_works, all_insitutions, work_to_insitutions, multi_line_string){
+export async function readAllData(geoMap, works, location_to_works, all_insitutions, work_to_insitutions, multi_line_string, author_cited){
     let geo_data
     try{
        geo_data = await json(geoMap)
@@ -56,9 +56,18 @@ export async function readAllData(geoMap, works, location_to_works, all_insituti
         console.log("multi line error")
         console.log(error)
     }
+
+    let authors_cited_data;
+    try{
+        authors_cited_data = await json(author_cited)
+    }catch(error){
+        console.log("Authors cited error")
+        console.log(error)
+    }
+    
 //https://data.opendatasoft.com/explore/dataset/georef-canada-province%40public/export/?disjunctive.prov_name_en
 //https://gist.github.com/M1r1k/d5731bf39e1dfda5b53b4e4c560d968d    
 //https://observablehq.com/@saneef/geojson-from-openstreetmap
 //https://geo2day.com/north_america/canada.geojson
-    return [geo_data, works_data, location_to_works_data, all_insitutions_data, work_to_insitutions_data, multi_line_string_data]
+    return [geo_data, works_data, location_to_works_data, all_insitutions_data, work_to_insitutions_data, multi_line_string_data, authors_cited_data]
 }
