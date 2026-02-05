@@ -113,7 +113,7 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
           [entry.geometry.coordinates[1][1], entry.geometry.coordinates[1][0]]]),
       //properties: entry.properties
     })
-
+    
     temp.setProperties(entry.properties)
 
     temp.setStyle(invisible_style)
@@ -228,20 +228,26 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
   })
 
   select.on('select', function(event) {
-    console.log(event)
+    
     let featureSelected = event.selected[0];
     const pointLong = featureSelected.getGeometry().flatCoordinates[0]
     const pointLat = featureSelected.getGeometry().flatCoordinates[1]
     
-
+    console.log(featureSelected)
     
     //map.layers.push(instutition_vectorLayer)
     //map.changed()
     //multi_feature.setStyle(invisible_style)
     //multi_feature.changed()
-
+    
     let feature_type = featureSelected.id_.split("_")[0]
     let feature_name = featureSelected.id_.split("_")[1]
+    let feature_id = feature_name + "_" + featureSelected.id_.split("_")[2]
+    console.log(featureSelected.values_.geometry.flatCoordinates)
+
+    let pointCoords = featureSelected.getGeometry().flatCoordinates
+    
+
     if(feature_type === "location"){
       d3.select("#selected-location").text(feature_name)
       d3.select("#selected-location-author").text(feature_name)
@@ -253,14 +259,27 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
       for(let entry in converted_line){
         
         let current_line = converted_line[entry]
-        let line_location = current_line.getProperties()['location']
+
         const lineCoords = current_line.getGeometry().flatCoordinates
-        
-        if(line_location === feature_name){
-          
+        //console.log(pointCoords)
+        //console.log(lineCoords)
+        if(pointCoords[0] == lineCoords[0] && pointCoords[1] == lineCoords[1]){
+          console.log("test")
+          console.log(pointCoords)
+          console.log(lineCoords)
           current_line.setStyle(feature_style)
         }else{
           current_line.setStyle(invisible_style)
+        }
+        
+        let line_location = current_line.getProperties()['location']
+        
+        
+        if(line_location === feature_name){
+          
+          //current_line.setStyle(feature_style)
+        }else{
+          //current_line.setStyle(invisible_style)
         }
         
       }
