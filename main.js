@@ -89,8 +89,7 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
     
   }
 
-  console.log(points.length)
-  console.log(pins.length)
+  
   let feature_style = new Style({
     stroke: new Stroke({
       color: 'rgba(5, 28, 239, 1.0)',
@@ -218,7 +217,7 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
   let popover
 
   var selectedStyleFunction = function(feature, resolution){
-    console.log(feature)
+    
     return selectedStyle
   }
 
@@ -233,7 +232,7 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
     const pointLong = featureSelected.getGeometry().flatCoordinates[0]
     const pointLat = featureSelected.getGeometry().flatCoordinates[1]
     
-    console.log(featureSelected)
+    
     
     //map.layers.push(instutition_vectorLayer)
     //map.changed()
@@ -243,7 +242,7 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
     let feature_type = featureSelected.id_.split("_")[0]
     let feature_name = featureSelected.id_.split("_")[1]
     let feature_id = feature_name + "_" + featureSelected.id_.split("_")[2]
-    console.log(featureSelected.values_.geometry.flatCoordinates)
+    
 
     let pointCoords = featureSelected.getGeometry().flatCoordinates
     
@@ -261,12 +260,8 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
         let current_line = converted_line[entry]
 
         const lineCoords = current_line.getGeometry().flatCoordinates
-        //console.log(pointCoords)
-        //console.log(lineCoords)
+    
         if(pointCoords[0] == lineCoords[0] && pointCoords[1] == lineCoords[1]){
-          console.log("test")
-          console.log(pointCoords)
-          console.log(lineCoords)
           current_line.setStyle(feature_style)
         }else{
           current_line.setStyle(invisible_style)
@@ -274,13 +269,6 @@ readAllData(location_file, works_file, location_to_works_file, all_insitutions, 
         
         let line_location = current_line.getProperties()['location']
         
-        
-        if(line_location === feature_name){
-          
-          //current_line.setStyle(feature_style)
-        }else{
-          //current_line.setStyle(invisible_style)
-        }
         
       }
     }

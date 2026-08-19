@@ -98,7 +98,7 @@ function makeEntry(element, list){
             chapterVis.style("background", allData.chapter_color[chapter])
             chapterVis.text(chapter)
         }*/
-
+        /*
         let seedButton = seedWrapper.append("img")
         seedWrapper.append("text").text("Set Seed")
         seedButton.attr("src", "res/seed.svg")
@@ -106,7 +106,7 @@ function makeEntry(element, list){
         seedButton.attr("class", "button")
         seedButton.on("click", () =>{
             setSeed(element)
-        })
+        })*/
         let moreInfoButton = moreInfoWrapper.append("img")
         moreInfoButton.append("text").text("More Info")
         moreInfoButton.attr("src", "res/MoreDetails.svg")
